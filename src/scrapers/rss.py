@@ -80,16 +80,16 @@ class RSSScraper(BaseScraper):
             # Parse feed
             feed = feedparser.parse(response.text)
 
-            for entry in feed.entries:
-                # Parse published date
-                published_at = self._parse_date(entry)
-                if not published_at or published_at < since:
+            fetch_limit = getattr(source, "fetch_limit", None)
+            for entry in (feed.entries[:fetch_limit] if fetch_limit else feed.entries):
+                # Parse published date; treat undated entries as current (e.g. GitHub Trending)
+                published_at = self._parse_date(entry) or datetime.now(tz=timezone.utc)
+                if published_at < since:
                     continue
 
                 # Generate unique ID from feed URL and entry ID
                 feed_id = str(source.url).split("//")[1].replace("/", "_")
                 entry_id = entry.get("id", entry.get("link", ""))
-                unique_id = f"{feed_id}:{hash(entry_id)}"
 
                 # Extract content
                 content = self._extract_content(entry)

@@ -2,7 +2,7 @@
   "version": "1.0",
   "ai": {
     "provider": "openai",
-    "model": "deepseek-v4-flash",
+    "model": "deepseek-chat",
     "base_url": "https://api.deepseek.com",
     "api_key_env": "OPENAI_API_KEY",
     "temperature": 0.3,
@@ -51,15 +51,86 @@
         "category": "ai-tools"
       },
       {
-        "name": "GitHub Trending - Daily",
+        "name": "GitHub Trending - Daily (All)",
         "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/all.xml",
         "enabled": true,
-        "category": "github-trending"
+        "category": "github-trending",
+        "fetch_limit": 15
+      },
+      {
+        "name": "GitHub Trending - Python",
+        "url": "https://mshibanami.github.io/GitHubTrendingRSS/daily/python.xml",
+        "enabled": true,
+        "category": "github-trending",
+        "fetch_limit": 10
+      },
+      {
+        "name": "arXiv - AI",
+        "url": "https://arxiv.org/rss/cs.AI",
+        "enabled": true,
+        "category": "paper-ai",
+        "fetch_limit": 10
+      },
+      {
+        "name": "arXiv - Machine Learning",
+        "url": "https://arxiv.org/rss/cs.LG",
+        "enabled": true,
+        "category": "paper-ai",
+        "fetch_limit": 10
+      },
+      {
+        "name": "arXiv - NLP",
+        "url": "https://arxiv.org/rss/cs.CL",
+        "enabled": true,
+        "category": "paper-ai",
+        "fetch_limit": 10
+      },
+      {
+        "name": "arXiv - Computer Vision",
+        "url": "https://arxiv.org/rss/cs.CV",
+        "enabled": true,
+        "category": "paper-cs",
+        "fetch_limit": 10
+      },
+      {
+        "name": "arXiv - Data Science & Statistics",
+        "url": "https://arxiv.org/rss/stat.ML",
+        "enabled": true,
+        "category": "paper-data-science",
+        "fetch_limit": 10
+      },
+      {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/feed/",
+        "enabled": true,
+        "category": "ai-news",
+        "fetch_limit": 10
+      },
+      {
+        "name": "VentureBeat AI",
+        "url": "https://venturebeat.com/category/ai/feed/",
+        "enabled": true,
+        "category": "ai-news",
+        "fetch_limit": 10
+      },
+      {
+        "name": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/news/rssindex",
+        "enabled": true,
+        "category": "finance",
+        "fetch_limit": 15
+      },
+      {
+        "name": "MarketWatch",
+        "url": "https://feeds.content.dowjones.io/public/rss/mw_marketpulse",
+        "enabled": true,
+        "category": "finance",
+        "fetch_limit": 15
       },
       {
         "name": "LWN.net",
         "url": "https://lwn.net/headlines/full_text?key=${LWN_KEY}",
-        "enabled": true,
+        "enabled": false,
         "category": "linux-kernel"
       }
     ],
@@ -87,17 +158,17 @@
       "fetch_comments": 10
     },
     "telegram": {
-      "enabled": true,
+      "enabled": false,
       "channels": [
         {
           "channel": "zaihuapd",
-          "enabled": true,
+          "enabled": false,
           "fetch_limit": 20
         }
       ]
     },
     "twitter": {
-      "enabled": true,
+      "enabled": false,
       "users": [
         "karpathy",
         "roifex"
@@ -110,7 +181,7 @@
     }
   },
   "filtering": {
-    "ai_score_threshold": 8.0,
+    "ai_score_threshold": 7.5,
     "time_window_hours": 24
   },
   "webhook": {

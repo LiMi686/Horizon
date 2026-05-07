@@ -1,6 +1,6 @@
 """Core data models for Horizon."""
 
-from datetime import datetime
+from datetime import datetime, timezone
 from enum import Enum
 from typing import Optional, List, Dict, Any, Union
 from pydantic import BaseModel, HttpUrl, Field
@@ -26,7 +26,7 @@ class ContentItem(BaseModel):
     content: Optional[str] = None
     author: Optional[str] = None
     published_at: datetime
-    fetched_at: datetime = Field(default_factory=datetime.utcnow)
+    fetched_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
     metadata: Dict[str, Any] = Field(default_factory=dict)
 
     # AI analysis results
@@ -88,6 +88,7 @@ class RSSSourceConfig(BaseModel):
     url: HttpUrl
     enabled: bool = True
     category: Optional[str] = None
+    fetch_limit: Optional[int] = None
 
 
 class RedditSubredditConfig(BaseModel):
