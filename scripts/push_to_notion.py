@@ -78,6 +78,8 @@ def append_blocks(page_id: str, blocks: list[dict]):
             json={"children": blocks[i:i + 100]},
             timeout=60.0,
         )
+        if not resp.is_success:
+            print(f"  Notion API error {resp.status_code}: {resp.text[:500]}", file=sys.stderr)
         resp.raise_for_status()
 
 
@@ -150,10 +152,12 @@ def papers_section_blocks(papers: list[dict]) -> list[dict]:
             "object": "block", "type": "paragraph",
             "paragraph": {"rich_text": rich_text(strip_md(summary_text))},
         })
-        # Link as bookmark
+        # Link as plain paragraph
         blocks.append({
-            "object": "block", "type": "bookmark",
-            "bookmark": {"url": url},
+            "object": "block", "type": "paragraph",
+            "paragraph": {"rich_text": [{"type": "text", "text": {
+                "content": url, "link": {"url": url}
+            }}]},
         })
 
     return blocks
