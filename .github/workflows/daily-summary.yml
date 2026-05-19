@@ -2,7 +2,7 @@ name: Daily Horizon Summary
 
 on:
   schedule:
-    - cron: '0 12 * * *'  # 08:00 EDT (UTC-4) = 12:00 UTC
+    - cron: '0 22 * * *'  # 06:00 CST (UTC+8) = 22:00 UTC previous day
   workflow_dispatch:        # Allow manual trigger
 
 jobs:
@@ -42,6 +42,11 @@ jobs:
           NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: uv run python scripts/push_to_notion.py
+
+      - name: Send email summary
+        env:
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+        run: uv run python scripts/send_email_summary.py
 
       - name: Set current date
         run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV

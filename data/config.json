@@ -128,6 +128,27 @@
         "fetch_limit": 15
       },
       {
+        "name": "BBC Health",
+        "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
+        "enabled": true,
+        "category": "health",
+        "fetch_limit": 10
+      },
+      {
+        "name": "ScienceDaily Health",
+        "url": "https://www.sciencedaily.com/rss/health_medicine.xml",
+        "enabled": true,
+        "category": "health",
+        "fetch_limit": 10
+      },
+      {
+        "name": "WHO News",
+        "url": "https://www.who.int/rss-feeds/news-english.xml",
+        "enabled": true,
+        "category": "health",
+        "fetch_limit": 10
+      },
+      {
         "name": "LWN.net",
         "url": "https://lwn.net/headlines/full_text?key=${LWN_KEY}",
         "enabled": false,
