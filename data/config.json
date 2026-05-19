@@ -128,6 +128,27 @@
         "fetch_limit": 15
       },
       {
+        "name": "US Dept of Labor",
+        "url": "https://www.dol.gov/rss/releases.xml",
+        "enabled": true,
+        "category": "us-labor-policy",
+        "fetch_limit": 10
+      },
+      {
+        "name": "Immihelp Visa News",
+        "url": "https://www.immihelp.com/rss/",
+        "enabled": true,
+        "category": "visa",
+        "fetch_limit": 10
+      },
+      {
+        "name": "Immigration Impact",
+        "url": "https://immigrationimpact.com/feed/",
+        "enabled": true,
+        "category": "visa",
+        "fetch_limit": 10
+      },
+      {
         "name": "BBC Health",
         "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
         "enabled": true,

@@ -24,8 +24,10 @@ SENDER_NAME = "科技日报 Horizon"
 SUMMARIES_DIR = Path(__file__).parent.parent / "data" / "summaries"
 SUBSCRIBERS_FILE = Path(__file__).parent.parent / "data" / "subscribers.json"
 
-# 过滤掉论文类来源
-EXCLUDED_SOURCES = {"arxiv", "arXiv", "paper-ai", "paper-cs", "paper-data-science"}
+# 爸爸邮件只保留这些来源关键词（白名单）
+# 过滤掉：arXiv论文、签证、劳工局
+EMAIL_EXCLUDED_KEYWORDS = ["arxiv", "arXiv", "immihelp", "Immigration", "Dept of Labor",
+                           "visa", "National Immigration"]
 
 
 def load_subscribers() -> list[str]:
@@ -35,14 +37,13 @@ def load_subscribers() -> list[str]:
 
 
 def filter_summary(text: str) -> str:
-    """Remove arXiv paper items from summary markdown."""
+    """Keep only finance/AI/tech/health items for dad's email."""
     sections = re.split(r"\n---\n", text)
     filtered = [sections[0]]  # keep header
 
     for section in sections[1:]:
-        # Skip arXiv items
-        source_line = re.search(r"^rss · (arXiv|arxiv)", section, re.MULTILINE)
-        if source_line:
+        # Skip items from excluded sources
+        if any(kw in section for kw in EMAIL_EXCLUDED_KEYWORDS):
             continue
         filtered.append(section)
 
