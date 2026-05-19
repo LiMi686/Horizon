@@ -180,6 +180,16 @@
       "reply_min_likes": 5
     }
   },
+  "email": {
+    "enabled": true,
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 465,
+    "imap_server": "imap.gmail.com",
+    "imap_port": 993,
+    "email_address": "lim33746@gmail.com",
+    "password_env": "EMAIL_PASSWORD",
+    "sender_name": "科技日报 Horizon"
+  },
   "filtering": {
     "ai_score_threshold": 7.5,
     "time_window_hours": 24

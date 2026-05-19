@@ -26,11 +26,15 @@ jobs:
       - name: Install dependencies
         run: uv sync
 
+      - name: Create subscribers list
+        run: echo '${{ secrets.EMAIL_SUBSCRIBERS }}' > data/subscribers.json
+
       - name: Run Horizon
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
         run: uv run horizon --hours 24
 
       - name: Push to Notion
