@@ -5,202 +5,265 @@ date: 2026-08-07
 lang: en
 ---
 
-> From 94 items, 37 important content pieces were selected
+> From 94 items, 33 important content pieces were selected
 
 ---
 
-1. [Uber Open-Sources ADR: Enterprise Security for AI Agents](#item-1) ⭐️ 9.0/10
-2. [AMD acquires Taalas to hardwire AI models into silicon for faster inference](#item-2) ⭐️ 8.0/10
-3. [Mario Kart Character Selection via Pareto Frontier](#item-3) ⭐️ 8.0/10
-4. [Taste as the Last Human Edge in AI-Driven Coding](#item-4) ⭐️ 8.0/10
-5. [Qwen3.8 Max tops Agentic Index, signaling China's AI catch-up](#item-5) ⭐️ 8.0/10
-6. [Datasette 1.0a38 fixes SQL injection in mixed public/private table setups](#item-6) ⭐️ 8.0/10
-7. [Cloudflare Computer: Virtual Filesystem for Agents](#item-7) ⭐️ 8.0/10
-8. [System Design Primer: Comprehensive Open-Source Guide with Anki Flashcards](#item-8) ⭐️ 8.0/10
-9. [Addy Osmani Releases Production-Grade Skills for AI Coding Agents](#item-9) ⭐️ 8.0/10
-10. [AirLLM Runs 70B LLMs on 4GB GPU Without Quantization](#item-10) ⭐️ 8.0/10
-11. [Self-Verifying Agent Instrument Dissociates Commitment Drift from Binding Drift](#item-11) ⭐️ 8.0/10
-12. [MCTS-Report: MCTS-Driven Multimodal Report Generation from Tables](#item-12) ⭐️ 8.0/10
-13. [BrainBench: A New Benchmark for Comprehensive EEG Understanding in LLMs](#item-13) ⭐️ 8.0/10
-14. [Domain-Free Metacognitive Layer Boosts Robustness of Pre-trained Perception Models](#item-14) ⭐️ 8.0/10
-15. [MatrAIx: Population-Scale Simulated-User Evaluation with 8.3B Personas](#item-15) ⭐️ 8.0/10
-16. [RAIL Principles Offer Unified Framework for Neurosymbolic AI](#item-16) ⭐️ 8.0/10
-17. [Trust-Region Framework Unifies Adaptive Optimizers, Proposes GMake](#item-17) ⭐️ 8.0/10
-18. [Tactus: Open-Vocabulary Tactile Recognition from Low-Cost Pressure Arrays](#item-18) ⭐️ 8.0/10
-19. [RRQ: Progressive Multi-Precision Quantization for LLMs from a Single Checkpoint](#item-19) ⭐️ 8.0/10
-20. [LLM Prompting Wins EvaLatin 2026 NER for Classical Latin](#item-20) ⭐️ 8.0/10
-21. [Position-Dependent Repetition Effects Challenge Cloze Probe Assumptions](#item-21) ⭐️ 8.0/10
-22. [Output-Token Caps Skew Multilingual Reasoning Benchmarks](#item-22) ⭐️ 8.0/10
-23. [LLMs Implement Conditional Rules via Separate Test and Route Modules](#item-23) ⭐️ 8.0/10
-24. [LoRetta: Foundation Model for Global Remote Sensing Dense Matching](#item-24) ⭐️ 8.0/10
-25. [GEB-Bench: Benchmarking Abstract Structural Reasoning Across Voices](#item-25) ⭐️ 8.0/10
-26. [mmMind: Pose-Guided Radar-Language Model for Human Behavior Understanding](#item-26) ⭐️ 8.0/10
-27. [RUTA: Principled Visual Token Allocation via Rate-Utility Optimization](#item-27) ⭐️ 8.0/10
-28. [Regularization Justified via Statistical Learning Theory and Occam's Razor](#item-28) ⭐️ 8.0/10
-29. [AutoSI Automates Selective Inference for Rational Algorithms](#item-29) ⭐️ 8.0/10
-30. [ILDM: Hybrid Diffusion on Unknown Manifolds for Generative Modeling](#item-30) ⭐️ 8.0/10
-31. [Stable Density Ridges: Correcting SCMS Convergence Theory](#item-31) ⭐️ 8.0/10
-32. [New Theory Links Entropy, Topology to Explain Deep Learning Generalization](#item-32) ⭐️ 8.0/10
-33. [Learning as Gradient Flow on Product Wasserstein Manifolds](#item-33) ⭐️ 8.0/10
-34. [Auditing Subgroup Under-Coverage in Conformal Prediction for Alzheimer's](#item-34) ⭐️ 8.0/10
-35. [Matching Sample Complexity Bounds for Multilevel Multicalibration](#item-35) ⭐️ 8.0/10
-36. [ArborEnum: First Exact Enumeration of Decision Tree Rashomon Sets with Continuous Features](#item-36) ⭐️ 8.0/10
-37. [AI Designs 16 Functional Viruses, Raising Safety Concerns](#item-37) ⭐️ 8.0/10
+1. [DeepSeek V4 Flash 0731 Released with Major Performance and Cost Gains](#item-1) ⭐️ 8.0/10
+2. [Tech Worker Disillusionment: A Crisis of Faith](#item-2) ⭐️ 8.0/10
+3. [Oracle Bans AI-Generated Code from OpenJDK](#item-3) ⭐️ 8.0/10
+4. [Postgres 300x Faster for Analytics via Rust Engine](#item-4) ⭐️ 8.0/10
+5. [2027 Memory Capacity Reportedly Sold Out Due to AI Demand](#item-5) ⭐️ 8.0/10
+6. [A Year of Fighting Scrapers on a 1.5M-Page Site](#item-6) ⭐️ 8.0/10
+7. [New Mexico Court Orders Meta to Pay $567M Over Child Mental Health Harms](#item-7) ⭐️ 8.0/10
+8. [Wyzer: A New Language for Distributed Deadlock Safety](#item-8) ⭐️ 8.0/10
+9. [Addy Osmani's Agent Skills: Production-Grade Engineering Workflows for AI Coding Agents](#item-9) ⭐️ 8.0/10
+10. [Cloudflare Computer: Virtual Filesystem for Agents](#item-10) ⭐️ 8.0/10
+11. [AutoGPT: Open-Source Platform for Autonomous AI Agents](#item-11) ⭐️ 8.0/10
+12. [Uber Open-Sources ADR, an Enterprise Security System for AI Agents](#item-12) ⭐️ 8.0/10
+13. [Ignition Index: New Metric Measures Global Workspace Dynamics in LLMs](#item-13) ⭐️ 8.0/10
+14. [Woodpecker Distillation: Weak Models Fix Strong Model Reasoning Bugs](#item-14) ⭐️ 8.0/10
+15. [Otter: Time-Aware, History-Conditioned Human Chess AI](#item-15) ⭐️ 8.0/10
+16. [SearchAuditor: Auditing and Repairing Long-Horizon Search Agent Failures](#item-16) ⭐️ 8.0/10
+17. [CRAFTER: Agent for Corrective Feature Discovery on Black-Box Forecasters](#item-17) ⭐️ 8.0/10
+18. [PPDL: Probabilistic Programming for LLM-Based Flows](#item-18) ⭐️ 8.0/10
+19. [Decoupling Perception from Description for Time-Series-Language Alignment](#item-19) ⭐️ 8.0/10
+20. [Marginal Matching Fails to Prevent Style Leakage in Factorized Generative Models](#item-20) ⭐️ 8.0/10
+21. [Mean-Field Theory Models Chain-of-Thought Reasoning in LLMs](#item-21) ⭐️ 8.0/10
+22. [GraphRAG Over-Citation Universal, Faithfulness Impact Conditional](#item-22) ⭐️ 8.0/10
+23. [Scaffold-Mediated Post-Training Co-Evolves Parameters and Procedural Scaffolds](#item-23) ⭐️ 8.0/10
+24. [LLMs Threaten Double-Blind Review by De-Anonymizing Authors](#item-24) ⭐️ 8.0/10
+25. [Circuit-Anchored Evolution Prevents LLM Safety Drift](#item-25) ⭐️ 8.0/10
+26. [Hateful Visual Stories: Evaluating Multi-Turn T2I Generation](#item-26) ⭐️ 8.0/10
+27. [Deep Generalized Mixed Models: A Novel Neural Network for Hierarchical Data](#item-27) ⭐️ 8.0/10
+28. [Finite-Sample Guarantees for Localized Conformal Prediction](#item-28) ⭐️ 8.0/10
+29. [Early-Stopped Gradient Descent Achieves Minimax-Optimal Classification](#item-29) ⭐️ 8.0/10
+30. [Logarithmic Cost Inherent in Learning with Monotone Adversaries](#item-30) ⭐️ 8.0/10
+31. [Scalable VARMA Estimation Framework Removes Series-Length Dependence](#item-31) ⭐️ 8.0/10
+32. [FlowAdam: Hybrid Optimizer with Soft Momentum Injection](#item-32) ⭐️ 8.0/10
+33. [Blocking SLC6A20 Improves Autism Behaviors in Adult Mice and Organoids](#item-33) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Uber Open-Sources ADR: Enterprise Security for AI Agents](https://github.com/uber/ADR) ⭐️ 9.0/10
+## [DeepSeek V4 Flash 0731 Released with Major Performance and Cost Gains](https://arcprize.org/results/deepseek-v4-flash-0731) ⭐️ 8.0/10
 
-Uber has open-sourced ADR (Agentic AI Detection and Response), a production-grade security system for enterprise AI agents, including the ADR Sensor, ADR-Bench, and ADR Detector components. The system is deployed at Uber and the accompanying paper was accepted to MLSys 2026. This release addresses a critical emerging area—AI agent security—with a production-proven solution, providing enterprises with tools to observe, benchmark, and detect threats in AI agents. It sets a precedent for open-source security frameworks in the rapidly growing AI agent ecosystem. ADR-Bench includes 300+ tasks, 133 MCP servers, and coverage of all 17 agent attack techniques. The ADR Prevention component is not included in the current open-source release, and the offline ADR Explorer engine is also excluded.
+DeepSeek has officially released DeepSeek V4 Flash 0731, a major update to its Flash model that supersedes the preview version and delivers substantially enhanced agentic capabilities. The model is a sparse mixture-of-experts architecture with 13B active parameters out of 284B total, and it is available via API at $0.09 per million input tokens and $0.18 per million output tokens. This release is significant because it offers a compelling combination of high performance, speed, and low cost, making advanced AI more accessible for a wide range of applications. The positive community reception and strong benchmark scores suggest it could become a popular choice for developers and businesses seeking cost-effective AI solutions. The model supports a 1M token context window and scores 52 on the Artificial Analysis Intelligence Index (Reasoning, Max Effort), placing it above average among comparable models. It can be run locally, with one user reporting ~8k tok/s prefill and ~250 tok/s on a single stream using 2x RTX Pro 6000 Blackwell GPUs.
 
-rss · GitHub Trending - Daily (All) · Aug 7, 01:28
+hackernews · tosh · Aug 7, 17:56 · [Discussion](https://news.ycombinator.com/item?id=49214008)
 
-**Background**: AI agents, such as coding assistants and customer support bots, operate through the Model Context Protocol (MCP) and can perform actions on behalf of users, introducing new security risks. ADR provides observability, benchmarking, and detection to secure these agents, leveraging a two-tier architecture for efficient threat detection.
+**Background**: DeepSeek is a Chinese AI company known for developing open-weight large language models. The V4 Flash series is designed to offer a balance of performance and efficiency, with the 0731 update being the official release following an earlier preview. The model's sparse mixture-of-experts architecture allows it to activate only a fraction of its parameters per token, contributing to its cost and speed advantages.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2605.17380">ADR : An Agentic Detection System for Enterprise Agentic AI Security</a></li>
-<li><a href="https://mlsys.org/">2026 Conference</a></li>
+<li><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731">deepseek-ai/DeepSeek-V4-Flash-0731 · Hugging Face</a></li>
+<li><a href="https://artificialanalysis.ai/models/deepseek-v4-flash">DeepSeek V 4 Flash 0731 (max) - Intelligence, Performance & Price...</a></li>
+<li><a href="https://openrouter.ai/deepseek/deepseek-v4-flash-0731">DeepSeek V4 Flash 0731 - API Pricing & Benchmarks | OpenRouter</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI security`, `#AI agents`, `#MLSys`, `#Uber`, `#open source`
+**Discussion**: Community comments are largely positive, with users praising the model's speed, capability, and cost-effectiveness. One user noted it's 'good enough to use it for (almost) everything' and cheap enough that costs are irrelevant, while another highlighted the speed as a killer feature. Some users expressed a desire for a multimodal model of similar quality and price, and one user mentioned that peak-time pricing is defined relative to China, which may affect users outside Asia.
+
+**Tags**: `#AI`, `#DeepSeek`, `#LLM`, `#Model Release`, `#Machine Learning`
 
 ---
 
 <a id="item-2"></a>
-## [AMD acquires Taalas to hardwire AI models into silicon for faster inference](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) ⭐️ 8.0/10
+## [Tech Worker Disillusionment: A Crisis of Faith](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/) ⭐️ 8.0/10
 
-AMD announced on August 6, 2026, that it has reached a definitive agreement to acquire Taalas, a Toronto-based startup specializing in AI inference silicon. Taalas' technology etches specific AI models directly onto the chip's transistors, enabling significantly faster inference performance. This acquisition positions AMD to compete more aggressively in the AI hardware market, particularly against NVIDIA, by offering specialized inference solutions that could deliver up to 10x performance gains. It also addresses the growing demand for efficient AI inference, potentially reshaping the competitive landscape and giving AMD a unique edge in the rapidly expanding AI sector. Taalas has raised $169 million in funding and demonstrated a chip running Llama 3.1 8B at 17,000 tokens per second, nearly 10x faster than NVIDIA's H200. AMD plans to integrate Taalas' technology with its Instinct GPUs to deliver system-level solutions, though the financial terms of the deal were not disclosed.
+An article on Noema Magazine explores the widespread sadness and loss of faith among tech workers, drawing parallels to historical occupational declines like that of printers. The piece has sparked a rich discussion on Hacker News, with 275 points and 411 comments. This article highlights a significant and timely issue: the disillusionment of tech workers, which could have broad implications for the industry's future, including talent retention and innovation. The high engagement suggests it resonates deeply with many in the tech community, reflecting a broader trend of career dissatisfaction. The article and discussion draw parallels between the decline of the printing trade and the current state of tech, noting that technological shifts can render entire careers obsolete. Commenters also point to the toxic nature of the online world and the 'K-shaped' economy as contributing factors to tech worker sadness.
 
-hackernews · itvision · Aug 6, 20:23 · [Discussion](https://news.ycombinator.com/item?id=49201970)
+hackernews · RickJWagner · Aug 7, 12:42 · [Discussion](https://news.ycombinator.com/item?id=49209539)
 
-**Background**: AI inference is the process of running trained AI models to make predictions, which is critical for applications like chatbots and image recognition. Traditional GPUs are general-purpose and flexible but may not be optimal for specific models. Taalas' approach of hardwiring models into silicon sacrifices flexibility for speed and efficiency, a trade-off that could be beneficial for stable, widely-used models. This acquisition reflects a broader industry trend toward specialized AI hardware, as seen with Google's TPUs and other custom accelerators.
+**Background**: The tech industry has long been seen as a source of high-paying, stable jobs, but recent years have seen layoffs, burnout, and a sense of meaninglessness among workers. The article references historical examples like printers, whose skilled trade disappeared with technological advances, to question what might happen to tech workers if they lose faith in their careers.
 
-<details><summary>References</summary>
-<ul>
-<li><a href="https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market">AMD Acquires Taalas to Advance Compute Solutions for Rapidly ...</a></li>
-<li><a href="https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html">AMD buys Taalas, startup that hardwires AI models into its ...</a></li>
-<li><a href="https://www.unite.ai/amd-buys-taalas-to-put-hard-wired-ai-models-in-its-accelerator-roadmap/">AMD Buys Taalas to Put Hard-Wired AI Models in Its ... - Unite.AI</a></li>
+**Discussion**: Commenters expressed a range of views: some drew historical parallels to the decline of printers, others highlighted the toxicity of the online world as a major factor, and some shared personal experiences of disillusionment. A few offered counterpoints, such as the false escape of grounded occupations without tech salaries.
 
-</ul>
-</details>
-
-**Discussion**: The community discussion shows mixed reactions. Some express excitement about the potential for 100x speed improvements in AI intelligence, while others question the practicality given rapid model churn, noting that silicon-etched models might become outdated quickly. There is also surprise that OpenAI or Anthropic didn't make this move first, and a comment highlights that AMD's entry into memory technology could reduce dependence on Hynix, addressing memory bottlenecks.
-
-**Tags**: `#AMD`, `#AI hardware`, `#acquisition`, `#inference`, `#silicon`
+**Tags**: `#tech industry`, `#worker morale`, `#mental health`, `#career disillusionment`, `#online culture`
 
 ---
 
 <a id="item-3"></a>
-## [Mario Kart Character Selection via Pareto Frontier](https://www.mayerowitz.io/blog/mario-meets-pareto) ⭐️ 8.0/10
+## [Oracle Bans AI-Generated Code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) ⭐️ 8.0/10
 
-The article applies the Pareto frontier concept to analyze Mario Kart character stats, identifying optimal character choices that balance trade-offs between speed and acceleration. It provides a practical framework for players to make informed decisions based on their preferences. This analysis bridges game design and algorithmic thinking, offering a clear example of multi-objective optimization that resonates with both gamers and developers. It demonstrates how a mathematical concept can be applied to everyday decision-making, potentially influencing how players approach character selection and how developers balance game mechanics. The article likely uses a dataset of Mario Kart character stats, plotting each character's speed and acceleration to compute the Pareto frontier. Characters on the frontier are not dominated by others, meaning no other character is better in both stats, while those inside the frontier are suboptimal. The analysis may also discuss how different play styles (e.g., speedrunning vs. casual play) lead to different optimal choices.
+Oracle has implemented an interim policy banning AI-generated code from OpenJDK contributions, effective April 9, 2026. The policy prohibits content generated in part or in full by large language models, diffusion models, or similar deep-learning systems. This policy affects the widely-used OpenJDK project, potentially impacting developers and companies that rely on Java. It highlights the growing tension between AI-assisted development and legal/security concerns in open-source communities. Developers may still use AI tools privately for debugging, reviewing, and research, but cannot submit AI-generated content. Even partially AI-generated code, such as 100 lines with only a few modifications, is not permitted.
 
-hackernews · theanonymousone · Aug 6, 11:24 · [Discussion](https://news.ycombinator.com/item?id=49195231)
+hackernews · delduca · Aug 7, 17:36 · [Discussion](https://news.ycombinator.com/item?id=49213754)
 
-**Background**: The Pareto frontier, also known as the Pareto front, is a concept from economics and engineering that represents the set of choices where no single objective can be improved without worsening another. In multi-objective optimization, it helps identify trade-offs between conflicting goals. In Mario Kart, characters have varying stats like speed and acceleration, and players must balance these to suit their play style. This analysis applies the Pareto frontier to visualize which characters offer the best trade-offs.
+**Background**: OpenJDK is the open-source implementation of the Java platform, stewarded by Oracle. The interim policy was approved by the Governing Board while a final version is being drafted by lawyers, reflecting concerns about copyright and provenance similar to past Java legal disputes.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Pareto_front">Pareto front - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Pareto_efficiency">Pareto efficiency - Wikipedia</a></li>
-<li><a href="https://www.ign.com/wikis/mario-kart-world/All_Character_Stats_and_Weight_Classes_Explained">All Character Stats and Weight Classes Explained - Mario Kart ...</a></li>
+<li><a href="https://openjdk.org/legal/ai">OpenJDK Interim Policy on Generative AI</a></li>
+<li><a href="https://www.techzine.eu/news/devops/143395/oracle-bans-ai-generated-contributions-to-openjdk/">Oracle bans AI -generated contributions to OpenJDK - Techzine Global</a></li>
+<li><a href="https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code">Oracle bans AI-generated code from OpenJDK despite Ellison's claim 'Oracle isn't writing' its own code | Dealroom.co</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion highlights the broader applicability of the Pareto concept in software development, with one commenter noting that claims like 'we can't have more security without giving up UX' are only valid if already on the frontier. Another commenter shares a similar analysis for optimizing item builds in World of Warcraft Classic, using a divide-and-conquer approach to handle the massive search space. Speedrunners point out that for speedruns, characters like Bowser at the edge of the frontier are optimal, while casual players may prioritize balance or fun, as one dad mentions optimizing for keeping competitive but likely losing to kids.
+**Discussion**: Community comments express mixed views: some see it as a sensible legal precaution, while others question its practicality and note the irony of Oracle's own AI investments. One commenter points out that the policy may apply mainly to community submissions, not core developers, and another highlights the review burden on maintainers.
 
-**Tags**: `#Pareto frontier`, `#game design`, `#optimization`, `#data analysis`, `#Mario Kart`
+**Tags**: `#OpenJDK`, `#AI policy`, `#Oracle`, `#software development`, `#legal`
 
 ---
 
 <a id="item-4"></a>
-## [Taste as the Last Human Edge in AI-Driven Coding](https://notashelf.dev/posts/taste-is-all-thats-left) ⭐️ 8.0/10
+## [Postgres 300x Faster for Analytics via Rust Engine](https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/) ⭐️ 8.0/10
 
-The article 'Taste Is All That's Left' argues that as AI tools automate mechanical coding tasks, human taste and judgment become the key differentiator in software development. It has sparked a rich discussion on the limitations of LLMs in long-term projects. This matters because it addresses a central debate in software engineering: the role of human intuition and craftsmanship when AI can generate code. It affects how developers, teams, and companies approach AI-assisted development and what skills they prioritize. The article and discussion highlight that LLMs often solve immediate problems but fail to produce coherent results over long-term, multi-developer projects. Experienced developers like mdwelsh note that AI-generated demos may lack real intuition or judgment, though some question whether that matters if the code works.
+The author of pgrust, a Rust-based Postgres query engine, details how batching, operator fusion, and SIMD achieve hundreds of times speedup for analytics workloads. The project has passed 100% of the PostgreSQL regression suite (46,066 queries) and is available as a wasm32 preview. This demonstrates a viable path to dramatically improve Postgres analytics performance, potentially challenging the dominance of specialized OLAP databases. It also highlights the benefits of using Rust and modern techniques like operator fusion and SIMD in database engines. The optimizations include batching rows to reduce per-row overhead, fusing operators to avoid materialization, and using SIMD instructions for parallel data processing. The project emphasizes correctness through formal verification and differential fuzz testing, having proven over 1000 user-facing functions match Postgres logic.
 
-hackernews · tsak · Aug 6, 17:01 · [Discussion](https://news.ycombinator.com/item?id=49199346)
+hackernews · poly2it · Aug 7, 11:00 · [Discussion](https://news.ycombinator.com/item?id=49208535)
 
-**Background**: AI-assisted coding tools, such as GitHub Copilot and ChatGPT, have become increasingly popular, automating repetitive coding tasks. However, they have known limitations, including generating suboptimal or incorrect code, and they struggle with maintaining consistency across large codebases. Human taste—the ability to make aesthetic and pragmatic judgments—is seen as a crucial complement to these tools.
+**Background**: Postgres is a widely used open-source relational database, but its row-based query engine is not optimized for analytical workloads that scan large datasets. pgrust is a from-scratch rewrite of Postgres in Rust, aiming to improve performance while maintaining compatibility. Operator fusion and SIMD are established techniques in modern query engines to reduce CPU and memory bandwidth usage.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://www.linkedin.com/posts/ocama-mohamed_????-have-limitations-in-optimizing-code-activity-7433813266847383552-9l10">LLM Limitations in Code Optimization and AI's Role in Software ...</a></li>
-<li><a href="https://8thlight.com/insights/ai-assisted-coding-is-not-doing-my-dishes-and-laundry">8th Light | AI - assisted Coding is Not Doing My Dishes and Laundry</a></li>
-<li><a href="https://cyprus-mail.com/2026/08/03/why-ai-automation-needs-human-judgement-in-cybersecurity">Why AI automation needs human judgement in ... | Cyprus Mail</a></li>
+<li><a href="https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/">Rebuilding Postgres for 300x faster analytics: batching, operator ...</a></li>
+<li><a href="https://pgrust.com/?trk=public_post_comment-text">pgrust — postgres , rewritten in rust</a></li>
+<li><a href="https://betterstack.com/community/guides/databases/pgrust-postgres/">PGRust : A Rust Rewrite of PostgreSQL ... | Better Stack Community</a></li>
 
 </ul>
 </details>
 
-**Discussion**: The community discussion is thoughtful and varied. Some commenters, like hellojomp, connect taste to broader philosophical ideas, while others like boron1006 express frustration with LLM output quality, especially in writing. mdwelsh shares personal experience, questioning whether AI-generated code has real judgment, and cowboylowrez suggests that 'judgment' might be a more useful term than 'taste'.
+**Discussion**: The author engaged with the community, addressing trust concerns by highlighting formal verification and fuzz testing. Some commenters expressed skepticism about adoption due to trust in the Postgres team, while others praised the adaptive planning potential and asked about embedding pgrust as an alternative to SQLite.
 
-**Tags**: `#AI-assisted development`, `#software engineering`, `#human judgment`, `#LLM limitations`, `#craftsmanship`
+**Tags**: `#Postgres`, `#Rust`, `#Query Engine`, `#Performance`, `#SIMD`
 
 ---
 
 <a id="item-5"></a>
-## [Qwen3.8 Max tops Agentic Index, signaling China's AI catch-up](https://artificialanalysis.ai/?intelligence=agentic-index) ⭐️ 8.0/10
+## [2027 Memory Capacity Reportedly Sold Out Due to AI Demand](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out) ⭐️ 8.0/10
 
-Qwen3.8 Max has been ranked as the best overall model by the Artificial Analysis Agentic Index, surpassing previous leaders like Opus Max. This marks a significant shift in the AI model landscape. This ranking indicates that Chinese AI models are now competitive with or even ahead of Western counterparts in agentic tasks, which are crucial for real-world applications. It could influence developer adoption and investment in local models. The Agentic Index is a composite benchmark measuring agentic capabilities like tool use and planning. However, community members noted that the ranking can fluctuate between refreshes, with Qwen and Opus Max swapping positions, indicating the scores are very close.
+Reports indicate that all memory capacity for 2027 has been booked and sold, with no more DRAM or HBM available. This shortage is driven by surging AI demand, as big AI companies and hyperscalers sign long-term agreements for high-bandwidth memory. This development signals a prolonged memory supply crunch that could impact the entire tech industry, from AI hardware to consumer electronics. It may lead to higher prices and delayed product launches, affecting both businesses and consumers. SK Hynix CEO has predicted 2027 will be the worst year in memory supply history, with demand outstripping supply even beyond 2030. HBM production consumes about three times the wafer capacity of DDR5 for the same number of bits, constraining non-HBM memory supply.
 
-hackernews · apitman · Aug 6, 18:44 · [Discussion](https://news.ycombinator.com/item?id=49200652)
+hackernews · inigyou · Aug 7, 07:58 · [Discussion](https://news.ycombinator.com/item?id=49207236)
 
-**Background**: The Artificial Analysis Agentic Index is part of the Intelligence Index v4.1, which shifted toward agentic workloads. It includes benchmarks like GDPval-AA v2 and Tau3-Banking. Agentic AI refers to models that can autonomously plan and execute tasks, which is a growing focus in AI development.
+**Background**: The memory industry is experiencing a severe supply shortage starting in 2025, driven by the AI boom's demand for high-bandwidth memory (HBM) used in AI accelerators. Major manufacturers like Samsung, SK Hynix, and Micron have shifted production toward HBM, reducing capacity for traditional DRAM and DDR5, which affects consumer products like PCs and smartphones.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://artificialanalysis.ai/models/capabilities/agentic">Best AI for Agentic Tasks: LLM Leaderboard | Artificial Analysis</a></li>
-<li><a href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-1">Artificial Analysis Intelligence Index v4.1: a shift toward agentic workloads</a></li>
+<li><a href="https://www.tweaktown.com/news/113004/memory-capacity-for-all-of-2027-has-reportedly-been-booked-and-sold-with-no-more-dram-or-hbm-available/index.html">Memory capacity for all of 2027 has reportedly been booked and sold...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2025–present_global_memory_supply_shortage">2025–present global memory supply shortage - Wikipedia</a></li>
+<li><a href="https://www.pcmag.com/news/2027-will-be-the-worst-year-in-history-for-memory-supply-says-sk-hynix">2027 Will Be the ‘Worst Year in History’ for Memory Supply, Says SK Hynix CEO | PCMag</a></li>
 
 </ul>
 </details>
 
-**Discussion**: Community sentiment is mixed: some users are excited about Qwen's progress and the potential of smaller local models, while others question benchmark reliability, noting that Opus 5's performance in real use doesn't match its benchmark scores. There are also reports of ranking instability between refreshes.
+**Discussion**: Community comments express concerns about the impact on consumers, with some suggesting a need for a USB-like standard for RAM to reuse old sticks. Others note the technical trade-off between HBM and DDR5 wafer usage, and one user worries about inflationary effects on consumer electronics. A few users express hesitation about adopting AI due to its memory and storage demands.
 
-**Tags**: `#AI`, `#LLM`, `#benchmarks`, `#Qwen`, `#agentic`
+**Tags**: `#memory`, `#hardware`, `#AI`, `#supply chain`, `#HBM`
 
 ---
 
 <a id="item-6"></a>
-## [Datasette 1.0a38 fixes SQL injection in mixed public/private table setups](https://simonwillison.net/2026/Aug/6/datasette/#atom-everything) ⭐️ 8.0/10
+## [A Year of Fighting Scrapers on a 1.5M-Page Site](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/) ⭐️ 8.0/10
 
-Datasette 1.0a38, released on August 6, 2026, fixes a SQL injection vulnerability that affects instances serving a mixture of public and private tables in the same database. The fix is also available in Datasette 0.65.3. This security fix is critical for administrators who expose private tables alongside public ones, as the vulnerability could allow users to access private data via SQL injection despite permission restrictions. It highlights the importance of prompt patching for widely-used data tools. The vulnerability affects instances using the Datasette permissions system to control access to private tables. Administrators are advised to disable the execute-sql permission on affected databases to prevent unauthorized access, as the bug could bypass this restriction.
+The owner of a 1.5-million-page website detailed a year-long battle against scrapers, during which bot traffic accounted for 99% of all requests, causing a 500% spike in hosting costs in one month. They explored various mitigation strategies, including Cloudflare and the proof-of-work-based Anubis tool. This highlights the growing financial and philosophical burden of bot scraping on independent web publishers, forcing them to choose between costly mitigation and openness. It sparks debate about the role of centralized services like Cloudflare in controlling access to the web. The site's normal monthly bill was around $90, but a bad spike month saw a 500% increase, partly due to Cloudflare's D1 database costs. Community members suggested moving to a static site to reduce costs, and recommended Anubis, a proof-of-work challenge that verifies real browsers without relying on third-party services.
 
-rss · Simon Willison · Aug 6, 18:24
+hackernews · petercooper · Aug 7, 14:51 · [Discussion](https://news.ycombinator.com/item?id=49211386)
 
-**Background**: Datasette is an open-source tool for exploring and publishing data, often used to expose SQLite databases as a web interface. It includes a permissions system that allows administrators to control access to tables, including the ability to restrict raw SQL queries via the execute-sql permission. The vulnerability arose because users with access to public tables could craft SQL injection attacks to read private tables in the same database, even when execute-sql was disabled.
+**Background**: Web scraping is the automated extraction of data from websites, often used by AI companies and others to gather large datasets. Bot mitigation techniques include IP filtering, fingerprinting, behavioral analysis, and challenge-based methods like CAPTCHAs or proof-of-work. Cloudflare offers bot management as part of its CDN and security services, but its pricing can be unpredictable for high-traffic sites.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://docs.datasette.io/en/stable/authentication.html">Authentication and permissions - Datasette documentation</a></li>
-<li><a href="https://datasette.io/plugins/datasette-permissions-sql">datasette-permissions-sql - a plugin for Datasette</a></li>
-<li><a href="https://simonwillison.net/2025/Nov/4/datasette-10a20/">A new SQL-powered permissions system in Datasette 1.0a20</a></li>
+<li><a href="https://datadome.co/guides/bot-protection/bot-mitigation/">Bot Mitigation: Top Techniques to Stop Bot Attacks</a></li>
+<li><a href="https://www.imperva.com/learn/application-security/what-are-bots/">What are Bots | Bot Types & Mitigation Techniques | Imperva</a></li>
+<li><a href="https://www.cloudflare.com/plans/free/">Free Plan Overview | Cloudflare</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#security`, `#datasette`, `#sql-injection`, `#release`
+**Discussion**: Commenters expressed concern about outsourcing access decisions to Cloudflare, noting it undermines the open web. Others shared positive experiences with Anubis, which uses proof-of-work to block bots without third-party dependency. Some suggested cost-saving measures like moving to static sites, while one commenter lamented that AI scrapers like Claude fetch thousands of pages without providing compensation or referrals.
+
+**Tags**: `#web scraping`, `#bot mitigation`, `#Cloudflare`, `#website costs`, `#open web`
 
 ---
 
 <a id="item-7"></a>
+## [New Mexico Court Orders Meta to Pay $567M Over Child Mental Health Harms](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta) ⭐️ 8.0/10
+
+A New Mexico state court ordered Meta to pay $567 million in fines for creating a public nuisance that harmed children's mental health, and to implement changes to protect underage users. The ruling, issued on August 6, 2026, follows a lawsuit filed by the state alleging Meta's platforms contributed to a teen mental health crisis. This landmark ruling sets a significant precedent for holding social media companies accountable for child safety under public nuisance law. It could embolden other states and jurisdictions to pursue similar legal actions, potentially reshaping how platforms design features and algorithms for minors. The fine is based on New Mexico's public nuisance law (NMSA 1978 § 30-8-1), and the court found Meta's platforms were a 'significant' contributor to the state's teen mental health crisis. The total judgment is $942 million, but $567 million is the fine portion, with the remainder likely covering other costs or remedies.
+
+hackernews · boplicity · Aug 7, 00:06 · [Discussion](https://news.ycombinator.com/item?id=49204352)
+
+**Background**: Public nuisance law generally refers to conduct that interferes with the rights of the public, such as endangering public health or safety. In recent years, several states have sued social media companies, arguing that their platforms harm children's mental health and constitute a public nuisance. This case is part of a broader trend of increased regulatory scrutiny on tech companies regarding child safety.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://www.forbes.com/sites/siladityaray/2026/08/07/new-mexico-court-orders-meta-to-pay-nearly-1-billion-over-child-safety-issues/">New Mexico Court Orders Meta To Pay Nearly $1 Billion In Landmark Child Safety Case</a></li>
+<li><a href="https://www.theverge.com/policy/923653/meta-new-mexico-public-nuisance-injunctive-relief">New Mexico has a plan to overhaul Facebook and Instagram | The Verge</a></li>
+<li><a href="https://www.law.cornell.edu/wex/public_nuisance">public nuisance | Wex | US Law | LII / Legal Information Institute</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Community comments highlight that while the fine is a small fraction of Meta's global revenue, it is substantial relative to New Mexico's small population of about 2 million. Some users draw parallels to addictive substances, criticizing the design of platforms like Instagram Reels and TikTok. Others note the potential impact on Meta's stock and the need for algorithm changes, especially for younger users.
+
+**Tags**: `#Meta`, `#legal`, `#child safety`, `#social media`, `#regulation`
+
+---
+
+<a id="item-8"></a>
+## [Wyzer: A New Language for Distributed Deadlock Safety](https://github.com/Wyzer-Lang/wyzer) ⭐️ 8.0/10
+
+Wyzer, a statically typed, compiled programming language, is nearing its 0.1.0 release. It integrates choreographic programming and the Perceus memory model to prevent distributed deadlocks and protocol mismatches. This project addresses a critical gap in distributed systems safety, which mainstream languages like Rust do not cover. If successful, it could offer a new paradigm for writing deadlock-free distributed applications, impacting developers and the broader software industry. Wyzer uses linear/affine types and Perceus reference counting instead of borrow checkers and lifetimes, aiming for simpler LSP analysis. The project is early-stage with limited documentation, and the author invites contributions.
+
+hackernews · v0id_isgood · Aug 7, 12:28 · [Discussion](https://news.ycombinator.com/item?id=49209385)
+
+**Background**: Choreographic programming is a paradigm where distributed interactions are written as a single choreography, ensuring deadlock-freedom by construction. Perceus is a garbage-free reference counting memory management technique, originally implemented in the Koka language. Distributed deadlocks occur when multiple nodes wait indefinitely for resources held by each other, a common issue in distributed systems.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Choreographic_programming">Choreographic programming</a></li>
+<li><a href="https://dl.acm.org/doi/10.1145/3453483.3454032">Perceus: garbage free reference counting with reuse | Proceedings of the 42nd ACM SIGPLAN International Conference on Programming Language Design and Implementation</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Distributed_deadlock">Distributed deadlock</a></li>
+
+</ul>
+</details>
+
+**Discussion**: Commenters praised the ambition and novelty, but requested clearer documentation and more examples. Some questioned how distributed deadlock freedom is guaranteed, and others appreciated the clear project motivation.
+
+**Tags**: `#programming-language`, `#distributed-systems`, `#choreographic-programming`, `#memory-safety`, `#rust`
+
+---
+
+<a id="item-9"></a>
+## [Addy Osmani's Agent Skills: Production-Grade Engineering Workflows for AI Coding Agents](https://github.com/addyosmani/agent-skills) ⭐️ 8.0/10
+
+Addy Osmani released an open-source repository, addyosmani/agent-skills, containing 24 production-grade engineering skills packaged for AI coding agents. It includes 8 slash commands that map to the development lifecycle, such as /spec, /plan, /build, /test, /review, /webperf, /code-simplify, and /ship, and can be installed via the skills CLI into 70+ agents. This repository addresses a critical gap in AI-assisted development: AI coding agents often skip essential engineering practices like specs, tests, and security reviews. By encoding senior engineer workflows, it has the potential to significantly improve the reliability and quality of AI-generated code, impacting developers and teams who rely on AI agents. The repository provides 8 slash commands that activate relevant skills automatically, and a /build auto command that generates a plan and implements tasks autonomously after a single approval. Skills also activate automatically based on the task, such as api-and-interface-design for API design and frontend-ui-engineering for UI building.
+
+rss · GitHub Trending - Daily (All) · Aug 7, 22:27
+
+**Background**: AI coding agents are tools that assist developers by generating code, but they often take shortcuts, skipping best practices. This repository aims to encode the workflows and quality gates that senior engineers use, ensuring agents follow them consistently. The skills CLI, developed by Vercel Labs, allows installation into 70+ agents like Claude Code, Cursor, and Copilot.
+
+<details><summary>References</summary>
+<ul>
+<li><a href="https://github.com/addyosmani/agent-skills">addyosmani/ agent - skills : Production - grade engineering skills for AI ...</a></li>
+<li><a href="https://www.everydev.ai/tools/addy-osmani-agent-skills">Addy Osmani Agent Skills - Skill Library by Addy Osmani | EveryDev. ai</a></li>
+<li><a href="https://www.linkedin.com/posts/vikrant-bagal_ai-codingagents-softwareengineering-activity-7458348888450691072-aUaF">Production - Grade Engineering Skills for AI Coding Agents | LinkedIn</a></li>
+
+</ul>
+</details>
+
+**Tags**: `#AI coding agents`, `#software engineering`, `#best practices`, `#developer tools`, `#workflow automation`
+
+---
+
+<a id="item-10"></a>
 ## [Cloudflare Computer: Virtual Filesystem for Agents](https://github.com/cloudflare/computer) ⭐️ 8.0/10
 
-Cloudflare has released Cloudflare Computer, a virtual filesystem that lives inside a Durable Object, with the authoritative state stored in SQLite and exposed through a pluggable execution surface. It ships with three backends: a container with a FUSE mount, an isolate shell running just-bash, and an isolate JavaScript backend. This introduces a novel architecture for giving AI agents a persistent, unified workspace, potentially simplifying agent development by abstracting storage and execution. It could influence how agent infrastructure is built on edge platforms, though it is currently a preview for feedback. The Durable Object holds authoritative state in SQLite and exposes a single execution entry point, workspace.runtime.exec(source, { backend }). Backends connect lazily on first use, and a Workspace can be used without any backend, providing just the filesystem. The package is marked as PREVIEW ONLY, with unstable APIs and not suitable for production.
+Cloudflare has released Cloudflare Computer, a virtual filesystem for agents backed by Durable Objects and SQLite, with pluggable execution backends including containers, isolate shell, and isolate JavaScript. It is currently in preview and not for production use. This introduces a novel architecture that combines a virtual filesystem with multiple execution backends, potentially simplifying agent infrastructure by providing a unified state and execution model. It could impact developers building AI agents or serverless applications on Cloudflare's platform. The Durable Object holds authoritative state in SQLite and exposes a single execution surface via workspace.runtime.exec(source, { backend }). Backends connect lazily on first use, and a workspace can be used without a backend for filesystem-only access. The container backend uses a FUSE mount and capnweb RPC, while isolate backends use Workers RPC.
 
-rss · GitHub Trending - Daily (All) · Aug 7, 01:28
+rss · GitHub Trending - Daily (All) · Aug 7, 22:27
 
-**Background**: Cloudflare Durable Objects are a special kind of Worker that combines compute with storage, routing all requests for a given ID to the same instance, providing stateful coordination. FUSE (Filesystem in Userspace) allows non-privileged users to create file systems without kernel code, which the container backend uses to project SQLite state as a real mount. Cap'n Web is a JavaScript-native RPC protocol compatible with Workers RPC, used for syncing changes between the container and the Durable Object.
+**Background**: Cloudflare Durable Objects are a special kind of Cloudflare Worker that combines compute with storage, providing stateful serverless functions. FUSE (Filesystem in Userspace) allows filesystems to be implemented in user space, and capnweb is a JavaScript-native RPC system. This project leverages these technologies to create a virtual filesystem for agents.
 
 <details><summary>References</summary>
 <ul>
 <li><a href="https://developers.cloudflare.com/durable-objects/">Overview · Cloudflare Durable Objects docs</a></li>
-<li><a href="https://en.wikipedia.org/wiki/FUSE_filesystem">FUSE filesystem</a></li>
-<li><a href="https://github.com/cloudflare/capnweb">GitHub - cloudflare/capnweb: JavaScript/TypeScript-native ...</a></li>
+<li><a href="https://github.com/cloudflare/capnweb">GitHub - cloudflare/ capnweb : JavaScript/TypeScript-native...</a></li>
+<li><a href="https://blog.cloudflare.com/capnweb-javascript-rpc-library/">Cap ' n Web : A new RPC system for browsers and web servers</a></li>
 
 </ul>
 </details>
@@ -209,656 +272,505 @@ rss · GitHub Trending - Daily (All) · Aug 7, 01:28
 
 ---
 
-<a id="item-8"></a>
-## [System Design Primer: Comprehensive Open-Source Guide with Anki Flashcards](https://github.com/donnemartin/system-design-primer) ⭐️ 8.0/10
-
-The System Design Primer, a popular open-source GitHub repository, continues to be a leading resource for learning large-scale system design and preparing for system design interviews, featuring Anki flashcards and translations in multiple languages. This resource is significant because system design interviews are a critical component of technical hiring at many tech companies, and this primer provides a structured, community-validated collection of knowledge that helps engineers improve their skills and career prospects. The repository includes study guides, sample interview questions with solutions, diagrams, and Anki flashcard decks that use spaced repetition to aid retention. It has over 334k stars on GitHub and is available in multiple languages, including Simplified Chinese and Japanese.
-
-rss · GitHub Trending - Daily (All) · Aug 7, 01:28
-
-**Background**: System design involves architecting scalable and reliable systems, a broad topic with many scattered resources. The System Design Primer organizes these resources into a coherent guide, making it easier for engineers to learn and practice. Anki is a flashcard app that uses spaced repetition, a technique that optimizes memory retention by scheduling reviews at increasing intervals.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/donnemartin/system-design-primer">GitHub - donnemartin/system-design-primer: Learn how to ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Anki">Anki - Wikipedia</a></li>
-<li><a href="https://grokipedia.com/page/System_Design_Primer_vs_ByteByteGo">System Design Primer vs. ByteByteGo</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#system design`, `#interview prep`, `#education`, `#scalability`, `#open source`
-
----
-
-<a id="item-9"></a>
-## [Addy Osmani Releases Production-Grade Skills for AI Coding Agents](https://github.com/addyosmani/agent-skills) ⭐️ 8.0/10
-
-Addy Osmani has released a GitHub repository, addyosmani/agent-skills, containing 24 production-grade engineering skills for AI coding agents. The repository includes 8 slash commands that map to the development lifecycle, from /spec to /ship, and supports installation across 70+ agents via the skills CLI. This repository addresses the growing need for standardizing AI agent behavior in software development, potentially improving code quality and consistency across projects. By packaging senior engineer workflows into reusable skills, it enables developers to enforce best practices and quality gates consistently, which is significant as AI coding agents become more prevalent. The repository includes 8 slash commands: /spec, /plan, /build, /test, /review, /webperf, /code-simplify, and /ship, each activating relevant skills automatically. It also features a /build auto command that generates a plan and implements tasks autonomously after a single approval, while still pausing on failures or risky steps. Skills can be installed individually or all at once using the skills CLI.
-
-rss · GitHub Trending - Daily (All) · Aug 7, 01:28
-
-**Background**: AI coding agents are software tools that can autonomously write, modify, debug, and refactor code, understanding multi-file context and executing multi-step tasks. 'Skills' in this context are portable packages of instructions, scripts, and resources that agents can discover and load on demand, encoding workflows and best practices. The repository by Addy Osmani, a well-known figure in web development, packages these skills to cover the full development lifecycle, from planning to shipping.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/addyosmani/agent-skills">GitHub - addyosmani/agent-skills: Production-grade ...</a></li>
-<li><a href="https://pyshine.com/Agent-Skills-Production-Grade-Engineering-for-AI/">Agent Skills: Production-Grade Engineering Skills for AI ...</a></li>
-<li><a href="https://learn.microsoft.com/en-us/agent-framework/agents/skills">Agent Skills | Microsoft Learn</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI agents`, `#software engineering`, `#best practices`, `#workflows`, `#developer tools`
-
----
-
-<a id="item-10"></a>
-## [AirLLM Runs 70B LLMs on 4GB GPU Without Quantization](https://github.com/lyogavin/airllm) ⭐️ 8.0/10
-
-AirLLM, an open-source tool, has been updated to support running 70B large language models on a single 4GB GPU without quantization, distillation, or pruning. It also enables running 405B Llama 3.1 on 8GB, DeepSeek-V3 (671B) on ~12GB, and Kimi K3 (2.8T) on under 4GB VRAM. This breakthrough democratizes access to large language models by drastically lowering hardware requirements, enabling researchers and developers with limited GPU resources to experiment with state-of-the-art models. It challenges the assumption that large models require high-end hardware, potentially accelerating innovation in edge computing and on-device AI. AirLLM uses a layer-wise inference approach, loading each layer from disk, computing, and then freeing memory, which reduces per-layer GPU memory usage. For sparse MoE models like Kimi K3, it streams one expert at a time, further reducing memory footprint. The tool is available via pip install airllm and supports various models, with specific requirements for some like CUDA 12 and flash-attn for K3.
-
-rss · GitHub Trending - Daily (All) · Aug 7, 01:28
-
-**Background**: Large language models (LLMs) typically require massive GPU memory for inference, often exceeding consumer hardware capabilities. Traditional methods to reduce memory usage include quantization, distillation, and pruning, which can degrade model quality. AirLLM offers an alternative by optimizing memory management during inference, loading only the necessary layers or experts at a time, thus bypassing the need for compression techniques.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://github.com/lyogavin/airllm">GitHub - lyogavin/airllm: AirLLM 70B inference with single 4GB GPU · GitHub</a></li>
-<li><a href="https://medium.com/@bnjmn_marie/airllm-layered-inference-for-low-memory-hardware-5af46a960be5">AirLLM: Layered Inference for Low-Memory Hardware | by Benjamin Marie | Medium</a></li>
-<li><a href="https://explainx.ai/blog/airllm-run-70b-llm-4gb-gpu-inference-2026">AirLLM: Run 70B LLM on 4GB GPU, No Quantization (2026 ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#LLM`, `#inference`, `#GPU`, `#memory optimization`, `#open source`
-
----
-
 <a id="item-11"></a>
-## [Self-Verifying Agent Instrument Dissociates Commitment Drift from Binding Drift](https://arxiv.org/abs/2608.04066) ⭐️ 8.0/10
+## [AutoGPT: Open-Source Platform for Autonomous AI Agents](https://github.com/Significant-Gravitas/AutoGPT) ⭐️ 8.0/10
 
-The paper introduces a self-verifying agent instrument where a deterministic Executive owns all belief, and a language model can only file typed proposals that are admitted only if pre-registered predictions match observations. This structural verification invalidates runs when certain floors are breached, and uses a shadow reference for ablation studies, reporting a clean single-variable result on goal-abandonment. This work addresses a critical problem in long-horizon agents: verifying agent behavior when self-reports are untrustworthy. By providing a structural verification methodology and measurable drift decomposition, it could significantly improve the reliability and development of long-horizon AI agents, which are expected to go mainstream in 2026. The instrument invalidates runs when per-organ write-error, render-size, or salted-canary-echo floors are breached; four of the first eight architecture runs were invalidated, each localizing a real defect. The study reports zero level completions across 52 gated runs on ARC-AGI-3, pre-registered as a structural defeater, and uses up to 394 reference beats per run with three seeds per cell.
+AutoGPT has evolved into a comprehensive open-source platform that allows users to build, deploy, and run AI agents capable of executing complete workflows. It offers a visual builder, scheduling, and trigger-based execution, with over 185,000 GitHub stars. AutoGPT popularized the concept of autonomous AI agents, making advanced AI accessible to non-coders and significantly impacting the AI ecosystem. Its widespread adoption and endorsements from industry leaders highlight its potential to transform how tasks are automated. The platform supports multiple interfaces, including AutoPilot for natural language agent creation and a dashboard for managing agents. It can be self-hosted or used via the cloud platform, and it integrates with large language models like GPT-4.
 
-rss · arXiv - AI · Aug 6, 04:00
+rss · GitHub Trending - Daily (All) · Aug 7, 22:27
 
-**Background**: Long-horizon agents are AI systems that perform tasks requiring persistent iteration across reasoning, tool use, observation, and revision over many steps. Traditional agents are brittle and fail at tool coordination and error recovery, and verifying their behavior is difficult because their self-reports may be unreliable. This paper proposes a structural verification approach that separates proposal from execution, using pre-registered predictions and a deterministic executive to ensure verification is not post-hoc.
+**Background**: AutoGPT is an open-source autonomous software agent that uses OpenAI's large language models, such as GPT-4, to achieve goals specified by users in natural language. It chains together thoughts and actions to complete complex tasks without continuous human input, representing a significant step in accessible AI.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/RUC-NLPIR/Awesome-Long-Horizon-Agents">GitHub - RUC-NLPIR/Awesome-Long-Horizon-Agents: The roadmap of long-horizon agents · GitHub</a></li>
-<li><a href="https://arxiv.org/abs/2608.01964">[2608.01964] LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks</a></li>
-<li><a href="https://www.epam.com/insights/ai/blogs/how-to-use-long-horizon-agents-in-production">Long-horizon agents explained: Hype, reality, engineering lessons, and how to use AI agents in production</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AutoGPT">AutoGPT - Wikipedia</a></li>
+<li><a href="https://github.com/Significant-Gravitas/AutoGPT">GitHub - Significant-Gravitas/ AutoGPT : AutoGPT is the vision of...</a></li>
+<li><a href="https://aidive.org/en/ai/auto-gpt">AutoGPT - autonomous AI agents platform</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI agents`, `#verification`, `#long-horizon`, `#LLM`, `#architecture`
+**Tags**: `#AI agents`, `#autonomous AI`, `#open-source`, `#LLM`, `#automation`
 
 ---
 
 <a id="item-12"></a>
-## [MCTS-Report: MCTS-Driven Multimodal Report Generation from Tables](https://arxiv.org/abs/2608.04071) ⭐️ 8.0/10
+## [Uber Open-Sources ADR, an Enterprise Security System for AI Agents](https://github.com/uber/ADR) ⭐️ 8.0/10
 
-The paper introduces MCTS-Report, a Monte Carlo Tree Search (MCTS)-driven framework that decomposes table-to-multimodal report generation into atomic actions executed by LLMs, enabling joint optimization of factual accuracy, visual quality, and narrative coherence. It also presents MMRBench, a new benchmark with real-world tables from six domains, and reports a 77.9 overall score, outperforming strong baselines. This work addresses limitations of existing linear pipelines in automated report generation, offering a more flexible and optimized approach that could improve data intelligence and automated reporting in various domains. The integration of MCTS with LLMs for structured search represents a significant advancement, potentially influencing future research and practical applications in multimodal generation. The framework uses an LLM to generate step-by-step reasoning and actions during MCTS, storing reasoning trajectories in nodes for context-aware construction. A multi-dimensional reward function evaluates numerical fact consistency via SQL, chart quality, chart-text alignment, and structural completeness, with a diversity penalty and precondition check to prune invalid actions.
+Uber has open-sourced ADR (Agentic AI Detection and Response), a production-grade security system for enterprise AI agents, including components for observability, benchmarking, and threat detection. The accompanying paper was accepted to MLSys 2026. This release addresses the growing need for securing AI agents in enterprise environments, a critical concern as AI adoption accelerates. By open-sourcing ADR, Uber provides a reference implementation that could become a standard for AI agent security, benefiting organizations deploying agents like Cursor, Claude Code, and Codex. ADR includes three open-source components: ADR Sensor for telemetry collection, ADR-Bench with 300+ tasks and 133 MCP servers covering all 17 agent attack techniques, and ADR Detector with a two-tier architecture. The prevention component is not yet open-sourced, and the offline ADR Explorer engine is also excluded.
 
-rss · arXiv - AI · Aug 6, 04:00
+rss · GitHub Trending - Python · Aug 7, 22:27
 
-**Background**: Monte Carlo Tree Search (MCTS) is a heuristic search algorithm that combines tree search with random sampling, widely used in game playing and decision-making. Multimodal report generation involves creating reports with both text and visualizations from structured data, which is challenging due to the need for coherence and accuracy. Existing methods often rely on fixed pipelines, limiting joint optimization.
+**Background**: AI agents are software systems that autonomously perform tasks, often using tools and APIs. As they gain access to sensitive data and actions, securing them becomes crucial. ADR (Agentic AI Detection and Response) is a framework that provides observability, benchmarking, detection, and prevention to protect enterprise AI agents. MLSys is a top conference on machine learning and systems, indicating the technical depth of the work.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Monte_Carlo_tree_search">Monte Carlo tree search</a></li>
-<li><a href="https://arxiv.org/html/2608.04071v1">Monte Carlo Tree Search for Table - to -Multimodal Report Generation</a></li>
-<li><a href="https://builtin.com/machine-learning/monte-carlo-tree-search">Monte Carlo Tree Search : A Guide | Built In</a></li>
+<li><a href="https://mlsys.org/">2026 Conference</a></li>
+<li><a href="https://www.emergentmind.com/topics/agentic-ai-detection-and-response-adr">Agentic AI Detection & Response ( ADR )</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Monte Carlo Tree Search`, `#LLM`, `#multimodal generation`, `#data intelligence`, `#report generation`
+**Tags**: `#AI security`, `#agentic AI`, `#MLSys`, `#Uber`, `#open source`
 
 ---
 
 <a id="item-13"></a>
-## [BrainBench: A New Benchmark for Comprehensive EEG Understanding in LLMs](https://arxiv.org/abs/2608.04156) ⭐️ 8.0/10
+## [Ignition Index: New Metric Measures Global Workspace Dynamics in LLMs](https://arxiv.org/abs/2608.05160) ⭐️ 8.0/10
 
-BrainBench is a newly introduced unified benchmark for evaluating large language models (LLMs) on comprehensive, instruction-conditioned EEG understanding. It comprises four subsets covering 17 datasets, numerous tasks, and over a hundred thousand real-data instances, and evaluates models under two paradigms: autonomous code execution and structured agentic analysis. This benchmark addresses a critical gap in existing EEG evaluations, which have largely focused on isolated decoding tasks or system-specific demonstrations. By providing a comprehensive and reproducible testbed, BrainBench enables systematic comparison of LLMs' EEG competence, potentially accelerating progress in AI-driven neuroscience and clinical applications. BrainBench includes four subsets: Foundational Analysis, Sleep Assessment, Neurocognitive Assessment, and Physiological Integration. Outputs are validated through numerical, categorical, set, sequence, semantic, and artifact checks, and the benchmark evaluates representative LLMs across more than 100K executions. The code and benchmark will be released soon, with results continuously updated.
+Researchers introduce the Ignition Index (I), a scalar metric that operationalizes Global Workspace Theory's all-or-none ignition prediction in transformer language models. Across 11 models from five architecture families, they find that feedforward transformers exhibit 89% higher ignition than SSMs, with Mamba showing near-linear profiles. This work provides the first validated quantitative bridge between Global Workspace Theory and mechanistic interpretability, offering a new tool to compare information processing across architectures. It could influence how researchers understand and design models, especially regarding global broadcast and recurrent processing. The metric fits a four-parameter sigmoid to per-layer linear probe accuracy as a function of input signal strength, extracting steepness parameter beta-hat. Shuffled-label controls demonstrate 9.6-fold selectivity for genuine linguistic structure over spurious probe capacity (p < 0.001), and Huginn-3.5B shows 2.12-fold higher ignition along its iteration axis than depth axis.
 
-rss · arXiv - AI · Aug 6, 04:00
+rss · arXiv - AI · Aug 7, 04:00
 
-**Background**: Electroencephalography (EEG) is a technique that records electrical activity from the brain, widely used for diagnosing and monitoring conditions like epilepsy and sleep disorders. Traditional EEG analysis often focuses on assigning predefined labels, but comprehensive understanding requires integrating natural-language instructions, signal processing, and scientific interpretation. BrainBench aims to quantify how well LLMs can perform such holistic analysis, moving beyond simple decoding tasks.
+**Background**: Global Workspace Theory (GWT) proposes that conscious processing involves a global broadcast of information, with an all-or-none ignition pattern. Linear probes are simple classifiers trained on internal representations to detect specific features, and their accuracy can indicate how well a property is encoded. State space models (SSMs) like Mamba are alternatives to transformers, with different architectural dynamics.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Electroencephalography">Electroencephalography - Wikipedia</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/books/NBK390346/">Introduction - Electroencephalography (EEG): An Introductory Text and Atlas of Normal and Abnormal Findings in Adults, Children, and Infants - NCBI Bookshelf</a></li>
-<li><a href="https://arxiv.org/html/2608.04156">BrainBench : Benchmarking Large Language Models for...</a></li>
+<li><a href="https://arxiv.org/html/2608.05160">The Ignition Index: Measuring Global Workspace Dynamics in...</a></li>
+<li><a href="https://papers.cool/arxiv/2608.05160">The Ignition Index: Measuring Global Workspace Dynamics in...</a></li>
+<li><a href="https://aiwiki.ai/wiki/linear_probes">Linear Probes | AI Wiki</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#LLM`, `#EEG`, `#benchmark`, `#neuroscience`, `#AI`
+**Tags**: `#language models`, `#Global Workspace Theory`, `#interpretability`, `#transformers`, `#SSMs`
 
 ---
 
 <a id="item-14"></a>
-## [Domain-Free Metacognitive Layer Boosts Robustness of Pre-trained Perception Models](https://arxiv.org/abs/2608.04190) ⭐️ 8.0/10
+## [Woodpecker Distillation: Weak Models Fix Strong Model Reasoning Bugs](https://arxiv.org/abs/2608.05168) ⭐️ 8.0/10
 
-This paper introduces a domain-knowledge-free metacognitive layer using Label Vector Pools (LVP) to learn error-detection rules for pre-trained perception models, achieving parity with hand-authored rules within 0.002 F1 on test sets. The approach frames fusion as a consistency-based abduction problem solved by an exact Integer Program and a polynomial-time heuristic. This work addresses the critical issue of distributional shift in deploying pre-trained perception models, offering a robust fusion method that does not rely on domain-specific knowledge. It demonstrates significant gains under coordinated attacks, potentially improving reliability of AI systems in novel environments. The method uses per-model Label Vector Pools built from training embeddings, and the geometric rules share a single logical framework that can be complemented by domain knowledge when available. On an aerial-imagery benchmark with 15 weather-shifted test sets and six ViT detectors, it matches majority voting on clean data (within 0.005 F1) and outperforms all baselines under a 90% label-flipping attack (0.42 F1 vs 0.35 for MV-Plurality, a 22% relative gain).
+The paper introduces Woodpecker Distillation, a weak-to-strong training framework that uses contrastive local interventions from weak models to correct localized reasoning bugs in strong models, improving performance on mathematical reasoning benchmarks without direct fine-tuning on weak outputs. This approach addresses a significant challenge in LLM reasoning: localized bugs that are repairable but not easily internalized through direct imitation. It offers a new training paradigm that could improve reasoning capabilities of strong models by leveraging weak models, potentially impacting AI alignment and model improvement strategies. The method contrasts successful and unsuccessful weak-model patches at the same prefix, constructs a corrective teacher distribution from their induced future token predictions, and distills this signal into the strong model. Experiments show consistent improvement over direct imitation baselines on mathematical reasoning benchmarks.
 
-rss · arXiv - AI · Aug 6, 04:00
+rss · arXiv - AI · Aug 7, 04:00
 
-**Background**: Pre-trained perception models often degrade under distributional shift, and simple fusion methods like majority voting are brittle to coordinated failures. Metacognitive layers that learn logical rules to flag errors typically rely on hand-authored domain knowledge, which may not transfer to novel scenes. This paper exploits vector-space geometry to build Label Vector Pools from training embeddings, enabling domain-free error detection rules.
+**Background**: Large language models often fail on reasoning tasks despite having the capability to solve them, due to localized reasoning bugs in intermediate steps. Weak-to-strong training leverages a weak supervisor to guide a strong model, and this paper extends it by focusing on contrastive local interventions rather than direct imitation of weak outputs.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2608.04190">[2608.04190] Adversarially Robust Abductive Fusion of Pre-trained...</a></li>
-<li><a href="https://arxiv.org/html/2406.12147v1">Metacognitive AI: Framework and the Case for a Neurosymbolic ...</a></li>
+<li><a href="https://arxiv.org/html/2608.05168v1">Woodpecker Distillation : Weak Models Diagnose Reasoning Bugs in...</a></li>
+<li><a href="https://www.emergentmind.com/topics/weak-to-strong">Weak - to - Strong Training Overview</a></li>
+<li><a href="https://arxiv.org/html/2606.21121v1">Answer Engineering: Local Trajectory Editing for Protocol-Constrained...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#perception models`, `#distributional shift`, `#neurosymbolic`, `#error detection`, `#machine learning`
+**Tags**: `#LLM`, `#reasoning`, `#weak-to-strong`, `#distillation`, `#AI`
 
 ---
 
 <a id="item-15"></a>
-## [MatrAIx: Population-Scale Simulated-User Evaluation with 8.3B Personas](https://arxiv.org/abs/2608.04205) ⭐️ 8.0/10
+## [Otter: Time-Aware, History-Conditioned Human Chess AI](https://arxiv.org/abs/2608.05206) ⭐️ 8.0/10
 
-MatrAIx introduces a population-scale simulated-user evaluation infrastructure featuring 8.3 billion persona records across 1,290 categorical dimensions, along with a quality-filtered coreset of about 1 million personas. It provides four evaluation environments (Survey, AI Chatbot, Web, App) and 1,010 application tasks spanning over 25 domains, with 18,189 evaluation trials conducted using three LLMs. This infrastructure addresses the high cost and scalability limitations of human evaluation for AI systems, enabling more diverse and interactive testing. It could significantly impact AI evaluation methodologies by providing a standardized, large-scale approach to simulate heterogeneous users, benefiting developers and researchers across industries. The persona records are either sampled from a dependency graph preserving correlated attributes or derived from human-authored profiles. Validation studies showed 91.5% adherence to declared behavior across ten behavioral attributes, and human and LLM judges evaluated the extraction quality of human-grounded personas.
+Otter, a 15.3M-parameter neural network, predicts human chess moves by modeling play as a time-aware, sequential process, conditioning on the last 20 moves and clock pressure. It achieves 55.23% top-1 and 90.95% top-5 accuracy, surpassing Maia 2 with fewer parameters and less training data. This demonstrates that incorporating time and game history significantly improves human move prediction, challenging the position-only paradigm. It could lead to more human-like chess AI for training and analysis, and the approach may generalize to other sequential decision-making domains. Otter is trained on 6.1 billion positions from 117 million Lichess rapid games over 30 days on a single T4 GPU. Accuracy peaks at 57.38% in the 1900-1999 Elo bracket, and the model is publicly released with code and training logs.
 
-rss · arXiv - AI · Aug 6, 04:00
+rss · arXiv - AI · Aug 7, 04:00
 
-**Background**: Traditional human evaluation of AI systems is costly and slow, while offline evaluations often lack human diversity and interactivity. Simulated-user evaluation aims to emulate real user behavior in a scalable way. MatrAIx builds on this concept by creating a massive persona dataset and interactive environments to test AI systems and digital products with heterogeneous simulated users.
+**Background**: Traditional chess AI like Stockfish focuses on optimal play, while human move prediction models like Maia aim to mimic human decisions. Maia 2 is a unified model that adapts to different skill levels, but Otter extends this by also considering the game's history and time pressure, which are crucial in human play.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://github.com/MatrAIx-ai/MatrAIx-Persona-8B">GitHub - MatrAIx-ai/MatrAIx-Persona-8B: Simulate Before ...</a></li>
-<li><a href="https://huggingface.co/datasets/MatrAIx2026/Persona8B">MatrAIx2026/Persona8B · Datasets at Hugging Face</a></li>
-<li><a href="https://aws.amazon.com/blogs/machine-learning/simulate-realistic-users-to-evaluate-multi-turn-ai-agents-in-strands-evals/">Simulate realistic users to evaluate multi-turn AI agents in ...</a></li>
+<li><a href="https://arxiv.org/abs/2608.05206">Otter: A Time - Aware , History-Conditioned Human Chess AI</a></li>
+<li><a href="https://huggingface.co/peargentlabs/otter-chess">peargentlabs/ otter - chess · Hugging Face</a></li>
+<li><a href="https://www.maiachess.com/">Maia Chess</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#AI evaluation`, `#simulation`, `#persona`, `#large-scale`, `#infrastructure`
+**Tags**: `#AI`, `#Chess`, `#Machine Learning`, `#Human Behavior Modeling`, `#arXiv`
 
 ---
 
 <a id="item-16"></a>
-## [RAIL Principles Offer Unified Framework for Neurosymbolic AI](https://arxiv.org/abs/2608.04285) ⭐️ 8.0/10
+## [SearchAuditor: Auditing and Repairing Long-Horizon Search Agent Failures](https://arxiv.org/abs/2608.05212) ⭐️ 8.0/10
 
-The paper introduces the RAIL principles (Reasoning, Assurances, Interfacing, Learning) as a comprehensive framework for designing and analyzing neurosymbolic AI systems. It argues that many leading AI systems, including those not traditionally considered neurosymbolic, can be understood through this lens. This framework provides a unified perspective on diverse AI approaches, potentially guiding engineers in making more principled decisions for building reliable and trustworthy AI. It highlights the growing importance of neurosymbolic AI in addressing limitations of pure deep learning, such as hallucination in LLMs. The RAIL framework is applied to areas such as physics-aware machine learning, neuro-guided search (e.g., Alpha-* suite), causal learning, and tool-augmented LLMs. The paper is authored by a large group of prominent researchers, indicating broad consensus and potential high impact.
+The paper introduces SearchAuditBench, a benchmark with 1,243 expert-annotated failed trajectories from long-horizon search agents, and SearchAuditor, a multi-perspective framework that localizes, attributes, and repairs failures. Experiments show SearchAuditor achieves a 32.3% end-to-end pass rate, outperforming baselines like GPT-5.5 (26.6%). This work addresses a critical gap in AI reliability by automating the diagnosis of failures in long-horizon search agents, which are increasingly used for complex tasks. The benchmark and framework provide valuable resources for improving agent debugging and recovery, potentially reducing human oversight burden. SearchAuditBench includes trajectories averaging 73.1 messages and 65.1K tokens, collected from eight open-weight models across five deep-search benchmarks, with expert annotations for critical error steps, root causes, and reference repairs. The SearchAuditor framework uses evidence-grounded adjudication to improve localization, attribution, and repair, and can resume failed runs to help agents recover.
 
-rss · arXiv - AI · Aug 6, 04:00
+rss · arXiv - AI · Aug 7, 04:00
 
-**Background**: Neurosymbolic AI combines neural networks with symbolic reasoning to create more robust and trustworthy systems. It is often called the third wave of AI, following symbolic AI (first wave) and deep learning (second wave). The field gained industrial attention in 2025 for addressing LLM hallucination, with applications like Amazon's Vulcan robots.
+**Background**: Long-horizon search agents perform complex web interactions over many steps, but small reasoning errors can propagate into incorrect answers. Diagnosing these failures manually is impractical due to the length of execution traces. This paper introduces a benchmark and framework to automate failure auditing, leveraging LLM auditors to localize, attribute, and repair errors.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Neuro-symbolic_AI">Neuro-symbolic AI</a></li>
-<li><a href="https://theconversation.com/neurosymbolic-ai-is-the-answer-to-large-language-models-inability-to-stop-hallucinating-257752">Neurosymbolic AI is the answer to large language models’ inability to...</a></li>
+<li><a href="https://arxiv.org/abs/2608.05212">[2608.05212] SearchAuditor : Auditing and Attributing Failures in...</a></li>
+<li><a href="https://github.com/RUC-NLPIR/Awesome-Long-Horizon-Agents">GitHub - RUC-NLPIR/Awesome- Long - Horizon - Agents : The roadmap...</a></li>
+<li><a href="https://arxiv.org/html/2608.01913v1">Diagnosing Search Behavior and Failure Modes in Long - Horizon ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#neurosymbolic AI`, `#machine learning`, `#symbolic reasoning`, `#AI principles`, `#trustworthy AI`
+**Tags**: `#AI agents`, `#benchmark`, `#debugging`, `#LLM`, `#search`
 
 ---
 
 <a id="item-17"></a>
-## [Trust-Region Framework Unifies Adaptive Optimizers, Proposes GMake](https://arxiv.org/abs/2608.04026) ⭐️ 8.0/10
+## [CRAFTER: Agent for Corrective Feature Discovery on Black-Box Forecasters](https://arxiv.org/abs/2608.05207) ⭐️ 8.0/10
 
-This paper introduces a trust-region framework for moment estimation that unifies adaptive optimizers like Adam and proposes a new family of learning-rate mechanisms called GMake, validated on GPT2-124M training. 该框架为归一化、学习率调度、动量和谱归一化提供了统一的理论解释，可能影响深度学习未来优化器的设计。 The framework constrains update steps within a trust region governed by a moment constraint of order p in [2,4], with p=4 involving kurtosis-like estimation. Experiments show the fourth-moment realization benefits most under weak trust-region constraints, while second-moment becomes competitive under stronger controls.
+The paper introduces CRAFTER, an agent that discovers corrective features for frozen black-box forecasters by combining compositional search over raw input channels with LLM-proposed features, and uses a validation gate to accept or reject candidates. It surpasses dedicated feature-engineering systems across six datasets and six backbones, roughly doubling the improvement of the corrector alone and reducing errors of the weakest backbones by up to 27%. This work addresses the practical problem of improving frozen forecasters without costly fine-tuning, offering a source-agnostic pipeline that can attribute improvements to the feature source. It provides a new tool for model correction that could benefit practitioners in forecasting and other domains where retraining is expensive or infeasible. CRAFTER uses two complementary generators: a compositional search over raw input channels and an LLM that proposes named feature combinations, binary flags, and short executable code. A single validation-grounded gate accepts or rejects candidates regardless of origin, and a validation-selected corrector applies accepted features or leaves forecasts unchanged. The gains are robust across different LLM backends and persist even on fine-tuned backbones.
 
-rss · arXiv - Machine Learning · Aug 6, 04:00
+rss · arXiv - Machine Learning · Aug 7, 04:00
 
-**Background**: Trust-region methods are a class of optimization algorithms that approximate the objective function within a local region around the current solution. Adaptive optimizers like Adam use moment estimates to scale parameter updates. Kurtosis is a statistical measure of tail thickness, and spectral lowpass filtering is a technique used in signal processing and neural networks.
+**Background**: Frozen pretrained forecasters often fail in structured, recurring ways, and fine-tuning them is costly. Corrective feature discovery mines interpretable features of the residual to drive a lightweight post-hoc corrector, modeling the model-failure process rather than the data-generating process. This approach is related to post-hoc model correction methods, which aim to improve black-box models using only output data.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Trust_region">Trust region - Wikipedia</a></li>
-<li><a href="https://optimization.cbe.cornell.edu/index.php?title=Trust-region_methods">Trust-region methods - Cornell University</a></li>
-<li><a href="https://www.investopedia.com/terms/k/kurtosis.asp">investopedia.com/terms/k/ kurtosis .asp</a></li>
+<li><a href="https://arxiv.org/abs/2608.05207">[2608.05207] When Do Corrective Features Help? An Agent for...</a></li>
+<li><a href="https://arxiv.org/html/2308.09437">From Hope to Safety: Unlearning Biases of Deep Models via Gradient...</a></li>
+<li><a href="https://www.emergentmind.com/topics/post-hoc-model-agnostic-methods-5982373f-64d0-4328-bb34-9b11653ee591">Post - hoc Model -Agnostic Methods Overview</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#optimization`, `#deep learning`, `#Adam`, `#trust-region`, `#moment estimation`
+**Tags**: `#machine learning`, `#forecasting`, `#LLM`, `#feature engineering`, `#model correction`
 
 ---
 
 <a id="item-18"></a>
-## [Tactus: Open-Vocabulary Tactile Recognition from Low-Cost Pressure Arrays](https://arxiv.org/abs/2608.04043) ⭐️ 8.0/10
+## [PPDL: Probabilistic Programming for LLM-Based Flows](https://arxiv.org/abs/2608.05234) ⭐️ 8.0/10
 
-Tactus introduces an open-vocabulary tactile recognition model that uses low-cost pressure arrays, achieving 0.771 top-1 accuracy on the STAG benchmark, matching or exceeding a supervised CNN without a trained classifier head. This work demonstrates that low-cost pressure sensors, which are widely deployed, can support advanced open-vocabulary recognition, potentially reducing the need for expensive optical tactile sensors in robotics and enabling more accessible tactile AI applications. The model uses masked-autoencoder pretraining on 144k unlabeled frames and only 187 training recordings, with the sensor's calibration affine providing more accuracy gain than all architecture changes combined. Errors are concentrated in contact-ambiguous classes and are uncorrelated with text-target geometry.
+This paper introduces PPDL, the first probabilistic prompt programming language for flows of LLM and tool calls, enabling developers to quantify and propagate uncertainty throughout the application's flow. It also allows experimentation with different inference scaling techniques without modifying the flow's logic. This work addresses the critical challenge of uncertainty in LLM-based systems, which often produce unreliable outputs. By providing a formal framework for uncertainty quantification and propagation, PPDL could improve trust and reliability in LLM applications, benefiting developers and end-users across various domains. The paper presents an experimental study demonstrating the capability of PPDL, along with a case study building a theorem proving agent for the Rocq theorem prover. The language includes a semantics that formalizes the interplay between prompt-based sampling and probabilistic factors.
 
-rss · arXiv - Machine Learning · Aug 6, 04:00
+rss · arXiv - Machine Learning · Aug 7, 04:00
 
-**Background**: Tactile sensing is crucial for robots to interact with objects, but most representation learning has focused on optical sensors that image a deforming gel, which are expensive. Resistive pressure arrays are cheaper and more common, but have been underutilized for learning. Open-vocabulary recognition allows models to identify objects based on natural language descriptions, not just predefined categories.
+**Background**: Large language models (LLMs) are powerful but often produce outputs without reliable confidence measures. In compound systems with multiple LLM calls and tool integrations, uncertainty can compound, making it difficult to trust results. Probabilistic programming languages provide a framework for modeling uncertainty explicitly, and PPDL applies this to LLM-based flows. The Rocq theorem prover is an interactive proof assistant used for formal verification.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://stag.csail.mit.edu/">Learning the signatures of the human grasp using a scalable tactile glove</a></li>
-<li><a href="https://arxiv.org/html/2505.16289v1">TacCompress: A Benchmark for Multi-Point Tactile Data Compression in Dexterous Manipulation</a></li>
-<li><a href="https://www.therobotreport.com/mit-glove-tactile-sensors-manipulation/">MIT glove with tactile sensors builds map that could help train robot manipulation - The Robot Report</a></li>
+<li><a href="https://arxiv.org/pdf/2608.05234">PPDL : LLM -Based Flows as Probabilistic Programs</a></li>
+<li><a href="https://arxiv.org/abs/2608.05234">[2608.05234] PPDL : LLM -Based Flows as Probabilistic Programs</a></li>
+<li><a href="https://rocq-prover.org/">Rocq is a general-purpose, industrial-strength interactive theorem ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#tactile sensing`, `#object recognition`, `#representation learning`, `#robotics`, `#arXiv`
+**Tags**: `#LLM`, `#probabilistic programming`, `#uncertainty quantification`, `#AI reliability`, `#theorem proving`
 
 ---
 
 <a id="item-19"></a>
-## [RRQ: Progressive Multi-Precision Quantization for LLMs from a Single Checkpoint](https://arxiv.org/abs/2608.04048) ⭐️ 8.0/10
+## [Decoupling Perception from Description for Time-Series-Language Alignment](https://arxiv.org/abs/2608.05238) ⭐️ 8.0/10
 
-The paper introduces Recurrent Residual Quantization (RRQ), a post-training quantization framework that generates 2-, 4-, 6-, and 8-bit representations from a single checkpoint by adding 2-bit residual corrections. In tests on Qwen3-8B, RRQ constructs the full package in 1,293 seconds, 3.3 times faster than MatGPTQ. This method addresses a key deployment challenge for LLMs by enabling flexible accuracy-memory trade-offs without retraining or storing multiple checkpoints. It could significantly improve serving flexibility and reduce storage overhead, benefiting both researchers and practitioners in efficient LLM inference. RRQ is calibration-free and avoids joint multi-bit optimization, using round-to-nearest (RTN) for both the base 2-bit model and residuals. Experiments on six recent LLMs show competitive accuracy at 6 and 8 bits, with model-dependent behavior at 4 bits; code will be released upon publication.
+The paper introduces CGTime, a 4B-parameter computation-grounded time-series-language model that decouples perception from description by using deterministic code to compute statistics from multivariate time series and an LLM to verbalize these facts. CGTime achieves a multivariate fact score of 0.283 on a held-out benchmark, outperforming larger general-purpose models like GPT-4o-mini (0.173) and GPT-5.4-nano (0.203). This work addresses a fundamental limitation in multimodal time-series-language alignment, known as the self-supervision trap, where label quality is capped by the LLM's perceptual ability. By decoupling perception from description, it offers a scalable and reliable method that could improve multivariate time-series understanding across various domains, such as finance, healthcare, and IoT. The method uses deterministic code to compute a set of statistics from real, open-source multivariate series, and the LLM verbalizes these precomputed facts, avoiding the self-supervision trap. CGTime's performance gap over baselines is statistically significant, as confirmed by Holm-corrected paired significance tests, and it also generates captions with more accurate verifiable numerical facts.
 
-rss · arXiv - Machine Learning · Aug 6, 04:00
+rss · arXiv - Machine Learning · Aug 7, 04:00
 
-**Background**: Post-training quantization (PTQ) reduces model size and speeds up inference by converting weights to lower precision after training, without fine-tuning. Traditional PTQ methods require a separate checkpoint for each target bit-width, which is storage-intensive and inflexible. RRQ builds on residual quantization, a technique that iteratively quantizes residuals to improve compression, enabling multiple precisions from a single model.
+**Background**: Multivariate time series data, which involve multiple variables over time, are common in fields like finance and healthcare. Aligning such data with language is challenging because LLMs often struggle with perception tasks, such as extracting statistical patterns, while they excel at generating descriptions. The self-supervision trap arises when LLMs are used to label data, as their perceptual limitations cap the quality of labels, and most datasets are univariate, missing the cross-channel correlations that matter.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2608.04048">[2608.04048] Recurrent Residual Quantization: A Progressive ...</a></li>
-<li><a href="https://www.semanticscholar.org/paper/Recurrent-Residual-Quantization:-A-Progressive-for-Luo-Dong/6723314b3bfa30d0d2733bb245616ab856b67e17">Recurrent Residual Quantization: A Progressive Multi ...</a></li>
-<li><a href="https://www.datacamp.com/tutorial/quantization-for-large-language-models">Quantization for Large Language Models (LLMs): Reduce... | DataCamp</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2018/09/multivariate-time-series-guide-forecasting-modeling-python-codes/">Multivariate Time Series Analysis</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/39110564/">Self - Supervised Multimodal Learning : A Survey</a></li>
+<li><a href="https://changelly.com/blog/what-is-blockchain-trilemma/">Blockchain Trilemma Explained: Security, Scale & Decentralization</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#LLM`, `#quantization`, `#post-training quantization`, `#efficient inference`, `#multi-precision`
+**Tags**: `#multimodal learning`, `#time series`, `#LLM`, `#representation alignment`, `#self-supervision`
 
 ---
 
 <a id="item-20"></a>
-## [LLM Prompting Wins EvaLatin 2026 NER for Classical Latin](https://arxiv.org/abs/2608.04015) ⭐️ 8.0/10
+## [Marginal Matching Fails to Prevent Style Leakage in Factorized Generative Models](https://arxiv.org/abs/2608.05243) ⭐️ 8.0/10
 
-The paper from Team uOttawa demonstrates that prompt engineering with commercial LLMs (gemini-2.5-pro and claude-sonnet-4-5) achieves top performance in Named Entity Recognition for Classical Latin, winning both subtasks in the EvaLatin 2026 shared task. The system achieved the best scores across all evaluation metrics and regimes. This work highlights the potential of cross-lingual transfer learning for low-resource ancient languages, showing that commercial LLMs can be effectively adapted without fine-tuning. It provides a strong baseline for digital humanities and NLP research on Classical Latin, potentially reducing the need for large annotated datasets. The task involved coarse-grained NER with 11 classes and fine-grained NER with 28 classes, each evaluated under strict and fuzzy regimes. The approach relied solely on prompt engineering, without fine-tuning, leveraging the models' cross-lingual capabilities.
+A new arXiv paper (2608.05243) demonstrates that matching the marginal distribution of a latent style variable to a Gaussian prior does not ensure independence from class labels in factorized generative models. The authors show that class-conditional style distributions can remain highly predictive of the label despite near-zero global MMD. This finding challenges a common assumption in representation learning and generative modeling, potentially affecting how models are evaluated and designed. It highlights that reporting marginal statistics alone is insufficient to verify factorized sampling, which could impact applications like controllable generation and disentangled representation learning. The paper derives an exact decomposition showing that marginal matching is one of four conditions required for factorized sampling, and eliminating it is necessary but not sufficient. Empirically, a case-study model and four baselines achieve near-zero MMD while linear probes recover class labels with 74-100% accuracy (10% chance level), and the model reaches 99.15% clustering accuracy while external class-conditional generation succeeds only 16% of the time.
 
-rss · arXiv - NLP · Aug 6, 04:00
+rss · arXiv - Machine Learning · Aug 7, 04:00
 
-**Background**: Named Entity Recognition (NER) is a natural language processing task that identifies and classifies entities in text. Classical Latin is a low-resource language, and EvaLatin is a shared task campaign dedicated to evaluating NLP tools for Latin. Cross-lingual transfer learning uses knowledge from resource-rich languages to improve performance in low-resource settings, and prompt engineering allows LLMs to perform tasks without fine-tuning.
+**Background**: Factorized generative models aim to decompose data into independent latent factors, such as style and class, to enable controlled generation. A common practice is to regularize the style latent's marginal distribution to match a Gaussian prior, assuming this ensures independence from class information. Maximum Mean Discrepancy (MMD) is a kernel-based metric often used to compare distributions, but this paper shows it cannot certify class-conditional independence when applied only to the marginal.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://lrec.elra.info/lrec2026-ws-lt4hala-19">Overview of the Dependency Parsing Task at EvaLatin 2026</a></li>
-<li><a href="https://www.emergentmind.com/topics/cross-lingual-transfer-learning-cltl">Cross - Lingual Transfer Learning</a></li>
-<li><a href="https://readmedium.com/prompt-engineering-for-named-entity-recognition-af520fe3c958">Prompt Engineering for Named Entity Recognition</a></li>
+<li><a href="https://www.emergentmind.com/topics/generative-simulation-via-factorized-representation">Generative Simulation via Factorized Representation</a></li>
+<li><a href="https://medium.com/@bhm22ainds/maximum-mean-discrepancy-the-most-underrated-distance-measure-in-modern-machine-learning-70cba43837e3">Maximum Mean Discrepancy : The Most Underrated... | Medium</a></li>
+<li><a href="https://theorempath.com/topics/kernel-two-sample-tests">Kernel Two-Sample Tests. MMD , Unbiased Estimation... | TheoremPath</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#Natural Language Processing`, `#Named Entity Recognition`, `#Large Language Models`, `#Cross-lingual Transfer Learning`, `#Classical Latin`
+**Tags**: `#generative models`, `#factorized representation`, `#style leakage`, `#MMD`, `#representation learning`
 
 ---
 
 <a id="item-21"></a>
-## [Position-Dependent Repetition Effects Challenge Cloze Probe Assumptions](https://arxiv.org/abs/2608.04021) ⭐️ 8.0/10
+## [Mean-Field Theory Models Chain-of-Thought Reasoning in LLMs](https://arxiv.org/abs/2608.05152) ⭐️ 8.0/10
 
-A new arXiv paper demonstrates that the effect of repeated target tokens on language model prediction depends on the readout position: adjacent repetition shows a monotonic increase, while displaced repetition produces an inverted-U pattern. This finding holds across 13 open-access models and replicates in 42 of 42 multilingual cells. This challenges a common assumption in cloze-style probing studies that readout position is orthogonal to repetition effects, potentially affecting the validity of many prior findings. It highlights the need for more careful experimental design in language model analysis and could influence how researchers interpret repetition-based probes. The study uses a two-probe design and a six-condition causal ablation to isolate the effect to exact lexical repetition, ruling out length, generic redundancy, and semantic-neighbour exposure. Internally, per-target-token attention falls with N while the total budget for the repeated block grows in causal LMs but not in the masked LM probed.
+This paper introduces a theoretical framework that models LLM chain-of-thought reasoning as a guided discovery process on a clue graph, deriving a one-dimensional ordinary differential equation for the fraction of discovered clues using the mean-field approximation. The framework is validated experimentally by identifying clue tokens via normalized surprisal and fitting the statistical regularities to the proposed equation. This work provides a novel theoretical lens for understanding chain-of-thought reasoning without simplifying the model architecture, which could guide future model optimization and deepen our understanding of LLM behavior. It bridges statistical physics and AI reasoning, potentially inspiring new theoretical tools for the AI community. The mean-field ODE is derived without simplifying the architecture or drawing analogies to physical systems, and the experiments use a student-teacher setup where clue tokens are identified by normalized surprisal. The statistical regularities are reproducible within the same dataset and fit the theoretical equation, but the framework's applicability to diverse reasoning tasks remains to be tested.
 
-rss · arXiv - NLP · Aug 6, 04:00
+rss · arXiv - NLP · Aug 7, 04:00
 
-**Background**: Cloze-style probes are a common method in NLP to evaluate language models by predicting a masked or next token. The paper's finding that repetition effects depend on readout position suggests that such probes may not be as straightforward as assumed. The inverted-U pattern is reminiscent of psychological phenomena where repetition initially increases but then decreases certain responses.
+**Background**: Chain-of-thought reasoning is a technique where LLMs generate intermediate reasoning steps before producing a final answer, improving performance on complex tasks. Mean-field approximation is a method from statistical physics that simplifies many-body problems by averaging over individual interactions, and surprisal measures the negative log-probability of a word in context, reflecting cognitive effort in language processing.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/pdf/2608.04021">When More Becomes Less: Position-Dependent Repetition Effects ...</a></li>
-<li><a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/inverted-ushaped-model-how-frequent-repetition-affects-perceived-risk/4FDC6867A9B9B1A1732AC7024B96081B">Inverted U-shaped model: How frequent repetition affects ...</a></li>
+<li><a href="https://arxiv.org/html/2608.05152">Mean-Field Dynamics of Chain - of - Thought Reasoning in Large...</a></li>
+<li><a href="https://papers.cool/arxiv/2608.05152">Mean-Field Dynamics of Chain - of - Thought Reasoning in Large...</a></li>
+<li><a href="https://link.springer.com/chapter/10.1007/978-3-642-33105-3_7">Mean Field Approximation | Springer Nature Link</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#language models`, `#repetition effects`, `#cloze probes`, `#NLP`, `#causal analysis`
+**Tags**: `#large language models`, `#chain-of-thought`, `#mean-field theory`, `#theoretical AI`, `#reasoning`
 
 ---
 
 <a id="item-22"></a>
-## [Output-Token Caps Skew Multilingual Reasoning Benchmarks](https://arxiv.org/abs/2608.04160) ⭐️ 8.0/10
+## [GraphRAG Over-Citation Universal, Faithfulness Impact Conditional](https://arxiv.org/abs/2608.05153) ⭐️ 8.0/10
 
-A new paper on arXiv (2608.04160) shows that output-token caps in multilingual evaluations are a hidden variable that can reverse or exaggerate the native-vs-translate reasoning gap, with measured gaps swinging by up to 57 points across budgets on MGSM for Qwen3-8B and Llama-3.1-8B-Instruct. This finding exposes a significant methodological flaw in multilingual NLP benchmarking, as single-budget accuracy reports can mislead comparisons across languages and models. It urges researchers to treat the output cap as an independent variable and report accuracy across budget regimes, which could reshape how multilingual reasoning is evaluated. The study used four prompting strategies on MGSM for German, Thai, and Swahili, and found that length normalization moves the gap by up to 38.9 points where the cap binds, and at tight caps normalization can reverse which strategy scores higher. A frozen test at B*=1024 failed to reject the null because native accuracy had saturated, indicating the residual difference is a strategy-performance gap, not a reasoning deficit.
+A triple-robustness analysis across embedders, corpora, and judges reveals that GraphRAG's over-citation is architecturally universal, but its faithfulness consequences are corpus-conditional. The study includes 4,440 main-matrix runs, 600 cross-corpus runs, and 1,200 paired faithfulness judgments. This finding challenges the assumption that GraphRAG's citation behavior is uniformly problematic, showing that its impact on faithfulness varies by corpus type. It provides a new benchmark for evaluating RAG architectures and emphasizes the need for multi-dimensional robustness testing in retrieval-augmented generation systems. GraphRAG emits 11-15 IDs per answer with citation precision 0.12-0.23 and retrieval recall 0.68-0.87 across all settings. On typed-edge DO-178C, faithfulness collapses from 74% to 40% across hops, while on Wikipedia chains it rises from 42% to 58%. Single-judge LLM faithfulness shows low self-kappa (0.137 for GPT-5.4), with verdict changes on 41% of items.
 
-rss · arXiv - NLP · Aug 6, 04:00
+rss · arXiv - NLP · Aug 7, 04:00
 
-**Background**: MGSM (Multilingual Grade School Math) is a benchmark of 250 grade-school math problems manually translated from GSM8K into ten typologically diverse languages, used to evaluate multilingual reasoning. Output-token caps limit the maximum number of tokens a model can generate, and different languages require different token counts for the same content, making the cap a hidden variable. The Holm-Bonferroni method is a statistical correction for multiple comparisons, used here to validate the significance of the observed effects.
+**Background**: Retrieval-Augmented Generation (RAG) combines retrieval with generation to improve answer accuracy, and GraphRAG uses knowledge graphs to enhance multi-hop reasoning. Multi-hop traceability requires linking information across multiple documents or steps, which is challenging for both vector-based and graph-based RAG. The study introduces a triple-robustness design that varies embedder, corpus, and judge to ensure findings are not artifacts of a single configuration.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://benchlm.ai/multilingual">Best LLMs for Multilingual — July 2026 Leaderboard | BenchLM.ai</a></li>
-<li><a href="https://www.kaggle.com/benchmarks/open-benchmarks/mgsm">MGSM : Multilingual Grade School Math Benchmark ... | Kaggle</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Holm–Bonferroni_method">Holm–Bonferroni method - Wikipedia</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2024/11/graphrag/">GraphRAG from Theory to Implementation - Analytics Vidhya</a></li>
+<li><a href="https://atlan.com/know/what-is-graphrag/">What Is GraphRAG ? Architecture, GraphRAG vs RAG , Use Cases</a></li>
+<li><a href="https://deeplearn.org/arxiv/799587/a-triple-robustness-analysis-of-retrieval-augmented-generation-for-multi-hop-requirements-traceability">A Triple - Robustness Analysis of Retrieval-Augmented Generation for...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#multilingual NLP`, `#evaluation methodology`, `#reasoning`, `#token budget`, `#benchmarking`
+**Tags**: `#RAG`, `#GraphRAG`, `#multi-hop`, `#evaluation`, `#information retrieval`
 
 ---
 
 <a id="item-23"></a>
-## [LLMs Implement Conditional Rules via Separate Test and Route Modules](https://arxiv.org/abs/2608.04183) ⭐️ 8.0/10
+## [Scaffold-Mediated Post-Training Co-Evolves Parameters and Procedural Scaffolds](https://arxiv.org/abs/2608.05156) ⭐️ 8.0/10
 
-A new arXiv preprint (2608.04183) uses activation patching with a four-donor design to show that language models implement in-context conditional rules via separate modules: one for testing the predicate and another for routing the answer. The localization is consistent across three open models from two families and six languages, with the predicate's truth value carried in a mid-stack residual band. This work advances mechanistic interpretability by revealing that the 'test' component of conditional rules is modular and transferable, while the 'route' component is token-bound and non-transferable. These findings could inform future interpretability research and help build more reliable and controllable language models. The study used a strict pre-specified isolation criterion, meeting it in 17 of 18 cells, with predicate-outcome flip near 1.0 and mapping flip near 0.0. A learned subspace flips A and B near-perfectly within the trained pair but transfers to a new pair at approximately 0 in every model, except Gemma-3-4B where it transfers at approximately 0.98 to the same pair in other languages.
+This paper introduces scaffold-mediated post-training, where procedural scaffolds are organized into an evolvable graph that co-evolves with model parameters through discovery, distillation, and dynamic recompilation. On FeatureBench, the method improves the passed rate by 8.1 percentage points, and after progressive distillation, the model retains a 27.7% passed rate without external scaffolds, with a distillation retention rate of 85.2%. This paradigm addresses the disconnect between parameter training and inference-time scaffolding, enabling automatic acquisition and internalization of complex strategies. It could significantly influence future LLM post-training methods, potentially improving skill acquisition and retention across various tasks. The method is instantiated as 'Skill Training' and evaluated on FeatureBench. The progressive distillation step ensures that the model retains skills even without external scaffolds, achieving a retention rate of 85.2% compared to standard SFT on the same data.
 
-rss · arXiv - NLP · Aug 6, 04:00
+rss · arXiv - NLP · Aug 7, 04:00
 
-**Background**: Activation patching is a technique used in mechanistic interpretability to test causal relationships between internal activations and model outputs by replacing activations from one run with those from another. In-context learning (ICL) refers to a model's ability to perform tasks based on examples or instructions provided in the prompt without updating its weights. This paper investigates how models implement conditional rules like 'if P(x) then A else B' during ICL.
+**Background**: Post-training of large language models typically optimizes only parameters, while inference-time procedural scaffolds are designed independently. This paper proposes co-evolving both, using a graph structure for scaffolds. Procedural scaffolds are algorithmic structures that guide LLM reasoning, and progressive distillation is a technique to compress a model while retaining knowledge.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2309.16042">[2309.16042] Towards Best Practices of Activation Patching in...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Mechanistic_interpretability">Mechanistic interpretability - Wikipedia</a></li>
+<li><a href="https://arxiv.org/abs/2608.05156">[2608.05156] Scaffold - Mediated Post - Training : Co-Evolving Model...</a></li>
+<li><a href="https://www.emergentmind.com/topics/cognitive-scaffolds">Cognitive Scaffolds</a></li>
+<li><a href="https://www.emergentmind.com/topics/progressive-knowledge-distillation-pkd">Progressive Knowledge Distillation</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#mechanistic interpretability`, `#language models`, `#activation patching`, `#in-context learning`, `#LLM internals`
+**Tags**: `#LLM`, `#post-training`, `#procedural scaffolds`, `#skill learning`, `#arXiv`
 
 ---
 
 <a id="item-24"></a>
-## [LoRetta: Foundation Model for Global Remote Sensing Dense Matching](https://arxiv.org/abs/2608.04106) ⭐️ 8.0/10
+## [LLMs Threaten Double-Blind Review by De-Anonymizing Authors](https://arxiv.org/abs/2608.05157) ⭐️ 8.0/10
 
-LoRetta is a new foundation model that reformulates dense image matching as localization-and-registration, and introduces LEVIR-GM, a large benchmark with 103K aligned and 827K augmented pairs across six continents. On LEVIR-GM, LoRetta achieves an AUC of 83.3%, outperforming the strongest baseline RoMa v2 by 1.6 points, with PCK gains of 6.5 and 8.2 points at 1 and 2 pixels, while reducing inference latency by 47.8%. This work addresses a critical challenge in remote sensing: dense matching across images with large geometric offsets and unmatchable regions, which is essential for applications like geolocalization and change detection. By providing a foundation model and a large-scale benchmark, it sets a new standard and enables further research in global-scale remote sensing analysis. The LEVIR-GM benchmark includes multi-temporal optical imagery with resolutions from 0.5 to 1024 meters, spanning five years and six continents, and provides dataset-native matchability labels. LoRetta couples matchability-aware affine localization with guided dense registration, and its transferability is demonstrated in astronaut-to-satellite and UAV-to-satellite geolocalization experiments.
+A new arXiv paper (2608.05157) demonstrates that large language models can de-anonymize authors from titles and abstracts more effectively than humans, even when stylistic and bibliographic cues are excluded. The study shows that LLMs concentrate belief onto a small subset of plausible authors from pools of five domain experts. This finding threatens the validity of double-blind peer review, a cornerstone of academic publishing that relies on anonymity to prevent status and affiliation bias. As LLMs become more prevalent, the scientific community must reconsider how to maintain fairness and anonymity in an AI-augmented research ecosystem. The vulnerability persists even when stylistic and bibliographic cues are excluded, indicating that stable patterns in problem framing and research focus act as latent conceptual signatures of authorship. The study used papers published after model training, suggesting that LLMs can generalize to unseen authors.
 
-rss · arXiv - Computer Vision · Aug 6, 04:00
+rss · arXiv - NLP · Aug 7, 04:00
 
-**Background**: Dense image matching aims to find pixel-wise correspondences between images, which is fundamental for many computer vision and photogrammetry tasks. However, remote sensing images often differ in acquisition time, season, viewpoint, and resolution, leading to large geometric offsets and unmatchable regions that challenge traditional dense matching methods. Foundation models, pre-trained on large datasets, have shown promise in various vision tasks, but their application to remote sensing dense matching is still emerging.
+**Background**: Double-blind peer review is a process where both authors and reviewers are anonymous to each other, aiming to reduce bias based on status or affiliation. Traditionally, authorship could be inferred through citation networks or stylistic markers, but LLMs introduce a new, more efficient method of de-anonymization. This paper highlights that even without explicit cues, LLMs can leverage latent patterns in research focus to identify authors, posing a significant challenge to the integrity of the review process.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2509.08805">Handling Multiple Hypotheses in Coarse-to-Fine Dense Image ... Semi-dense feature matching with increased matching amount GitHub - PruneTruong/DenseMatching: Dense matching library ... Image Matching: Foundations, State of the Art, and Future ... GitHub - zhihao0512/dense-matching-image-stitching Seam estimation based on dense matching for parallax-tolerant ...</a></li>
-<li><a href="https://www.mdpi.com/2072-4292/17/2/179">When Remote Sensing Meets Foundation Model : A Survey and...</a></li>
-<li><a href="https://arxiv.org/pdf/2510.18318">Earth AI: Unlocking Geospatial Insights with Foundation Models and...</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8806370/">Double - Blind Reviews : A Step Toward Eliminating Unconscious Bias...</a></li>
+<li><a href="https://cypherpunkguide.com/en/privacy/ai-deanonymization/">AI Deanonymization : How Inference Undoes Your Anonymity (2026)</a></li>
+<li><a href="https://www.linkedin.com/posts/mohanvel_large-scale-online-deanonymization-with-llms-activity-7488738551363158016-jCKD">AI Shatters Online Anonymity with Large-Scale Deanonymization</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#remote sensing`, `#dense matching`, `#foundation model`, `#computer vision`, `#dataset`
+**Tags**: `#LLM`, `#peer review`, `#anonymity`, `#academic integrity`, `#arXiv`
 
 ---
 
 <a id="item-25"></a>
-## [GEB-Bench: Benchmarking Abstract Structural Reasoning Across Voices](https://arxiv.org/abs/2608.04111) ⭐️ 8.0/10
+## [Circuit-Anchored Evolution Prevents LLM Safety Drift](https://arxiv.org/abs/2608.05158) ⭐️ 8.0/10
 
-GEB-Bench is a new benchmark that tests models' ability to recognize and transfer abstract structural motifs (like self-reference or Möbius twists) across natural scenes, stories, math, and code. It reveals a consistent gap between within-voice recognition and cross-voice mapping across twelve evaluated models. This benchmark provides a novel way to evaluate abstract structural reasoning, a key aspect of human cognition that AI models often struggle with. The finding that all models pay a 'cross-voice tax' highlights a fundamental limitation in current AI, guiding future research toward improving cross-modal abstraction. The benchmark is fully generative and released with its pipeline, using surface parameters as nuisance variables that are never scored. Errors align more with the designed formal geometry than with perceptual geometries, and frontier models from different vendors converge on the same wrong answers.
+The paper introduces Circuit-Anchored Evolution (CAE), a method that identifies a safety circuit comprising less than 2% of model features and anchors it during self-evolution, constraining it within a small displacement bound while allowing other features to evolve freely. Experiments across three model families and two evolution algorithms show CAE preserves safety better than explicit reward-based constraints with minimal capability loss. This work addresses a critical gap in self-evolving LLMs, where pure capability optimization can lead to 'misevolution' into dangerous models. By drawing inspiration from biological developmental constraints, CAE offers a novel, interpretable, and efficient approach to AI safety that could be widely adopted to ensure safe self-improvement of language models. The safety circuit is identified using mechanistic interpretability techniques, and the anchoring is implemented via a circuit-level KL constraint added to the evolutionary loss. The method is tested on three model families and two evolution algorithms, demonstrating superior safety preservation and efficiency compared to explicit reward-based constraints.
 
-rss · arXiv - Computer Vision · Aug 6, 04:00
+rss · arXiv - NLP · Aug 7, 04:00
 
-**Background**: Abstract structural motifs are recurring patterns like self-reference or strange loops, inspired by Gödel, Escher, Bach. GEB-Bench presents these motifs in multiple 'voices' (e.g., a natural scene, a folk story, a mathematical theorem) and tasks models with recognizing and transferring them across voices. This tests a model's ability to abstract away surface details and grasp underlying structure, a skill central to human reasoning but challenging for AI.
+**Background**: Self-evolution algorithms for large language models (LLMs) optimize for capability without explicit safety constraints, assuming safety will be preserved. However, this assumption can be dangerously wrong, as models may evolve into powerful but unsafe entities. In biology, developmental constraints keep core regulatory genes anchored while peripheral genes adapt, ensuring viability. CAE applies this principle to LLMs by anchoring safety-critical circuits, mirroring the role of Hox genes in maintaining body structure over evolutionary time.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/html/2608.04111v1">GEB - Bench : Abstract Structures Told in Many Voices</a></li>
-<li><a href="https://arxiv.org/pdf/2302.04599v1">Principled and Efﬁcient Motif Finding for Structure Learning ...</a></li>
-<li><a href="https://ojs.aaai.org/index.php/AAAI/article/view/26439">Principled and Efficient Motif Finding for Structure Learning ...</a></li>
+<li><a href="https://arxiv.org/html/2608.05158v1">Safe Evolution with Circuit Anchors</a></li>
+<li><a href="https://arxiv.org/abs/2608.05158">[2608.05158] Safe Evolution with Circuit Anchors</a></li>
+<li><a href="https://arxiv.org/pdf/2603.23268">SafeSeek: Universal Attribution of Safety Circuits in Language Models</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#benchmark`, `#AI evaluation`, `#abstract reasoning`, `#cross-modal`, `#machine learning`
+**Tags**: `#AI safety`, `#LLM`, `#mechanistic interpretability`, `#evolutionary algorithms`
 
 ---
 
 <a id="item-26"></a>
-## [mmMind: Pose-Guided Radar-Language Model for Human Behavior Understanding](https://arxiv.org/abs/2608.04127) ⭐️ 8.0/10
+## [Hateful Visual Stories: Evaluating Multi-Turn T2I Generation](https://arxiv.org/abs/2608.05210) ⭐️ 8.0/10
 
-Researchers introduced mmMind, a radar-language model that uses synchronized 3D pose as training-only supervision to align mmWave radar data with large language models (LLMs). They also released mmMind-Bench, a real-world benchmark with 17.9 hours of recordings from 23 participants across seven indoor environments. This work addresses a significant challenge in embodied AI by enabling LLM agents to perceive human behavior through a privacy-friendly, contactless sensing modality. It provides a practical benchmark and demonstrates that pose-guided pretraining improves radar-language alignment, potentially advancing applications in smart homes, assisted living, and human-robot interaction. The spatio-temporal radar encoder is pretrained to capture body configuration and motion dynamics, then the pose head is removed so inference requires only radar data. Experiments show mmMind consistently outperforms existing radar-language baselines on captioning, question answering, and unseen-action generalization, with ablations confirming the importance of pose-guided pretraining.
+This paper introduces HatefulStoryPrompts, a dataset of 330 multi-turn configurations from 55 hateful stories, and evaluates five frontier T2I models over 4,950 attempts, finding that all complete over 80% of stories. It also proposes proactive and post-generation defenses, with an interaction-aware monitor achieving up to 97.3% recall. This research highlights a critical safety gap in multi-turn visual story generation, where frontier models can produce hateful narratives at scale. It underscores the need for safety mechanisms to evolve from per-image moderation to stateful reasoning over interactions and image relationships. The study uses a human-labeled dataset, HatefulVisualStory, with 969 hateful image sets and 990 benign controls. Existing moderation systems show low recall (at most 34.9% for dedicated safety models, 67.5% for a strong VLM), while proposed post-generation methods reach 80.2% recall.
 
-rss · arXiv - Computer Vision · Aug 6, 04:00
+rss · arXiv - Computer Vision · Aug 7, 04:00
 
-**Background**: Millimeter-wave (mmWave) radar is a non-contact sensing technology that operates in the 30-300 GHz range, capable of detecting objects, motion, and physiological signals while being robust to lighting and weather conditions. Existing radar-language models often rely on synthetic data or lack explicit supervision for human body structure, making alignment with language difficult. This work leverages 3D pose as a structured intermediate representation to bridge the gap between raw radar signals and semantic language understanding.
+**Background**: Text-to-image (T2I) systems like Gemini and GPT-Image now support multi-turn generation with consistent characters and scenes, enabling the creation of coherent visual stories. Historically, hateful narratives have been spread through picture books like Der Giftpilz, a Nazi propaganda children's book, highlighting the potential for misuse. This paper addresses the unexplored area of group-level hateful meaning in multi-turn visual stories.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/html/2608.04127v1">Teaching Foundation Models to Read mmWave: Pose-Guided ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Mmwave_sensing">mmWave sensing - Wikipedia</a></li>
-<li><a href="https://inowlzy.github.io/RadarLLM/">RadarLLM: Empowering Large Language Models to Understand ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Der_Giftpilz">Der Giftpilz - Wikipedia</a></li>
+<li><a href="https://arxiv.org/abs/2608.05210">[2608.05210] Innocent Panels, Hateful Stories : Evaluating and...</a></li>
+<li><a href="https://papers.cool/arxiv/2608.05210">Innocent Panels, Hateful Stories : Evaluating and Detecting Hateful ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#mmWave radar`, `#language model`, `#human behavior understanding`, `#pose-guided representation`, `#embodied AI`
+**Tags**: `#AI safety`, `#text-to-image`, `#hateful content`, `#multi-turn generation`, `#dataset`
 
 ---
 
 <a id="item-27"></a>
-## [RUTA: Principled Visual Token Allocation via Rate-Utility Optimization](https://arxiv.org/abs/2608.04132) ⭐️ 8.0/10
+## [Deep Generalized Mixed Models: A Novel Neural Network for Hierarchical Data](https://arxiv.org/abs/2608.05930) ⭐️ 8.0/10
 
-RUTA introduces a principled method for visual token allocation in vision-language models, jointly learning which tokens to retain and how many to allocate per image-query pair. It uses query-conditioned candidate tokens and differentiable Bernoulli gates to optimize a rate-utility objective, achieving significant token reduction while preserving task performance. This work addresses a critical bottleneck in vision-language model efficiency by reducing the computational and memory costs associated with long visual token sequences. It has the potential to enable more efficient deployment of multimodal AI systems, particularly for high-resolution images and long videos. Averaged across five benchmarks, RUTA uses only 2.0% and 4.2% of visual tokens while preserving 88.2% and 94.4% of task performance on LLaVA-NeXT-7B and Qwen3-VL-8B, respectively. The method constructs query-conditioned candidate tokens and uses anchor-based aggregation to combine retained and non-retained tokens.
+This paper introduces the Deep Generalized Mixed Model (DGMM), a novel neural network architecture that extends mixed effects models to deep learning, enabling semi-parametric and flexible modeling of mean and correlation structures. It uses an adaptation of variational autoencoders and Bayesian data augmentation to handle missing-at-random data and high-dimensional settings. The DGMM bridges traditional statistical modeling and deep learning, offering a scalable solution for analyzing hierarchical longitudinal data, such as experience sampling method (ESM) data. This could significantly impact fields like psychology and epidemiology by providing valid inference in the presence of missing data, which standard machine learning methods often fail to handle. The model accommodates longitudinal outcomes following generic distributions and scales well to high-dimensional settings. However, the authors report suboptimal performance due to model instability in their application to the GrowIt! study and simulations.
 
-rss · arXiv - Computer Vision · Aug 6, 04:00
+rss · arXiv - Data Science & Statistics · Aug 7, 04:00
 
-**Background**: Vision-language models (VLMs) process high-resolution images and long videos by converting them into long sequences of visual tokens, which are then fed into a large language model (LLM). This leads to high computational and memory costs. Existing token reduction methods often use fixed reduction rates or heuristic importance predictors, lacking a principled optimization framework. RUTA formulates token reduction as a rate-utility optimization problem, balancing token usage against task performance.
+**Background**: The experience sampling method (ESM) is a longitudinal research design where participants report their thoughts, emotions, and behaviors multiple times a day, often in natural settings. Mixed effects models are statistical models that include both fixed and random effects, useful for repeated measurements on the same subjects. Missing-at-random (MAR) data occur when the probability of missingness is related to observed values but not the missing values themselves, which standard machine learning procedures cannot accommodate.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/html/2608.04132v1">RUTA: Principled Visual Token Allocation via Rate-Utility ...</a></li>
-<li><a href="https://academ.us/article/2608.04132/">[2608.04132] RUTA: Principled Visual Token Allocation via ...</a></li>
-<li><a href="https://chatpaper.com/zh-CN/chatpaper/paper/318241">RUTA: Principled Visual Token Allocation via Rate-Utility ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mixed_effects_models">Mixed effects models</a></li>
+<li><a href="https://www.theanalysisfactor.com/missing-data-mechanism/">How to Diagnose the Missing Data Mechanism - The Analysis Factor</a></li>
+<li><a href="https://research.rug.nl/en/publications/so-you-want-to-do-esm-10-essential-topics-for-implementing-the-ex/">So You Want to Do ESM ? 10 Essential Topics for Implementing the...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#vision-language models`, `#token reduction`, `#efficiency`, `#multimodal`, `#deep learning`
+**Tags**: `#deep learning`, `#mixed effects models`, `#hierarchical data`, `#missing data`, `#longitudinal analysis`
 
 ---
 
 <a id="item-28"></a>
-## [Regularization Justified via Statistical Learning Theory and Occam's Razor](https://arxiv.org/abs/2608.04049) ⭐️ 8.0/10
+## [Finite-Sample Guarantees for Localized Conformal Prediction](https://arxiv.org/abs/2608.06206) ⭐️ 8.0/10
 
-This paper presents a means-ends justification for regularization as a form of Occam's razor, grounded in statistical learning theory. It argues that to achieve theoretical reliability and what-you-see-is-what-you-get guarantees, one must implement a preference for simplicity over fit. This provides a novel theoretical foundation for regularization, bridging philosophy of science and machine learning. It could influence how practitioners justify model complexity choices and deepen understanding of inductive bias. The argument builds on an earlier 'core argument' and avoids collapsing into purely pragmatic or ontological justifications. It emphasizes that the preference for simplicity is a methodological necessity, not an assumption that the truth is simple.
+This paper introduces finite-sample, high-probability bounds for randomly localized conformal prediction (RLCP), jointly controlling conditional coverage and oracle efficiency under Hölder regularity and standard assumptions. These guarantees address a key limitation of marginal validity, providing theoretical justification for RLCP's practical benefits. This can enhance reliability of machine learning models in high-stakes applications where conditional coverage is crucial. The bounds decompose into an O(h^β) localization bias and a calibration term decreasing with calibration size, clarifying the bandwidth bias-variance tradeoff. For data-split learned scores, uniform local guarantees decompose into fixed-score calibration and uniform score-estimation errors.
 
-rss · arXiv - Data Science & Statistics · Aug 6, 04:00
+rss · arXiv - Data Science & Statistics · Aug 7, 04:00
 
-**Background**: Statistical learning theory is a mathematical framework for analyzing learning algorithms, focusing on generalization error. Regularization is a technique to prevent overfitting by penalizing model complexity, often linked to Occam's razor, which favors simpler explanations. This paper connects these concepts to provide a formal justification for regularization.
+**Background**: Conformal prediction provides distribution-free, finite-sample marginal coverage for any black-box predictor, but marginal validity can hide severe covariate-specific miscalibration. Randomly localized conformal prediction (RLCP) calibrates near the test point to improve conditional coverage while preserving marginal validity, but existing theory lacked finite-sample guarantees for the realized localized set.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Statistical_learning_theory">Statistical learning theory</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Regularization_(machine_learning)">Regularization (machine learning)</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Occam_Learning">Occam learning - Wikipedia</a></li>
+<li><a href="https://arxiv.org/html/2310.07850">Conformal prediction with local weights: randomization enables...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Conformal_prediction">Conformal prediction - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Hölder_condition">Hölder condition - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#statistical learning theory`, `#regularization`, `#Occam's razor`, `#machine learning theory`, `#philosophy of science`
+**Tags**: `#conformal prediction`, `#uncertainty quantification`, `#finite-sample guarantees`, `#machine learning theory`
 
 ---
 
 <a id="item-29"></a>
-## [AutoSI Automates Selective Inference for Rational Algorithms](https://arxiv.org/abs/2608.04667) ⭐️ 8.0/10
+## [Early-Stopped Gradient Descent Achieves Minimax-Optimal Classification](https://arxiv.org/abs/2608.06250) ⭐️ 8.0/10
 
-AutoSI automatically constructs selection events for selective inference from algorithm code, eliminating manual derivation and expanding the class of algorithms for which exact SI is feasible. This framework significantly broadens the applicability of exact selective inference, enabling valid p-values for a wider range of data-driven hypothesis testing, including feature selection methods like the lasso with cross-validated tuning. AutoSI covers any algorithm expressible through rational functions of the data (ratios of polynomials), going beyond existing linear or quadratic inequality constraints. It proves finite-sample exact validity of p-values and demonstrates on three feature-selection methods, including one not previously handled by exact SI.
+This paper proves that early-stopped gradient descent (GD) on logistic loss achieves minimax-optimal excess zero-one risk in Gaussian mixture models with label-flipping noise, overcoming the suboptimality of max-margin classifiers. It provides both upper and lower bounds, validated by experiments. This result provides a theoretical foundation for early stopping as a regularization technique in overparameterized classification, showing it can be statistically optimal. It addresses a fundamental question about implicit bias and could influence future research in optimization and statistical learning theory. The analysis combines a sharp upper bound for the early-stopped iterate with a matching statistical lower bound over arbitrary classifiers, yielding optimal rates for covariance spectra with fast and continuous decay (e.g., polynomial and exponential). A central technical contribution is a new calibration result that converts excess logistic risk into excess zero-one risk, removing the square-root rate in standard bounds.
 
-rss · arXiv - Data Science & Statistics · Aug 6, 04:00
+rss · arXiv - Data Science & Statistics · Aug 7, 04:00
 
-**Background**: Selective inference (SI) provides statistically valid p-values when hypotheses are selected from the same data used for testing, correcting for selection bias. Traditionally, deriving the selection event for a new algorithm required expert manual effort, limiting exact SI to a narrow class. AutoSI automates this process by tracking array operations and constructing the selection event automatically.
+**Background**: In overparameterized classification, training data can be linearly separable even when the underlying distribution is not, causing gradient descent on logistic loss to diverge in norm while converging in direction to a max-margin interpolating classifier. This implicit bias can be statistically suboptimal. Early stopping is a common practice to prevent overfitting, but its theoretical optimality in this setting was not well understood.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/html/2608.04667v1">Automatic Statistical Test for Rationally Expressible ...</a></li>
-<li><a href="https://github.com/tkatsuoka/autosi/blob/main/README.md">autosi/README.md at main · tkatsuoka/autosi · GitHub</a></li>
-<li><a href="https://www.pnas.org/doi/10.1073/pnas.1507583112">Statistical learning and selective inference - PNAS</a></li>
+<li><a href="https://arxiv.org/html/2608.06250v1">Minimax Optimal Early-Stopped Gradient Descent for Gaussian ...</a></li>
+<li><a href="https://www.stat.berkeley.edu/~bartlett/talks/202508Cargese.pdf">Gradient optimization methods: large step-sizes and implicit bias</a></li>
+<li><a href="https://blog.ml.cmu.edu/2019/03/07/a-continuous-time-view-of-early-stopping-for-least-squares/">A Continuous-Time View of Early Stopping for Least Squares...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#selective inference`, `#statistical testing`, `#feature selection`, `#automation`, `#arXiv`
+**Tags**: `#optimization`, `#statistical learning theory`, `#gradient descent`, `#classification`, `#early stopping`
 
 ---
 
 <a id="item-30"></a>
-## [ILDM: Hybrid Diffusion on Unknown Manifolds for Generative Modeling](https://arxiv.org/abs/2608.04827) ⭐️ 8.0/10
+## [Logarithmic Cost Inherent in Learning with Monotone Adversaries](https://arxiv.org/abs/2608.06337) ⭐️ 8.0/10
 
-The paper introduces the Intrinsic Hybrid Latent Diffusion Model (ILDM), which treats the latent space as a chart of an unknown Riemannian manifold and uses a hybrid diffusion process that switches between Riemannian and Euclidean dynamics based on local uncertainty. Experiments on COIL-100, MNIST, and cardiac MRI datasets show that ILDM achieves lower FID and LPIPS scores compared to standard diffusion and latent diffusion models. This work addresses a key limitation of existing latent diffusion models by incorporating geometric structure, which is especially beneficial in data-sparse regimes. It could inspire new approaches that combine manifold learning with diffusion models, potentially improving generative modeling for complex, high-dimensional data. ILDM uses a probabilistic decoder to quantify geometry and uncertainty, and the forward process is a hybrid diffusion that switches between Riemannian and Euclidean dynamics based on local uncertainty. The authors introduce an approximate denoising score matching method tailored to the hybrid setting, enabling a backward process defined by hybrid Langevin dynamics.
+This paper resolves an open question by proving that the extra logarithmic factor in learning with monotone adversaries is inherent for VC classes of dimension greater than one. The minimax expected error is Θ(1/n) for d=1 and Θ((d/n)log(n/d)) for d≥2, matching the upper bound of empirical risk minimization. This result establishes a fundamental limitation in adversarial learning, showing that even correctly labeled adversarial insertions can inherently increase the sample complexity by a logarithmic factor. It impacts the design of learning algorithms and deepens our understanding of the minimax rates in non-exchangeable settings. The lower bounds are derived from a single explicit construction: a class and prior where two target hypotheses differing at a point of nonnegligible mass produce the same sample. The dimension-one upper bound is achieved by a simple improper learner that adapts the leave-one-out argument from the one-inclusion graph.
 
-rss · arXiv - Data Science & Statistics · Aug 6, 04:00
+rss · arXiv - Data Science & Statistics · Aug 7, 04:00
 
-**Background**: Diffusion models (DMs) generate data by iteratively adding and removing noise, but they typically require large datasets and ignore intrinsic geometric structure. Latent diffusion models (LDMs) perform diffusion in a compressed latent space, but often assume a Euclidean structure, which may not capture the underlying manifold geometry. Riemannian manifolds are geometric spaces where notions like distance and curvature are defined, and they can better represent the intrinsic structure of data.
+**Background**: In the monotone adversary model, an adversary observes an i.i.d. labeled sample and appends a finite number of correctly labeled examples of its choice. The learner sees a uniform shuffle of the combined sample, but the insertions depend on the clean sample, breaking exchangeability. VC dimension measures the complexity of a hypothesis class, and the standard PAC learning rate is Θ(d/n). This paper shows that the logarithmic factor is unavoidable for d≥2, even for classes with finite Littlestone dimension.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Latent_diffusion_model">Latent diffusion model</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Riemannian_manifold">Riemannian manifold</a></li>
+<li><a href="https://arxiv.org/html/2601.02193v1">Learning with Monotone Adversarial Corruptions</a></li>
+<li><a href="https://www.emergentmind.com/topics/monotone-adversarial-corruption-model">Monotone Adversarial Corruption Model</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#diffusion models`, `#generative modeling`, `#Riemannian geometry`, `#latent space`, `#manifold learning`
+**Tags**: `#learning theory`, `#adversarial learning`, `#VC dimension`, `#statistical learning`
 
 ---
 
 <a id="item-31"></a>
-## [Stable Density Ridges: Correcting SCMS Convergence Theory](https://arxiv.org/abs/2608.05112) ⭐️ 8.0/10
+## [Scalable VARMA Estimation Framework Removes Series-Length Dependence](https://arxiv.org/abs/2608.06340) ⭐️ 8.0/10
 
-This paper disproves the long-held assumption that Subspace Constrained Mean Shift (SCMS) trajectories converge to the classical density ridge, and instead introduces a new 'stable ridge' concept based on dynamical systems, proving it as the true theoretical target. This correction is significant for nonparametric density estimation and topological data analysis, as it provides a correct theoretical foundation for SCMS and related algorithms, potentially leading to more accurate ridge extraction in high-dimensional data applications. The paper develops a generalized SCMS framework with constant step size, proving uniform R-linear convergence and topological surjectivity onto the stable ridge. It also shows the original SCMS has polynomial-time complexity due to implicit coupling of step size and bandwidth, and the new framework is statistically consistent and more efficient.
+A new framework for estimating VARMA models makes each optimization iteration independent of the series length T, using partial-autocorrelation reparametrization and Fourier-based sufficient statistics. It provides two point estimators and extends to seasonal, exogenous, and rolling-window settings. This removes a long-standing computational barrier that made VARMA models impractical beyond moderate dimensions, potentially shifting practitioners from VAR to more expressive VARMA models. It could improve forecast accuracy in fields like econometrics, finance, and environmental science. The framework guarantees stationarity and invertibility by construction, uses Gaussian priors with separate scales for diagonal and off-diagonal entries, and evaluates losses via a Parseval identity at near-linear cost. Empirically, it stays close to oracle forecast error from d=10 to d=40, where classical conditional MLE fails.
 
-rss · arXiv - Data Science & Statistics · Aug 6, 04:00
+rss · arXiv - Data Science & Statistics · Aug 7, 04:00
 
-**Background**: SCMS is a gradient-based algorithm for extracting density ridges, which are low-dimensional structures in high-dimensional data. The classical 'static ridge' is defined via the density gradient and Hessian eigenvectors, but this paper shows it fails to account for eigenspace rotation, leading to the new 'stable ridge' concept from dynamical systems.
+**Background**: VARMA models combine vector autoregressive and moving-average terms, capturing dynamics with fewer parameters than pure VAR, but their likelihood is non-convex and identified only up to equivalence, making estimation costly. The partial autocorrelation reparametrization ensures stability, while Parseval's identity relates time-domain energy to frequency-domain energy, enabling fixed-size sufficient statistics.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2608.05112">[2608.05112] Stable Density Ridges: Consistency and ...</a></li>
-<li><a href="https://arxiv.org/abs/2104.14977">Linear Convergence of the Subspace Constrained Mean Shift ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Stability_theory">Stability theory - Wikipedia</a></li>
+<li><a href="https://arxiv.org/abs/2608.06340">[2608.06340] Scalable estimation of VARMA models</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Parseval's_identity">Parseval 's identity - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#density ridge`, `#SCMS`, `#nonparametric statistics`, `#dynamical systems`, `#theoretical computer science`
+**Tags**: `#VARMA`, `#time series`, `#scalable estimation`, `#Bayesian inference`, `#Fourier methods`
 
 ---
 
 <a id="item-32"></a>
-## [New Theory Links Entropy, Topology to Explain Deep Learning Generalization](https://arxiv.org/abs/2606.30512) ⭐️ 8.0/10
+## [FlowAdam: Hybrid Optimizer with Soft Momentum Injection](https://arxiv.org/abs/2604.06652) ⭐️ 8.0/10
 
-This paper introduces a unified theoretical framework combining information theory, topology, and statistical mechanics to explain why overparameterized deep networks generalize well. It proposes the Entropic Learnability Horizon (ELH) and proves the Shannon-Topological Bottleneck Theorem, along with a new optimization algorithm called Entropic Gradient Descent (EGD). This work addresses a fundamental open problem in deep learning theory, potentially bridging the gap between theoretical predictions and empirical success. It could influence future research on generalization, optimization, and the design of learning algorithms. The ELH states that a network can learn a target function only if the Shannon entropy of the data manifold exceeds the topological entropy of the decision boundary, balanced by the von Neumann entropy of the weights. The paper also interprets grokking as an 'Entropic Release' and introduces EGD to dynamically manage weight entropy.
+FlowAdam is a new optimizer that augments Adam with continuous gradient-flow integration via an ordinary differential equation (ODE), and introduces Soft Momentum Injection to blend ODE velocity with Adam's momentum during mode transitions, preventing training collapse. This addresses a known limitation of Adam's diagonal preconditioning in coupled parameter spaces, offering implicit regularization that improves generalization on matrix factorization, tensor decomposition, and graph neural networks. It could influence future optimizer design for ill-conditioned problems. FlowAdam switches to clipped ODE integration when EMA-based statistics detect landscape difficulty. Ablation studies show that soft injection is essential, as hard replacement reduces accuracy from 100% to 82.5%.
 
-rss · arXiv - Data Science & Statistics · Aug 6, 04:00
+rss · arXiv - Data Science & Statistics · Aug 7, 04:00
 
-**Background**: Classical learning theory, such as VC dimension and Rademacher complexity, often predicts overfitting for modern overparameterized models, contradicting empirical success. This paper uses concepts from information theory (Shannon entropy), topology (topological entropy), and statistical mechanics (von Neumann entropy, phase transitions) to propose a new theoretical lens.
+**Background**: Adam uses a diagonal preconditioner based on exponential moving averages of squared gradients, which is coordinate-system dependent and struggles with dense or rotated parameter couplings. Implicit regularization refers to the phenomenon where optimization dynamics bias solutions toward simpler structures without explicit regularization terms. FlowAdam combines Adam with ODE-based gradient flow to provide implicit regularization and prevent training collapse.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/pdf/2606.30512v1">Informational Frustration in Neural Manifolds: Shannon ...</a></li>
-<li><a href="https://www.emergentmind.com/papers/2606.30512">Informational Frustration in Neural Manifolds: Shannon ...</a></li>
-<li><a href="https://www.aimodels.fyi/papers/arxiv/informational-frustration-neural-manifolds-shannon-bottlenecks-limits">Informational Frustration in Neural Manifolds: Shannon ...</a></li>
+<li><a href="https://arxiv.org/html/2604.06652v1">FlowAdam : Implicit Regularization via Geometry-Aware Soft...</a></li>
+<li><a href="https://github.com/idevender/flowadam">GitHub - idevender/ flowadam : FlowAdam : Implicit Regularization via...</a></li>
+<li><a href="https://arxiv.org/pdf/2604.06652">FlowAdam: Implicit Regularization via Geometry-Aware Soft ...</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#deep learning theory`, `#generalization`, `#information theory`, `#topology`, `#statistical mechanics`
+**Tags**: `#optimization`, `#deep learning`, `#Adam`, `#ODE`, `#regularization`
 
 ---
 
 <a id="item-33"></a>
-## [Learning as Gradient Flow on Product Wasserstein Manifolds](https://arxiv.org/abs/2608.01434) ⭐️ 8.0/10
+## [Blocking SLC6A20 Improves Autism Behaviors in Adult Mice and Organoids](https://www.sciencedaily.com/releases/2026/08/260805082508.htm) ⭐️ 8.0/10
 
-This paper proposes viewing deep neural networks and variational quantum circuits as gradient flows on a product of Wasserstein manifolds, reframing distributional constraints as intrinsic geometry rather than capacity restrictions. It introduces two algorithms, Hierarchical DisCo-SGD and Quantum DisCo, that follow approximate geodesics on these manifolds. This framework could provide new theoretical insights into deep learning and quantum machine learning, potentially improving generalization and training stability while mitigating barren plateaus in quantum circuits. It may influence future research on incorporating structural constraints as geometric priors in learning systems. The paper develops a hierarchical mean-field description for deep networks and extends the framework to quantum settings using the quantum Wasserstein distance of order 1. Experiments on teacher-student problems, image classification, and variational quantum classifiers show improvements in generalization, training stability, and reduced barren plateaus compared to baselines.
+A new study found that blocking the glycine transporter SLC6A20 restored brain signaling and improved social, communication, and repetitive behaviors in adult mouse models of autism, and also showed effects in human brain organoids. This challenges the long-held assumption that autism-related brain changes are irreversible in adulthood, suggesting that the adult brain may remain treatable. It could open new avenues for therapeutic interventions in older individuals with autism, who currently have limited treatment options. The study specifically targeted SLC6A20, a transporter known to regulate glycine, a co-agonist of NMDA receptors. The treatment showed lasting effects in adult mice, and the use of human brain organoids suggests potential translational relevance, though this is a single study and not yet a clinical breakthrough.
 
-rss · arXiv - Data Science & Statistics · Aug 6, 04:00
+rss · ScienceDaily Health · Aug 7, 12:38
 
-**Background**: Wasserstein spaces are metric spaces of probability measures equipped with the Wasserstein distance, which has been used in optimal transport and machine learning. Gradient flows in Wasserstein space describe the evolution of probability densities under a functional, and have been studied for their geometric properties. Variational quantum circuits are parameterized quantum circuits used in hybrid quantum-classical algorithms, where optimization can suffer from barren plateaus.
+**Background**: Autism spectrum disorder (ASD) is a neurodevelopmental condition characterized by social and communication deficits and repetitive behaviors. SLC6A20 is a sodium/imino-acid transporter that also transports glycine, which plays a role in NMDA receptor function. Brain organoids are lab-grown miniature models of the brain derived from human stem cells, used to study brain development and diseases in a human context.
 
 <details><summary>References</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2311.08549">[2311.08549] Manifold learning in Wasserstein space - arXiv.org MANIFOLD LEARNING IN WASSERSTEIN SPACE∗ - arXiv.org Some Geometric Calculations on Wasserstein Space Manifold Learning in Wasserstein Space | SIAM Journal on ... proof that the wasserstein space is no manifold Geometry on the Wasserstein space over a compact Riemannian ... Sliced-Wasserstein Distances and Flows on Cartan-Hadamard ...</a></li>
-<li><a href="https://lslsliushu.github.io/files/WGFs_on_generative_model_slides.pdf">Wasserstein gradient flows on the push-forward generative model</a></li>
-<li><a href="https://grokipedia.com/page/Parameterized_quantum_circuit">Parameterized quantum circuit</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SLC6A20">SLC 6 A 20 - Wikipedia</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7863395/">SLC 6 A 20 transporter : a novel regulator of brain glycine homeostasis...</a></li>
+<li><a href="https://www.livescience.com/minibrains-brain-organoids-explained">Cerebral organoids : What are lab-grown 'minibrains'? | Live Science</a></li>
 
 </ul>
 </details>
 
-**Tags**: `#statistical mechanics`, `#Wasserstein manifolds`, `#deep learning theory`, `#quantum circuits`, `#gradient flows`
-
----
-
-<a id="item-34"></a>
-## [Auditing Subgroup Under-Coverage in Conformal Prediction for Alzheimer's](https://arxiv.org/abs/2608.04254) ⭐️ 8.0/10
-
-This paper introduces a mechanism-driven framework to audit and repair subgroup under-coverage in conformal prediction for Alzheimer's disease longitudinal forecasting. Across two cohorts (ADNI, OASIS-3), two base forecasters, and nine attributes, they found that population-level bands under-cover high-risk subgroups in 57 of 68 audited combinations despite nominal marginal coverage. This work highlights a critical fairness issue in medical AI: population-level conformal guarantees can mask severe under-coverage for high-risk subgroups, potentially leading to unreliable clinical decisions. The proposed auditing and correction methods offer a path toward more equitable and trustworthy uncertainty quantification in healthcare applications. The failures are traced to two mechanisms: rarity, where a group-conditional band calibrated on n patients covers at most k/(n+1), and tail-heaviness, where a population-wide band is too narrow for heavy-tailed subgroups. Corrections include cross-conformal pooling for rarity, per-subgroup calibration for tail-heaviness, and a coverage-safe marginal floor when both arise, restoring target coverage for nearly every high-risk subgroup.
-
-rss · arXiv - Data Science & Statistics · Aug 6, 04:00
-
-**Background**: Conformal prediction is a distribution-free method that provides finite-sample marginal coverage guarantees under exchangeability, meaning prediction intervals contain the true outcome with a specified probability on average. However, these guarantees are marginal and may not hold for specific subgroups, which is particularly problematic in clinical settings where high-risk patients need reliable uncertainty estimates. The paper addresses this gap by auditing and correcting subgroup under-coverage in Alzheimer's disease prediction.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arxiv.org/html/2608.04254">When Is a Conformal Guarantee Fair? Auditing Silent Subgroup ...</a></li>
-<li><a href="https://arxiv.org/abs/2305.12616">[2305.12616] Conformal Prediction With Conditional Guarantees Conformal prediction with conditional guarantees | Journal of ... A Tutorial on Distribution-Free Uncertainty Quantification ... Sample-Conditional Coverage in Conformal Prediction Conformal prediction with local weights: randomization ... Conformal Prediction With Conditional Guarantees</a></li>
-<li><a href="https://academic.oup.com/jrsssb/article/87/4/1100/8058684">Conformal prediction with conditional guarantees | Journal of ...</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#conformal prediction`, `#fairness`, `#Alzheimer's disease`, `#medical AI`, `#subgroup coverage`
-
----
-
-<a id="item-35"></a>
-## [Matching Sample Complexity Bounds for Multilevel Multicalibration](https://arxiv.org/abs/2608.04288) ⭐️ 8.0/10
-
-This paper establishes matching upper and lower sample-complexity bounds for multicalibration of multilevel properties, generalizing prior work to sequences of identifiable properties. For every fixed k≥2, it shows that achieving multicalibration error ε requires Ω~(ε^{-(k+2)}) samples even with polylogarithmically many binary groups, and provides a randomized learner using O(ε^{-(k+2)} + ε^{-2} log|G|) samples for any finite group family G. This result resolves an open problem in algorithmic fairness and calibration theory, providing tight sample complexity bounds that guide the design of reliable predictors. It extends multicalibration to multilevel properties like variance and skewness, which are crucial for many prediction tasks, and is likely to influence future research in fair machine learning. The framework includes Bayes pairs but does not require properties to arise from a single loss. The paper instantiates the theory for three canonical examples, and the bounds hold under regularity conditions, with logarithmic factors omitted.
-
-rss · arXiv - Data Science & Statistics · Aug 6, 04:00
-
-**Background**: Calibration requires a predictor to be unbiased after conditioning on its own predictions, while multicalibration extends this guarantee to a collection of groups. Sample complexity in learning theory measures how many training examples are needed to achieve a certain accuracy. Identifiable properties are those that can be uniquely determined once preceding properties are fixed, such as variance relative to the mean.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arxiv.org/abs/2608.04288">[2608.04288] Sample Complexity of Multicalibration for ...</a></li>
-<li><a href="https://proceedings.mlr.press/v80/hebert-johnson18a.html">Multicalibration: Calibration for the (Computationally ... - PMLR</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#multicalibration`, `#sample complexity`, `#algorithmic fairness`, `#calibration`, `#theory`
-
----
-
-<a id="item-36"></a>
-## [ArborEnum: First Exact Enumeration of Decision Tree Rashomon Sets with Continuous Features](https://arxiv.org/abs/2608.04310) ⭐️ 8.0/10
-
-ArborEnum introduces the first exact enumeration algorithm for decision-tree Rashomon sets that directly handles continuous features without requiring binarization. It also provides a relaxation for approximate enumeration and an anytime algorithm that progressively refines candidate thresholds. This work addresses a critical limitation in interpretable machine learning, enabling more complete and accurate analysis of model robustness, feature importance, and predictive multiplicity. It could significantly improve the reliability of model selection and fairness assessments in real-world applications. The algorithm exploits the ordered structure of continuous features to avoid the complexity blowup of binarization. Experiments show that coarse binarization can miss many trees and important features, while ArborEnum achieves orders-of-magnitude speedups over existing methods, with approximations maintaining near-perfect recall.
-
-rss · arXiv - Data Science & Statistics · Aug 6, 04:00
-
-**Background**: The Rashomon effect in machine learning refers to the phenomenon where many models achieve similar performance on the same task. Decision trees are one of the few model classes where Rashomon sets can be fully enumerated, but previous methods required binarizing continuous features, which either restricts splits or increases complexity. ArborEnum overcomes this by directly handling continuous features.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://arxiv.org/html/2608.04310">ArborEnum: Decision Tree Rashomon Sets over Continuous Features</a></li>
-<li><a href="https://www.emergentmind.com/topics/rashomon-effect">Rashomon Effect in Machine Learning</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Decision_tree_learning">Decision tree learning - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#decision trees`, `#Rashomon sets`, `#interpretable machine learning`, `#algorithm`, `#continuous features`
-
----
-
-<a id="item-37"></a>
-## [AI Designs 16 Functional Viruses, Raising Safety Concerns](https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss) ⭐️ 8.0/10
-
-Researchers at Stanford University used AI genome language models to design 16 synthetic bacteriophages that are fully functional and can replicate in the lab. The AI models were trained on genetic codes from viruses, bacteria, plants, and people, and the viruses were created using the natural ΦX174 bacteriophage as a template. This breakthrough demonstrates AI's potential in genetic engineering, but also raises urgent safety and security concerns. It could accelerate synthetic biology research, yet the ability to design viable viruses from scratch poses biosecurity risks that need addressing. The AI models were fine-tuned on 14,266 Microviridae genomes, and the design process involved several steps of computational and experimental filtering. In lab tests, a cocktail of the AI-designed viruses killed E. coli bugs that were resistant to natural bacteriophages.
-
-rss · BBC Health · Aug 6, 18:01
-
-**Background**: Bacteriophages are viruses that infect bacteria, and they are being explored as alternatives to antibiotics. Genome language models are the genetic equivalent of large language models like GPT-4, which learn patterns from vast amounts of data. This work builds on prior AI applications in biology, such as designing new antibiotics, but designing a viable virus from scratch is far more complex.
-
-<details><summary>References</summary>
-<ul>
-<li><a href="https://www.bbc.com/news/articles/c5y3j3ngevmo">Artificial Intelligence used to design brand new viruses - BBC</a></li>
-<li><a href="https://www.theguardian.com/science/2026/aug/06/safety-fears-as-scientists-make-first-viruses-designed-by-ai">Safety fears as scientists make first viruses designed by AI | Science</a></li>
-<li><a href="https://www.science.org/doi/10.1126/science.aej8512">AI-designed viral genomes | Science</a></li>
-
-</ul>
-</details>
-
-**Tags**: `#AI`, `#synthetic biology`, `#genetic engineering`, `#biotech`
+**Tags**: `#autism`, `#neuroscience`, `#SLC6A20`, `#brain organoids`, `#therapy`
 
 ---

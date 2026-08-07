@@ -5,202 +5,265 @@ date: 2026-08-07
 lang: zh
 ---
 
-> From 94 items, 37 important content pieces were selected
+> From 94 items, 33 important content pieces were selected
 
 ---
 
-1. [Uber 开源 ADR：面向企业 AI 代理的安全系统](#item-1) ⭐️ 9.0/10
-2. [AMD 收购 Taalas，将 AI 模型硬编码到硅片中以提高推理速度](#item-2) ⭐️ 8.0/10
-3. [用帕累托前沿分析马里奥赛车角色选择](#item-3) ⭐️ 8.0/10
-4. [品味：AI 编程时代人类最后的优势](#item-4) ⭐️ 8.0/10
-5. [Qwen3.8 Max 登顶 Agentic Index，显示中国 AI 追赶](#item-5) ⭐️ 8.0/10
-6. [Datasette 1.0a38 修复混合公开/私有表配置中的 SQL 注入漏洞](#item-6) ⭐️ 8.0/10
-7. [Cloudflare Computer：面向代理的虚拟文件系统](#item-7) ⭐️ 8.0/10
-8. [系统设计入门：包含 Anki 卡片的全面开源指南](#item-8) ⭐️ 8.0/10
-9. [Addy Osmani 发布面向 AI 编码代理的生产级技能包](#item-9) ⭐️ 8.0/10
-10. [AirLLM 无需量化即可在 4GB GPU 上运行 70B 大模型](#item-10) ⭐️ 8.0/10
-11. [自验证代理工具将承诺漂移与绑定漂移分离](#item-11) ⭐️ 8.0/10
-12. [MCTS-Report：基于蒙特卡洛树搜索的表格到多模态报告生成](#item-12) ⭐️ 8.0/10
-13. [BrainBench：面向大语言模型全面脑电理解的新基准](#item-13) ⭐️ 8.0/10
-14. [无领域知识的元认知层提升预训练感知模型的鲁棒性](#item-14) ⭐️ 8.0/10
-15. [MatrAIx：基于 83 亿人设的大规模模拟用户评估](#item-15) ⭐️ 8.0/10
-16. [RAIL 原则为神经符号 AI 提供统一框架](#item-16) ⭐️ 8.0/10
-17. [信任域框架统一自适应优化器，提出 GMake 机制](#item-17) ⭐️ 8.0/10
-18. [Tactus：基于低成本压力阵列的开放词汇触觉识别](#item-18) ⭐️ 8.0/10
-19. [RRQ：从单一检查点实现 LLM 渐进式多精度量化](#item-19) ⭐️ 8.0/10
-20. [LLM 提示工程在 EvaLatin 2026 古典拉丁语命名实体识别中夺冠](#item-20) ⭐️ 8.0/10
-21. [位置相关的重复效应挑战完形填空探针假设](#item-21) ⭐️ 8.0/10
-22. [输出令牌上限扭曲多语言推理基准测试](#item-22) ⭐️ 8.0/10
-23. [语言模型通过分离的测试与路由模块实现条件规则](#item-23) ⭐️ 8.0/10
-24. [LoRetta：面向全球遥感稠密匹配的基础模型](#item-24) ⭐️ 8.0/10
-25. [GEB-Bench：跨“声音”的抽象结构推理基准测试](#item-25) ⭐️ 8.0/10
-26. [mmMind：基于姿态引导的雷达-语言模型用于人类行为理解](#item-26) ⭐️ 8.0/10
-27. [RUTA：通过率-效用优化实现原则性视觉令牌分配](#item-27) ⭐️ 8.0/10
-28. [通过统计学习理论与奥卡姆剃刀为正则化提供辩护](#item-28) ⭐️ 8.0/10
-29. [AutoSI 自动化理性表达算法的选择性推断](#item-29) ⭐️ 8.0/10
-30. [ILDM：在未知流形上进行混合扩散的生成建模](#item-30) ⭐️ 8.0/10
-31. [稳定密度脊：修正 SCMS 收敛理论](#item-31) ⭐️ 8.0/10
-32. [新理论将熵与拓扑联系起来解释深度学习泛化](#item-32) ⭐️ 8.0/10
-33. [学习作为乘积 Wasserstein 流形上的梯度流](#item-33) ⭐️ 8.0/10
-34. [审计阿尔茨海默病预测中符合预测的子群覆盖不足](#item-34) ⭐️ 8.0/10
-35. [多级多校准的匹配样本复杂度界](#item-35) ⭐️ 8.0/10
-36. [ArborEnum：首个支持连续特征的决策树 Rashomon 集合精确枚举算法](#item-36) ⭐️ 8.0/10
-37. [AI 设计出 16 种功能性病毒，引发安全担忧](#item-37) ⭐️ 8.0/10
+1. [DeepSeek V4 Flash 0731 发布，性能与成本效益大幅提升](#item-1) ⭐️ 8.0/10
+2. [科技从业者的幻灭：信仰危机](#item-2) ⭐️ 8.0/10
+3. [Oracle 禁止 OpenJDK 使用 AI 生成的代码](#item-3) ⭐️ 8.0/10
+4. [用 Rust 引擎让 Postgres 分析速度快 300 倍](#item-4) ⭐️ 8.0/10
+5. [据报道，2027 年内存产能已被预订一空，AI 需求是主因](#item-5) ⭐️ 8.0/10
+6. [与爬虫斗争一年：150 万页网站的防抓取之路](#item-6) ⭐️ 8.0/10
+7. [新墨西哥州法院裁定 Meta 支付 5.67 亿美元，因其损害儿童心理健康](#item-7) ⭐️ 8.0/10
+8. [Wyzer：一种确保分布式死锁安全的新语言](#item-8) ⭐️ 8.0/10
+9. [Addy Osmani 的 Agent Skills：面向 AI 编程代理的生产级工程工作流](#item-9) ⭐️ 8.0/10
+10. [Cloudflare Computer：面向代理的虚拟文件系统](#item-10) ⭐️ 8.0/10
+11. [AutoGPT：用于自主 AI 代理的开源平台](#item-11) ⭐️ 8.0/10
+12. [Uber 开源 ADR，面向企业 AI 代理的安全系统](#item-12) ⭐️ 8.0/10
+13. [点火指数：衡量大语言模型中全局工作空间动态的新指标](#item-13) ⭐️ 8.0/10
+14. [啄木鸟蒸馏：弱模型修复强模型推理缺陷](#item-14) ⭐️ 8.0/10
+15. [Otter：一种时间感知、历史条件化的人类国际象棋 AI](#item-15) ⭐️ 8.0/10
+16. [SearchAuditor：审计并修复长时程搜索智能体的失败](#item-16) ⭐️ 8.0/10
+17. [CRAFTER：用于黑盒预测器纠正特征发现的智能体](#item-17) ⭐️ 8.0/10
+18. [PPDL：面向 LLM 流程的概率编程](#item-18) ⭐️ 8.0/10
+19. [将感知与描述解耦以实现时间序列与语言的对齐](#item-19) ⭐️ 8.0/10
+20. [边缘匹配无法防止因子化生成模型中的风格泄漏](#item-20) ⭐️ 8.0/10
+21. [平均场理论建模大语言模型中的思维链推理](#item-21) ⭐️ 8.0/10
+22. [GraphRAG 过度引用普遍存在，但对忠实度的影响因语料而异](#item-22) ⭐️ 8.0/10
+23. [支架介导的后训练：参数与程序性支架共同进化](#item-23) ⭐️ 8.0/10
+24. [大语言模型通过去匿名化威胁双盲评审](#item-24) ⭐️ 8.0/10
+25. [电路锚定进化防止大语言模型安全漂移](#item-25) ⭐️ 8.0/10
+26. [仇恨视觉故事：评估多轮文本到图像生成](#item-26) ⭐️ 8.0/10
+27. [深度广义混合模型：一种用于层次数据的新型神经网络](#item-27) ⭐️ 8.0/10
+28. [局部化共形预测的有限样本保证](#item-28) ⭐️ 8.0/10
+29. [早停梯度下降实现极小极大最优分类](#item-29) ⭐️ 8.0/10
+30. [单调对手学习中的对数代价是固有的](#item-30) ⭐️ 8.0/10
+31. [可扩展的 VARMA 估计框架消除对序列长度的依赖](#item-31) ⭐️ 8.0/10
+32. [FlowAdam：融合软动量注入的混合优化器](#item-32) ⭐️ 8.0/10
+33. [阻断 SLC6A20 改善成年小鼠和类器官的自闭症行为](#item-33) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Uber 开源 ADR：面向企业 AI 代理的安全系统](https://github.com/uber/ADR) ⭐️ 9.0/10
+## [DeepSeek V4 Flash 0731 发布，性能与成本效益大幅提升](https://arcprize.org/results/deepseek-v4-flash-0731) ⭐️ 8.0/10
 
-Uber 已开源 ADR（Agentic AI Detection and Response），这是一个面向企业 AI 代理的生产级安全系统，包含 ADR Sensor、ADR-Bench 和 ADR Detector 组件。该系统已在 Uber 部署，相关论文已被 MLSys 2026 接收。 此次发布针对 AI 代理安全这一关键新兴领域，提供了经过生产验证的解决方案，为企业提供了观察、基准测试和检测 AI 代理威胁的工具。它为快速发展的 AI 代理生态中的开源安全框架树立了先例。 ADR-Bench 包含 300 多个任务、133 个 MCP 服务器，并覆盖所有 17 种代理攻击技术。当前开源版本未包含 ADR Prevention 组件，也未包含离线的 ADR Explorer 引擎。
+DeepSeek 正式发布了 DeepSeek V4 Flash 0731，这是 Flash 模型的一次重大更新，取代了预览版，并大幅增强了智能体（agentic）能力。该模型采用稀疏混合专家架构，总参数 284B，激活参数 13B，API 价格为每百万输入 token 0.09 美元，每百万输出 token 0.18 美元。 此次发布意义重大，因为它将高性能、高速度与低成本相结合，使先进 AI 更易于广泛应用于各类场景。社区反响积极且基准测试成绩优异，表明它可能成为开发者和企业寻求高性价比 AI 解决方案的热门选择。 该模型支持 1M token 的上下文窗口，在 Artificial Analysis 智能指数（推理，最大努力）上得分为 52，高于同类模型平均水平。它可以在本地运行，有用户报告在 2x RTX Pro 6000 Blackwell GPU 上预填充速度约 8k tok/s，单流生成速度约 250 tok/s。
 
-rss · GitHub Trending - Daily (All) · Aug 7, 01:28
+hackernews · tosh · Aug 7, 17:56 · [社区讨论](https://news.ycombinator.com/item?id=49214008)
 
-**背景**: AI 代理（如编码助手和客户支持机器人）通过模型上下文协议（MCP）运行，并代表用户执行操作，从而引入新的安全风险。ADR 通过可观测性、基准测试和检测来保护这些代理，利用两层架构实现高效的威胁检测。
+**背景**: DeepSeek 是一家以开发开源权重大型语言模型而闻名的中国 AI 公司。V4 Flash 系列旨在平衡性能与效率，0731 更新是在早期预览版之后的正式发布。该模型采用稀疏混合专家架构，每个 token 仅激活部分参数，从而带来成本和速度优势。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2605.17380">ADR : An Agentic Detection System for Enterprise Agentic AI Security</a></li>
-<li><a href="https://mlsys.org/">2026 Conference</a></li>
+<li><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731">deepseek-ai/DeepSeek-V4-Flash-0731 · Hugging Face</a></li>
+<li><a href="https://artificialanalysis.ai/models/deepseek-v4-flash">DeepSeek V 4 Flash 0731 (max) - Intelligence, Performance & Price...</a></li>
+<li><a href="https://openrouter.ai/deepseek/deepseek-v4-flash-0731">DeepSeek V4 Flash 0731 - API Pricing & Benchmarks | OpenRouter</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI security`, `#AI agents`, `#MLSys`, `#Uber`, `#open source`
+**社区讨论**: 社区评论总体积极，用户称赞该模型的速度、能力和成本效益。一位用户表示它“几乎可以用于所有事情”，而且便宜到成本可以忽略不计；另一位用户强调速度是杀手级功能。一些用户希望出现同等质量和价格的多模态模型，还有用户提到高峰时段定价以中国时间为准，可能影响亚洲以外的用户。
+
+**标签**: `#AI`, `#DeepSeek`, `#LLM`, `#Model Release`, `#Machine Learning`
 
 ---
 
 <a id="item-2"></a>
-## [AMD 收购 Taalas，将 AI 模型硬编码到硅片中以提高推理速度](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) ⭐️ 8.0/10
+## [科技从业者的幻灭：信仰危机](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/) ⭐️ 8.0/10
 
-AMD 于 2026 年 8 月 6 日宣布已达成最终协议，收购总部位于多伦多的初创公司 Taalas，该公司专注于 AI 推理芯片。Taalas 的技术将特定 AI 模型直接蚀刻到芯片晶体管上，从而显著提升推理性能。 此次收购使 AMD 能够在 AI 硬件市场，尤其是与 NVIDIA 的竞争中更具攻击性，通过提供专门的推理解决方案，可能带来高达 10 倍的性能提升。这也回应了高效 AI 推理日益增长的需求，可能重塑竞争格局，并为 AMD 在快速扩张的 AI 领域提供独特优势。 Taalas 已筹集 1.69 亿美元资金，并展示了运行 Llama 3.1 8B 的芯片，每秒处理 17,000 个 token，比 NVIDIA H200 快近 10 倍。AMD 计划将 Taalas 的技术与其 Instinct GPU 集成，提供系统级解决方案，但交易财务条款未披露。
+《Noema》杂志上的一篇文章探讨了科技从业者中普遍存在的悲伤和职业信仰丧失现象，并将其与印刷工等历史职业的衰落相类比。该文在 Hacker News 上引发了热烈讨论，获得了 275 个点赞和 411 条评论。 这篇文章突出了一个重要且及时的问题：科技从业者的幻灭感，这可能对行业的未来产生广泛影响，包括人才保留和创新。高参与度表明它引起了许多科技界人士的深刻共鸣，反映了更广泛的职业不满趋势。 文章和讨论将印刷行业的衰落与科技行业的现状进行了类比，指出技术变革可能使整个职业过时。评论者还指出，网络世界的毒性以及“K 型”经济是导致科技从业者悲伤的因素。
 
-hackernews · itvision · Aug 6, 20:23 · [社区讨论](https://news.ycombinator.com/item?id=49201970)
+hackernews · RickJWagner · Aug 7, 12:42 · [社区讨论](https://news.ycombinator.com/item?id=49209539)
 
-**背景**: AI 推理是运行已训练好的 AI 模型进行预测的过程，对聊天机器人和图像识别等应用至关重要。传统 GPU 通用且灵活，但可能不是特定模型的最优选择。Taalas 将模型硬编码到硅片中的方法牺牲了灵活性以换取速度和效率，这种权衡对于稳定且广泛使用的模型可能是有益的。此次收购反映了行业向专用 AI 硬件发展的趋势，如 Google 的 TPU 和其他定制加速器。
+**背景**: 科技行业长期以来被视为高薪、稳定工作的来源，但近年来，裁员、倦怠和意义感缺失在从业者中蔓延。文章引用了印刷工等历史例子，他们的技能随着技术进步而消失，以此质疑如果科技从业者对自己的职业失去信心，会发生什么。
 
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://ir.amd.com/news-events/press-releases/detail/1296/amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market">AMD Acquires Taalas to Advance Compute Solutions for Rapidly ...</a></li>
-<li><a href="https://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html">AMD buys Taalas, startup that hardwires AI models into its ...</a></li>
-<li><a href="https://www.unite.ai/amd-buys-taalas-to-put-hard-wired-ai-models-in-its-accelerator-roadmap/">AMD Buys Taalas to Put Hard-Wired AI Models in Its ... - Unite.AI</a></li>
+**社区讨论**: 评论者表达了各种观点：有人将印刷工的衰落作为历史类比，有人强调网络世界的毒性是主要因素，还有人分享了个人幻灭的经历。少数人提出了反驳意见，例如没有科技收入，回归传统职业只是虚假的逃避。
 
-</ul>
-</details>
-
-**社区讨论**: 社区讨论反应不一。一些人对 AI 智能可能实现 100 倍速度提升表示兴奋，而另一些人则质疑在模型快速迭代的情况下其实用性，指出硅刻模型可能很快过时。还有人惊讶于 OpenAI 或 Anthropic 没有率先采取这一举措，并有评论强调 AMD 进入内存技术领域可减少对 Hynix 的依赖，解决内存瓶颈问题。
-
-**标签**: `#AMD`, `#AI hardware`, `#acquisition`, `#inference`, `#silicon`
+**标签**: `#tech industry`, `#worker morale`, `#mental health`, `#career disillusionment`, `#online culture`
 
 ---
 
 <a id="item-3"></a>
-## [用帕累托前沿分析马里奥赛车角色选择](https://www.mayerowitz.io/blog/mario-meets-pareto) ⭐️ 8.0/10
+## [Oracle 禁止 OpenJDK 使用 AI 生成的代码](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) ⭐️ 8.0/10
 
-文章将帕累托前沿概念应用于分析马里奥赛车的角色属性，识别出在速度和加速度之间权衡的最优角色选择。它为玩家提供了一个实用框架，以便根据个人偏好做出明智决策。 该分析将游戏设计与算法思维相结合，为多目标优化提供了一个清晰的实例，引起了玩家和开发者的共鸣。它展示了数学概念如何应用于日常决策，可能影响玩家选择角色的方式以及开发者平衡游戏机制的思路。 文章可能使用马里奥赛车角色属性的数据集，绘制每个角色的速度和加速度，并计算帕累托前沿。位于前沿上的角色不被其他角色支配，即没有其他角色在两个属性上都更优，而前沿内部的角色则非最优。分析还可能讨论不同游戏风格（如速通与休闲）如何导致不同的最优选择。
+Oracle 已实施一项临时政策，自 2026 年 4 月 9 日起禁止 OpenJDK 贡献中包含 AI 生成的代码。该政策禁止部分或全部由大型语言模型、扩散模型或类似深度学习系统生成的内容。 该政策影响了广泛使用的 OpenJDK 项目，可能波及依赖 Java 的开发者和企业。它凸显了 AI 辅助开发与开源社区中法律和安全问题之间日益增长的紧张关系。 开发者仍可私下使用 AI 工具进行调试、审查和研究，但不得提交 AI 生成的内容。即使是部分 AI 生成的代码，例如 100 行中仅修改几行，也不被允许。
 
-hackernews · theanonymousone · Aug 6, 11:24 · [社区讨论](https://news.ycombinator.com/item?id=49195231)
+hackernews · delduca · Aug 7, 17:36 · [社区讨论](https://news.ycombinator.com/item?id=49213754)
 
-**背景**: 帕累托前沿（Pareto front）是经济学和工程学中的一个概念，表示一组选择，其中任何一个目标的改进都会导致另一个目标的恶化。在多目标优化中，它有助于识别冲突目标之间的权衡。在《马里奥赛车》中，角色具有不同的属性，如速度和加速度，玩家需要根据游戏风格进行平衡。该分析应用帕累托前沿来可视化哪些角色提供了最佳权衡。
+**背景**: OpenJDK 是 Java 平台的开源实现，由 Oracle 管理。该临时政策由理事会批准，而最终版本正在由律师起草，反映了对版权和来源的担忧，类似于过去 Java 的法律纠纷。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Pareto_front">Pareto front - Wikipedia</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Pareto_efficiency">Pareto efficiency - Wikipedia</a></li>
-<li><a href="https://www.ign.com/wikis/mario-kart-world/All_Character_Stats_and_Weight_Classes_Explained">All Character Stats and Weight Classes Explained - Mario Kart ...</a></li>
+<li><a href="https://openjdk.org/legal/ai">OpenJDK Interim Policy on Generative AI</a></li>
+<li><a href="https://www.techzine.eu/news/devops/143395/oracle-bans-ai-generated-contributions-to-openjdk/">Oracle bans AI -generated contributions to OpenJDK - Techzine Global</a></li>
+<li><a href="https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code">Oracle bans AI-generated code from OpenJDK despite Ellison's claim 'Oracle isn't writing' its own code | Dealroom.co</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区讨论强调了帕累托概念在软件开发中的更广泛适用性，一位评论者指出，诸如“没有牺牲用户体验就无法获得更多安全性”的说法只有在已经处于前沿时才成立。另一位评论者分享了在《魔兽世界》经典服中优化物品构建的类似分析，采用分治方法来处理庞大的搜索空间。速通玩家指出，对于速通，像鲍泽这样位于前沿边缘的角色是最优的，而休闲玩家可能更注重平衡或乐趣，正如一位父亲提到他优化的是保持竞争力但可能输给孩子的车辆。
+**社区讨论**: 社区评论观点不一：有人认为这是明智的法律预防措施，也有人质疑其可行性，并指出 Oracle 自身 AI 投资的讽刺之处。有评论者指出该政策可能主要适用于社区提交而非核心开发者，另有人强调维护者的审查负担。
 
-**标签**: `#Pareto frontier`, `#game design`, `#optimization`, `#data analysis`, `#Mario Kart`
+**标签**: `#OpenJDK`, `#AI policy`, `#Oracle`, `#software development`, `#legal`
 
 ---
 
 <a id="item-4"></a>
-## [品味：AI 编程时代人类最后的优势](https://notashelf.dev/posts/taste-is-all-thats-left) ⭐️ 8.0/10
+## [用 Rust 引擎让 Postgres 分析速度快 300 倍](https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/) ⭐️ 8.0/10
 
-文章《品味是唯一剩下的》认为，随着 AI 工具自动化机械性编码任务，人类的品味和判断力成为软件开发中的关键差异化因素。该文引发了关于 LLM 在长期项目中局限性的深入讨论。 这很重要，因为它触及了软件工程中的一个核心争论：当 AI 能够生成代码时，人类直觉和工艺的作用。它影响开发者、团队和公司如何对待 AI 辅助开发，以及他们优先考虑哪些技能。 文章和讨论指出，LLM 通常能解决眼前的问题，但在长期、多开发者的项目中难以产生连贯的结果。像 mdwelsh 这样的资深开发者指出，AI 生成的演示可能缺乏真正的直觉或判断力，但也有人质疑如果代码能工作，这些是否还重要。
+pgrust（一个基于 Rust 的 Postgres 查询引擎）的作者详细介绍了如何通过批处理、算子融合和 SIMD 实现分析工作负载数百倍的加速。该项目已通过 PostgreSQL 回归测试套件的 100%（46,066 个查询），并提供了 wasm32 预览版。 这展示了一条显著提升 Postgres 分析性能的可行路径，可能挑战专用 OLAP 数据库的主导地位。同时，它也凸显了在数据库引擎中使用 Rust 以及算子融合和 SIMD 等现代技术的好处。 优化措施包括：批处理行以减少每行开销、融合算子以避免物化，以及使用 SIMD 指令进行并行数据处理。该项目强调通过形式化验证和差分模糊测试来保证正确性，已证明超过 1000 个面向用户的函数与 Postgres 逻辑一致。
 
-hackernews · tsak · Aug 6, 17:01 · [社区讨论](https://news.ycombinator.com/item?id=49199346)
+hackernews · poly2it · Aug 7, 11:00 · [社区讨论](https://news.ycombinator.com/item?id=49208535)
 
-**背景**: AI 辅助编码工具，如 GitHub Copilot 和 ChatGPT，已变得越来越流行，自动化了重复性的编码任务。然而，它们有已知的局限性，包括生成次优或错误的代码，并且在大型代码库中难以保持一致性。人类的品味——做出审美和实用判断的能力——被视为这些工具的重要补充。
+**背景**: Postgres 是一款广泛使用的开源关系型数据库，但其基于行的查询引擎并未针对扫描大数据集的分析工作负载进行优化。pgrust 是用 Rust 从头重写 Postgres 的项目，旨在提升性能的同时保持兼容性。算子融合和 SIMD 是现代查询引擎中减少 CPU 和内存带宽使用的成熟技术。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://www.linkedin.com/posts/ocama-mohamed_????-have-limitations-in-optimizing-code-activity-7433813266847383552-9l10">LLM Limitations in Code Optimization and AI's Role in Software ...</a></li>
-<li><a href="https://8thlight.com/insights/ai-assisted-coding-is-not-doing-my-dishes-and-laundry">8th Light | AI - assisted Coding is Not Doing My Dishes and Laundry</a></li>
-<li><a href="https://cyprus-mail.com/2026/08/03/why-ai-automation-needs-human-judgement-in-cybersecurity">Why AI automation needs human judgement in ... | Cyprus Mail</a></li>
+<li><a href="https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/">Rebuilding Postgres for 300x faster analytics: batching, operator ...</a></li>
+<li><a href="https://pgrust.com/?trk=public_post_comment-text">pgrust — postgres , rewritten in rust</a></li>
+<li><a href="https://betterstack.com/community/guides/databases/pgrust-postgres/">PGRust : A Rust Rewrite of PostgreSQL ... | Better Stack Community</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区讨论深思熟虑且观点多样。一些评论者如 hellojomp 将品味与更广泛的哲学思想联系起来，而其他人如 boron1006 则对 LLM 的输出质量表示失望，尤其是在写作方面。mdwelsh 分享了个人经验，质疑 AI 生成的代码是否具有真正的判断力，而 cowboylowrez 则认为“判断力”可能比“品味”更有用。
+**社区讨论**: 作者与社区互动，通过强调形式化验证和模糊测试来回应信任问题。一些评论者对采用表示怀疑，因为对 Postgres 团队的信任，而另一些人则称赞自适应规划的潜力，并询问将 pgrust 嵌入作为 SQLite 替代方案的可能性。
 
-**标签**: `#AI-assisted development`, `#software engineering`, `#human judgment`, `#LLM limitations`, `#craftsmanship`
+**标签**: `#Postgres`, `#Rust`, `#Query Engine`, `#Performance`, `#SIMD`
 
 ---
 
 <a id="item-5"></a>
-## [Qwen3.8 Max 登顶 Agentic Index，显示中国 AI 追赶](https://artificialanalysis.ai/?intelligence=agentic-index) ⭐️ 8.0/10
+## [据报道，2027 年内存产能已被预订一空，AI 需求是主因](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out) ⭐️ 8.0/10
 
-Qwen3.8 Max 在 Artificial Analysis Agentic Index 中被评为最佳整体模型，超越了之前的领先者如 Opus Max。这标志着 AI 模型格局的重大转变。 这一排名表明中国 AI 模型在代理任务（agentic tasks）方面已能与西方模型竞争甚至领先，而代理任务对实际应用至关重要。这可能影响开发者的采用和本地模型的投资。 Agentic Index 是一个综合基准，衡量工具使用和规划等代理能力。然而，社区成员指出，排名在刷新之间可能波动，Qwen 和 Opus Max 互换位置，表明分数非常接近。
+据报道，2027 年的内存产能已被全部预订和售出，DRAM 或 HBM 均已无货。这一短缺是由 AI 需求的激增所驱动，大型 AI 公司和超大规模云服务商正在签署长期协议以获取高带宽内存。 这一事态标志着内存供应紧张将持续，可能影响整个科技行业，从 AI 硬件到消费电子产品。这可能导致价格上涨和产品发布延迟，影响企业和消费者。 SK 海力士 CEO 预测 2027 年将是内存供应史上最糟糕的一年，需求将超过供应，甚至持续到 2030 年以后。生产 HBM 所消耗的晶圆产能约为 DDR5 的三倍，这限制了非 HBM 内存的供应。
 
-hackernews · apitman · Aug 6, 18:44 · [社区讨论](https://news.ycombinator.com/item?id=49200652)
+hackernews · inigyou · Aug 7, 07:58 · [社区讨论](https://news.ycombinator.com/item?id=49207236)
 
-**背景**: Artificial Analysis Agentic Index 是 Intelligence Index v4.1 的一部分，该指数转向代理工作负载。它包括 GDPval-AA v2 和 Tau3-Banking 等基准。代理 AI 指的是能够自主规划和执行任务的模型，这是 AI 开发中日益增长的焦点。
+**背景**: 内存行业自 2025 年起正经历严重的供应短缺，原因是 AI 热潮对 AI 加速器中使用的 HBM（高带宽内存）的需求。三星、SK 海力士和美光等主要制造商已将生产转向 HBM，减少了传统 DRAM 和 DDR5 的产能，这影响了 PC 和智能手机等消费产品。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://artificialanalysis.ai/models/capabilities/agentic">Best AI for Agentic Tasks: LLM Leaderboard | Artificial Analysis</a></li>
-<li><a href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-1">Artificial Analysis Intelligence Index v4.1: a shift toward agentic workloads</a></li>
+<li><a href="https://www.tweaktown.com/news/113004/memory-capacity-for-all-of-2027-has-reportedly-been-booked-and-sold-with-no-more-dram-or-hbm-available/index.html">Memory capacity for all of 2027 has reportedly been booked and sold...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/2025–present_global_memory_supply_shortage">2025–present global memory supply shortage - Wikipedia</a></li>
+<li><a href="https://www.pcmag.com/news/2027-will-be-the-worst-year-in-history-for-memory-supply-says-sk-hynix">2027 Will Be the ‘Worst Year in History’ for Memory Supply, Says SK Hynix CEO | PCMag</a></li>
 
 </ul>
 </details>
 
-**社区讨论**: 社区情绪复杂：一些用户对 Qwen 的进步和更小本地模型的潜力感到兴奋，而另一些用户则质疑基准的可靠性，指出 Opus 5 在实际使用中的表现与其基准分数不符。还有报告称排名在刷新之间不稳定。
+**社区讨论**: 社区评论表达了对消费者影响的担忧，有人建议需要类似 USB 的 RAM 标准以重用旧内存条。其他人指出 HBM 和 DDR5 在晶圆使用上的技术权衡，还有用户担心对消费电子产品的通胀影响。一些用户表示由于 AI 对内存和存储的需求，他们对采用 AI 持犹豫态度。
 
-**标签**: `#AI`, `#LLM`, `#benchmarks`, `#Qwen`, `#agentic`
+**标签**: `#memory`, `#hardware`, `#AI`, `#supply chain`, `#HBM`
 
 ---
 
 <a id="item-6"></a>
-## [Datasette 1.0a38 修复混合公开/私有表配置中的 SQL 注入漏洞](https://simonwillison.net/2026/Aug/6/datasette/#atom-everything) ⭐️ 8.0/10
+## [与爬虫斗争一年：150 万页网站的防抓取之路](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/) ⭐️ 8.0/10
 
-Datasette 1.0a38（2026 年 8 月 6 日发布）修复了一个影响同一数据库中同时提供公开和私有表实例的 SQL 注入漏洞。该修复也适用于 Datasette 0.65.3。 此安全修复对于在公开表旁边暴露私有表的管理员至关重要，因为该漏洞可能允许用户通过 SQL 注入绕过权限限制访问私有数据。这凸显了及时修补广泛使用的数据工具的重要性。 该漏洞影响使用 Datasette 权限系统控制私有表访问的实例。建议管理员在受影响的数据库上禁用 execute-sql 权限以防止未授权访问，因为该漏洞可能绕过此限制。
+一个拥有 150 万页面的网站站长详细描述了与爬虫长达一年的斗争，期间机器人流量占所有请求的 99%，导致某月托管成本飙升 500%。他们尝试了多种缓解策略，包括 Cloudflare 和基于工作量证明的 Anubis 工具。 这凸显了爬虫抓取给独立网络发布者带来的日益增长的财务和哲学负担，迫使他们不得不在昂贵的缓解措施和开放性之间做出选择。它引发了关于 Cloudflare 等中心化服务在控制网络访问方面作用的辩论。 该网站的正常月度账单约为 90 美元，但一个糟糕的峰值月份账单增加了 500%，部分原因是 Cloudflare 的 D1 数据库成本。社区成员建议改用静态网站以降低成本，并推荐了 Anubis，这是一种工作量证明挑战，无需依赖第三方服务即可验证真实浏览器。
 
-rss · Simon Willison · Aug 6, 18:24
+hackernews · petercooper · Aug 7, 14:51 · [社区讨论](https://news.ycombinator.com/item?id=49211386)
 
-**背景**: Datasette 是一个用于探索和发布数据的开源工具，通常用于将 SQLite 数据库以 Web 界面形式展示。它包含一个权限系统，允许管理员控制对表的访问，包括通过 execute-sql 权限限制原始 SQL 查询。该漏洞的产生是因为有权访问公开表的用户可以通过 SQL 注入攻击读取同一数据库中的私有表，即使 execute-sql 已被禁用。
+**背景**: 网络爬虫是从网站自动提取数据的行为，通常被 AI 公司和其他机构用来收集大型数据集。机器人缓解技术包括 IP 过滤、指纹识别、行为分析和基于挑战的方法（如验证码或工作量证明）。Cloudflare 将其机器人管理作为 CDN 和安全服务的一部分提供，但其定价对于高流量网站来说可能难以预测。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://docs.datasette.io/en/stable/authentication.html">Authentication and permissions - Datasette documentation</a></li>
-<li><a href="https://datasette.io/plugins/datasette-permissions-sql">datasette-permissions-sql - a plugin for Datasette</a></li>
-<li><a href="https://simonwillison.net/2025/Nov/4/datasette-10a20/">A new SQL-powered permissions system in Datasette 1.0a20</a></li>
+<li><a href="https://datadome.co/guides/bot-protection/bot-mitigation/">Bot Mitigation: Top Techniques to Stop Bot Attacks</a></li>
+<li><a href="https://www.imperva.com/learn/application-security/what-are-bots/">What are Bots | Bot Types & Mitigation Techniques | Imperva</a></li>
+<li><a href="https://www.cloudflare.com/plans/free/">Free Plan Overview | Cloudflare</a></li>
 
 </ul>
 </details>
 
-**标签**: `#security`, `#datasette`, `#sql-injection`, `#release`
+**社区讨论**: 评论者表达了对将访问决策外包给 Cloudflare 的担忧，认为这破坏了开放网络。其他人分享了使用 Anubis 的积极经验，它通过工作量证明来阻止机器人，无需第三方依赖。一些人建议采取节省成本的措施，如改用静态网站，而一位评论者感叹像 Claude 这样的 AI 爬虫抓取了数千个页面却不提供补偿或推荐。
+
+**标签**: `#web scraping`, `#bot mitigation`, `#Cloudflare`, `#website costs`, `#open web`
 
 ---
 
 <a id="item-7"></a>
+## [新墨西哥州法院裁定 Meta 支付 5.67 亿美元，因其损害儿童心理健康](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta) ⭐️ 8.0/10
+
+新墨西哥州法院于 2026 年 8 月 6 日裁定 Meta 支付 5.67 亿美元罚款，因其构成公共妨害，损害了儿童心理健康，并要求其采取措施保护未成年用户。该裁决源于该州提起的诉讼，指控 Meta 的平台加剧了青少年心理健康危机。 这一里程碑式的裁决为根据公共妨害法追究社交媒体公司对儿童安全的责任树立了重要先例。它可能鼓励其他州和司法管辖区采取类似法律行动，从而可能重塑平台为未成年人设计功能和算法的方式。 罚款依据新墨西哥州公共妨害法（NMSA 1978 § 30-8-1），法院认定 Meta 的平台是该州青少年心理健康危机的“重要”促成因素。判决总额为 9.42 亿美元，其中 5.67 亿美元为罚款部分，其余可能用于其他费用或补救措施。
+
+hackernews · boplicity · Aug 7, 00:06 · [社区讨论](https://news.ycombinator.com/item?id=49204352)
+
+**背景**: 公共妨害法通常指干扰公众权利的行为，例如危害公共健康或安全。近年来，多个州起诉社交媒体公司，认为其平台损害儿童心理健康并构成公共妨害。此案是科技公司在儿童安全方面受到更严格监管审查这一更广泛趋势的一部分。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://www.forbes.com/sites/siladityaray/2026/08/07/new-mexico-court-orders-meta-to-pay-nearly-1-billion-over-child-safety-issues/">New Mexico Court Orders Meta To Pay Nearly $1 Billion In Landmark Child Safety Case</a></li>
+<li><a href="https://www.theverge.com/policy/923653/meta-new-mexico-public-nuisance-injunctive-relief">New Mexico has a plan to overhaul Facebook and Instagram | The Verge</a></li>
+<li><a href="https://www.law.cornell.edu/wex/public_nuisance">public nuisance | Wex | US Law | LII / Legal Information Institute</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 社区评论指出，虽然罚款仅占 Meta 全球收入的一小部分，但相对于新墨西哥州约 200 万的人口而言，这笔金额相当可观。一些用户将平台与成瘾物质类比，批评 Instagram Reels 和 TikTok 等平台的设计。其他人则注意到这可能影响 Meta 的股价，并需要改变算法，尤其是针对年轻用户。
+
+**标签**: `#Meta`, `#legal`, `#child safety`, `#social media`, `#regulation`
+
+---
+
+<a id="item-8"></a>
+## [Wyzer：一种确保分布式死锁安全的新语言](https://github.com/Wyzer-Lang/wyzer) ⭐️ 8.0/10
+
+Wyzer，一种静态类型、编译型编程语言，即将发布 0.1.0 版本。它集成了编排式编程和 Perceus 内存模型，以防止分布式死锁和协议不匹配。 该项目解决了分布式系统安全中的一个关键空白，而像 Rust 这样的主流语言并未覆盖。如果成功，它可能为编写无死锁的分布式应用提供新的范式，影响开发者及整个软件行业。 Wyzer 使用线性/仿射类型和 Perceus 引用计数，而不是借用检查器和生命周期，旨在简化 LSP 分析。该项目处于早期阶段，文档有限，作者欢迎贡献。
+
+hackernews · v0id_isgood · Aug 7, 12:28 · [社区讨论](https://news.ycombinator.com/item?id=49209385)
+
+**背景**: 编排式编程是一种范式，将分布式交互编写为单个编排，从构造上确保无死锁。Perceus 是一种无垃圾的引用计数内存管理技术，最初在 Koka 语言中实现。分布式死锁发生在多个节点无限期等待彼此持有的资源时，这是分布式系统中的常见问题。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Choreographic_programming">Choreographic programming</a></li>
+<li><a href="https://dl.acm.org/doi/10.1145/3453483.3454032">Perceus: garbage free reference counting with reuse | Proceedings of the 42nd ACM SIGPLAN International Conference on Programming Language Design and Implementation</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Distributed_deadlock">Distributed deadlock</a></li>
+
+</ul>
+</details>
+
+**社区讨论**: 评论者称赞其雄心和创新性，但要求更清晰的文档和更多示例。一些人质疑如何保证分布式死锁自由，另一些人则欣赏项目动机的清晰阐述。
+
+**标签**: `#programming-language`, `#distributed-systems`, `#choreographic-programming`, `#memory-safety`, `#rust`
+
+---
+
+<a id="item-9"></a>
+## [Addy Osmani 的 Agent Skills：面向 AI 编程代理的生产级工程工作流](https://github.com/addyosmani/agent-skills) ⭐️ 8.0/10
+
+Addy Osmani 发布了一个开源仓库 addyosmani/agent-skills，其中包含 24 个为 AI 编程代理打包的生产级工程技能。它提供了 8 个映射到开发生命周期的斜杠命令，如 /spec、/plan、/build、/test、/review、/webperf、/code-simplify 和 /ship，并可通过 skills CLI 安装到 70 多个代理中。 该仓库解决了 AI 辅助开发中的一个关键问题：AI 编程代理常常跳过规范、测试和安全审查等基本工程实践。通过编码资深工程师的工作流，它有望显著提高 AI 生成代码的可靠性和质量，影响依赖 AI 代理的开发者和团队。 该仓库提供了 8 个斜杠命令，可自动激活相关技能，以及一个 /build auto 命令，在单次批准后自动生成计划并实施任务。技能还会根据任务自动激活，例如 API 设计时触发 api-and-interface-design，构建 UI 时触发 frontend-ui-engineering。
+
+rss · GitHub Trending - Daily (All) · Aug 7, 22:27
+
+**背景**: AI 编程代理是通过生成代码来帮助开发者的工具，但它们常常走捷径，跳过最佳实践。该仓库旨在编码资深工程师使用的工作流和质量门，确保代理一致地遵循它们。由 Vercel Labs 开发的 skills CLI 允许安装到 70 多个代理中，如 Claude Code、Cursor 和 Copilot。
+
+<details><summary>参考链接</summary>
+<ul>
+<li><a href="https://github.com/addyosmani/agent-skills">addyosmani/ agent - skills : Production - grade engineering skills for AI ...</a></li>
+<li><a href="https://www.everydev.ai/tools/addy-osmani-agent-skills">Addy Osmani Agent Skills - Skill Library by Addy Osmani | EveryDev. ai</a></li>
+<li><a href="https://www.linkedin.com/posts/vikrant-bagal_ai-codingagents-softwareengineering-activity-7458348888450691072-aUaF">Production - Grade Engineering Skills for AI Coding Agents | LinkedIn</a></li>
+
+</ul>
+</details>
+
+**标签**: `#AI coding agents`, `#software engineering`, `#best practices`, `#developer tools`, `#workflow automation`
+
+---
+
+<a id="item-10"></a>
 ## [Cloudflare Computer：面向代理的虚拟文件系统](https://github.com/cloudflare/computer) ⭐️ 8.0/10
 
-Cloudflare 发布了 Cloudflare Computer，这是一个位于 Durable Object 内的虚拟文件系统，权威状态存储在 SQLite 中，并通过可插拔的执行表面暴露。它提供了三个后端：带有 FUSE 挂载的容器、运行 just-bash 的隔离 shell，以及隔离的 JavaScript 后端。 这引入了一种新颖的架构，为 AI 代理提供持久、统一的工作空间，可能通过抽象存储和执行来简化代理开发。它可能影响边缘平台上代理基础设施的构建方式，尽管目前仍是用于反馈的预览版。 Durable Object 在 SQLite 中保存权威状态，并暴露单一执行入口点 workspace.runtime.exec(source, { backend })。后端在首次使用时惰性连接，Workspace 也可以不带任何后端使用，仅提供文件系统。该包标记为“仅预览”，API 不稳定，不适合生产环境。
+Cloudflare 发布了 Cloudflare Computer，这是一个由 Durable Objects 和 SQLite 支持的面向代理的虚拟文件系统，提供可插拔的执行后端，包括容器、隔离 shell 和隔离 JavaScript。目前处于预览阶段，不适合生产使用。 这引入了一种新颖的架构，将虚拟文件系统与多种执行后端相结合，可能通过提供统一的状态和执行模型来简化代理基础设施。它可能影响在 Cloudflare 平台上构建 AI 代理或无服务器应用的开发者。 Durable Object 在 SQLite 中保存权威状态，并通过 workspace.runtime.exec(source, { backend }) 暴露单一执行接口。后端在首次使用时惰性连接，工作区也可以在没有后端的情况下仅用于文件系统访问。容器后端使用 FUSE 挂载和 capnweb RPC，而隔离后端使用 Workers RPC。
 
-rss · GitHub Trending - Daily (All) · Aug 7, 01:28
+rss · GitHub Trending - Daily (All) · Aug 7, 22:27
 
-**背景**: Cloudflare Durable Objects 是一种特殊的 Worker，将计算与存储相结合，将针对给定 ID 的所有请求路由到同一实例，提供有状态的协调。FUSE（用户空间文件系统）允许非特权用户在不修改内核代码的情况下创建文件系统，容器后端利用它将 SQLite 状态投影为真实挂载。Cap'n Web 是一种与 Workers RPC 兼容的 JavaScript 原生 RPC 协议，用于在容器和 Durable Object 之间同步更改。
+**背景**: Cloudflare Durable Objects 是一种特殊的 Cloudflare Worker，将计算与存储相结合，提供有状态的无服务器函数。FUSE（用户空间文件系统）允许在用户空间实现文件系统，capnweb 是一个 JavaScript 原生的 RPC 系统。该项目利用这些技术为代理创建虚拟文件系统。
 
 <details><summary>参考链接</summary>
 <ul>
 <li><a href="https://developers.cloudflare.com/durable-objects/">Overview · Cloudflare Durable Objects docs</a></li>
-<li><a href="https://en.wikipedia.org/wiki/FUSE_filesystem">FUSE filesystem</a></li>
-<li><a href="https://github.com/cloudflare/capnweb">GitHub - cloudflare/capnweb: JavaScript/TypeScript-native ...</a></li>
+<li><a href="https://github.com/cloudflare/capnweb">GitHub - cloudflare/ capnweb : JavaScript/TypeScript-native...</a></li>
+<li><a href="https://blog.cloudflare.com/capnweb-javascript-rpc-library/">Cap ' n Web : A new RPC system for browsers and web servers</a></li>
 
 </ul>
 </details>
@@ -209,656 +272,505 @@ rss · GitHub Trending - Daily (All) · Aug 7, 01:28
 
 ---
 
-<a id="item-8"></a>
-## [系统设计入门：包含 Anki 卡片的全面开源指南](https://github.com/donnemartin/system-design-primer) ⭐️ 8.0/10
-
-系统设计入门，一个受欢迎的开源 GitHub 仓库，仍然是学习大规模系统设计和准备系统设计面试的领先资源，提供 Anki 卡片和多种语言翻译。 该资源意义重大，因为系统设计面试是许多科技公司技术招聘的关键环节，而这份入门指南提供了结构化的、经过社区验证的知识集合，帮助工程师提升技能和职业前景。 该仓库包含学习指南、带解决方案的示例面试题、图表以及使用间隔重复帮助记忆的 Anki 卡片组。它在 GitHub 上拥有超过 33.4 万星标，并提供多种语言版本，包括简体中文和日语。
-
-rss · GitHub Trending - Daily (All) · Aug 7, 01:28
-
-**背景**: 系统设计涉及构建可扩展且可靠的系统架构，这是一个广泛的主题，资源分散。系统设计入门将这些资源组织成连贯的指南，使工程师更容易学习和实践。Anki 是一款使用间隔重复技术的闪卡应用，通过以递增间隔安排复习来优化记忆保持。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://github.com/donnemartin/system-design-primer">GitHub - donnemartin/system-design-primer: Learn how to ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Anki">Anki - Wikipedia</a></li>
-<li><a href="https://grokipedia.com/page/System_Design_Primer_vs_ByteByteGo">System Design Primer vs. ByteByteGo</a></li>
-
-</ul>
-</details>
-
-**标签**: `#system design`, `#interview prep`, `#education`, `#scalability`, `#open source`
-
----
-
-<a id="item-9"></a>
-## [Addy Osmani 发布面向 AI 编码代理的生产级技能包](https://github.com/addyosmani/agent-skills) ⭐️ 8.0/10
-
-Addy Osmani 发布了一个 GitHub 仓库 addyosmani/agent-skills，其中包含 24 个面向 AI 编码代理的生产级工程技能。该仓库包含 8 个映射到开发生命周期的斜杠命令，从 /spec 到 /ship，并支持通过 skills CLI 在 70 多个代理中安装。 该仓库解决了在软件开发中标准化 AI 代理行为的日益增长的需求，有望提高跨项目的代码质量和一致性。通过将资深工程师的工作流打包成可复用的技能，它使开发人员能够一致地执行最佳实践和质量门禁，这在 AI 编码代理日益普及的背景下具有重要意义。 该仓库包含 8 个斜杠命令：/spec、/plan、/build、/test、/review、/webperf、/code-simplify 和 /ship，每个命令都会自动激活相关技能。它还提供了 /build auto 命令，可在一次批准后自动生成计划并实施任务，同时在失败或风险步骤时暂停。可以使用 skills CLI 单独或一次性安装所有技能。
-
-rss · GitHub Trending - Daily (All) · Aug 7, 01:28
-
-**背景**: AI 编码代理是能够自主编写、修改、调试和重构代码的软件工具，能够理解多文件上下文并执行多步骤任务。在此上下文中，“技能”是代理可以按需发现和加载的可移植指令、脚本和资源包，编码了工作流和最佳实践。由网络开发领域知名人物 Addy Osmani 创建的该仓库，将这些技能打包以覆盖从规划到发布的完整开发生命周期。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://github.com/addyosmani/agent-skills">GitHub - addyosmani/agent-skills: Production-grade ...</a></li>
-<li><a href="https://pyshine.com/Agent-Skills-Production-Grade-Engineering-for-AI/">Agent Skills: Production-Grade Engineering Skills for AI ...</a></li>
-<li><a href="https://learn.microsoft.com/en-us/agent-framework/agents/skills">Agent Skills | Microsoft Learn</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI agents`, `#software engineering`, `#best practices`, `#workflows`, `#developer tools`
-
----
-
-<a id="item-10"></a>
-## [AirLLM 无需量化即可在 4GB GPU 上运行 70B 大模型](https://github.com/lyogavin/airllm) ⭐️ 8.0/10
-
-开源工具 AirLLM 已更新，支持在单个 4GB GPU 上无需量化、蒸馏或剪枝即可运行 70B 大语言模型。它还支持在 8GB 显存上运行 405B Llama 3.1，在约 12GB 显存上运行 DeepSeek-V3（671B），以及在不到 4GB 显存上运行 Kimi K3（2.8T）。 这一突破通过大幅降低硬件要求，使大型语言模型的访问民主化，让 GPU 资源有限的研究人员和开发者能够使用最先进的模型进行实验。它挑战了大型模型需要高端硬件的假设，可能加速边缘计算和端侧 AI 的创新。 AirLLM 采用分层推理方法，从磁盘加载每一层，计算后释放内存，从而降低每层的 GPU 内存使用。对于像 Kimi K3 这样的稀疏 MoE 模型，它一次流式加载一个专家，进一步减少内存占用。该工具可通过 pip install airllm 安装，支持多种模型，某些模型（如 K3）有特定要求，如 CUDA 12 和 flash-attn。
-
-rss · GitHub Trending - Daily (All) · Aug 7, 01:28
-
-**背景**: 大型语言模型（LLM）通常需要大量 GPU 内存进行推理，往往超出消费级硬件的能力。传统的降低内存使用的方法包括量化、蒸馏和剪枝，但这些可能会降低模型质量。AirLLM 提供了一种替代方案，通过优化推理过程中的内存管理，一次只加载必要的层或专家，从而绕过了压缩技术的需求。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://github.com/lyogavin/airllm">GitHub - lyogavin/airllm: AirLLM 70B inference with single 4GB GPU · GitHub</a></li>
-<li><a href="https://medium.com/@bnjmn_marie/airllm-layered-inference-for-low-memory-hardware-5af46a960be5">AirLLM: Layered Inference for Low-Memory Hardware | by Benjamin Marie | Medium</a></li>
-<li><a href="https://explainx.ai/blog/airllm-run-70b-llm-4gb-gpu-inference-2026">AirLLM: Run 70B LLM on 4GB GPU, No Quantization (2026 ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#LLM`, `#inference`, `#GPU`, `#memory optimization`, `#open source`
-
----
-
 <a id="item-11"></a>
-## [自验证代理工具将承诺漂移与绑定漂移分离](https://arxiv.org/abs/2608.04066) ⭐️ 8.0/10
+## [AutoGPT：用于自主 AI 代理的开源平台](https://github.com/Significant-Gravitas/AutoGPT) ⭐️ 8.0/10
 
-该论文提出了一种自验证代理工具，其中确定性执行器拥有所有信念，语言模型只能提交类型化提案，且只有在预先注册的预测与观察匹配时才会被接受。这种结构化验证在违反某些底线时会使运行失效，并使用影子参考进行消融研究，报告了关于目标放弃的清晰单变量结果。 这项工作解决了长时程代理中的一个关键问题：在自我报告不可信时如何验证代理行为。通过提供结构化验证方法和可测量的漂移分解，它可能显著提高长时程 AI 代理的可靠性和开发效率，而这类代理预计在 2026 年将成为主流。 该工具在违反每器官写入错误、渲染大小或盐渍金丝雀回显底线时会使运行失效；前八次架构运行中有四次被无效化，每次均定位到真实缺陷。研究在 ARC-AGI-3 上报告了 52 次门控运行中零级完成，预先注册为结构性失败，并使用每次运行最多 394 个参考节拍，每单元三个种子。
+AutoGPT 已发展成为一个全面的开源平台，允许用户构建、部署和运行能够执行完整工作流的 AI 代理。它提供了可视化构建器、调度和基于触发器的执行，并拥有超过 185,000 个 GitHub 星标。 AutoGPT 普及了自主 AI 代理的概念，使非程序员也能使用先进的 AI，对 AI 生态系统产生了重大影响。其广泛采用和行业领袖的认可凸显了它在改变任务自动化方式方面的潜力。 该平台支持多种界面，包括用于自然语言创建代理的 AutoPilot 和用于管理代理的仪表板。它可以自托管或通过云平台使用，并与 GPT-4 等大型语言模型集成。
 
-rss · arXiv - AI · Aug 6, 04:00
+rss · GitHub Trending - Daily (All) · Aug 7, 22:27
 
-**背景**: 长时程代理是需要在推理、工具使用、观察和修订之间进行持续迭代的 AI 系统，任务涉及多个步骤。传统代理较为脆弱，在工具协调和错误恢复方面表现不佳，且由于自我报告可能不可靠，验证其行为十分困难。本文提出了一种结构化验证方法，将提案与执行分离，使用预先注册的预测和确定性执行器，确保验证不是事后进行的。
+**背景**: AutoGPT 是一个开源的自主软件代理，使用 OpenAI 的大型语言模型（如 GPT-4）来实现用户以自然语言指定的目标。它将思想和行动串联起来，在无需持续人工输入的情况下完成复杂任务，代表了可访问 AI 的重要一步。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/RUC-NLPIR/Awesome-Long-Horizon-Agents">GitHub - RUC-NLPIR/Awesome-Long-Horizon-Agents: The roadmap of long-horizon agents · GitHub</a></li>
-<li><a href="https://arxiv.org/abs/2608.01964">[2608.01964] LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks</a></li>
-<li><a href="https://www.epam.com/insights/ai/blogs/how-to-use-long-horizon-agents-in-production">Long-horizon agents explained: Hype, reality, engineering lessons, and how to use AI agents in production</a></li>
+<li><a href="https://en.wikipedia.org/wiki/AutoGPT">AutoGPT - Wikipedia</a></li>
+<li><a href="https://github.com/Significant-Gravitas/AutoGPT">GitHub - Significant-Gravitas/ AutoGPT : AutoGPT is the vision of...</a></li>
+<li><a href="https://aidive.org/en/ai/auto-gpt">AutoGPT - autonomous AI agents platform</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI agents`, `#verification`, `#long-horizon`, `#LLM`, `#architecture`
+**标签**: `#AI agents`, `#autonomous AI`, `#open-source`, `#LLM`, `#automation`
 
 ---
 
 <a id="item-12"></a>
-## [MCTS-Report：基于蒙特卡洛树搜索的表格到多模态报告生成](https://arxiv.org/abs/2608.04071) ⭐️ 8.0/10
+## [Uber 开源 ADR，面向企业 AI 代理的安全系统](https://github.com/uber/ADR) ⭐️ 8.0/10
 
-该论文提出了 MCTS-Report，一种由蒙特卡洛树搜索（MCTS）驱动的框架，将表格到多模态报告生成分解为由 LLM 执行的原子动作，从而实现对事实准确性、视觉质量和叙事连贯性的联合优化。它还提出了 MMRBench，一个包含六个领域真实世界表格的新基准，并报告了 77.9 的总体得分，优于强基线。 这项工作解决了现有自动报告生成中线性管道的局限性，提供了一种更灵活、更优化的方法，可改善各领域的数据智能和自动报告。将 MCTS 与 LLM 结合用于结构化搜索是一个重大进步，可能影响未来多模态生成的研究和实际应用。 该框架在 MCTS 过程中使用 LLM 生成逐步推理和动作，并将推理轨迹存储在节点中以实现上下文感知的构建。多维奖励函数通过 SQL 评估数值事实一致性、图表质量、图表-文本对齐和结构完整性，并包含多样性惩罚和前置条件检查以剪枝无效动作。
+Uber 已开源 ADR（代理式 AI 检测与响应），这是一套面向企业 AI 代理的生产级安全系统，包含可观测性、基准测试和威胁检测等组件。相关论文已被 MLSys 2026 接收。 此次发布回应了在企业环境中保护 AI 代理安全的日益增长的需求，这是随着 AI 采用加速而出现的关键问题。通过开源 ADR，Uber 提供了一个参考实现，可能成为 AI 代理安全的标准，惠及部署 Cursor、Claude Code 和 Codex 等代理的组织。 ADR 包含三个开源组件：用于遥测收集的 ADR Sensor、包含 300 多个任务和 133 个 MCP 服务器并覆盖全部 17 种代理攻击技术的 ADR-Bench，以及采用两层架构的 ADR Detector。预防组件尚未开源，离线 ADR Explorer 引擎也未包含在内。
 
-rss · arXiv - AI · Aug 6, 04:00
+rss · GitHub Trending - Python · Aug 7, 22:27
 
-**背景**: 蒙特卡洛树搜索（MCTS）是一种结合树搜索和随机采样的启发式搜索算法，广泛用于游戏和决策制定。多模态报告生成涉及从结构化数据创建包含文本和可视化的报告，由于需要连贯性和准确性而具有挑战性。现有方法通常依赖固定管道，限制了联合优化。
+**背景**: AI 代理是能够自主执行任务的软件系统，通常使用工具和 API。随着它们访问敏感数据和操作，保护它们变得至关重要。ADR（代理式 AI 检测与响应）是一个提供可观测性、基准测试、检测和预防功能的框架，以保护企业 AI 代理。MLSys 是机器学习和系统领域的顶级会议，表明该工作的技术深度。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Monte_Carlo_tree_search">Monte Carlo tree search</a></li>
-<li><a href="https://arxiv.org/html/2608.04071v1">Monte Carlo Tree Search for Table - to -Multimodal Report Generation</a></li>
-<li><a href="https://builtin.com/machine-learning/monte-carlo-tree-search">Monte Carlo Tree Search : A Guide | Built In</a></li>
+<li><a href="https://mlsys.org/">2026 Conference</a></li>
+<li><a href="https://www.emergentmind.com/topics/agentic-ai-detection-and-response-adr">Agentic AI Detection & Response ( ADR )</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Monte Carlo Tree Search`, `#LLM`, `#multimodal generation`, `#data intelligence`, `#report generation`
+**标签**: `#AI security`, `#agentic AI`, `#MLSys`, `#Uber`, `#open source`
 
 ---
 
 <a id="item-13"></a>
-## [BrainBench：面向大语言模型全面脑电理解的新基准](https://arxiv.org/abs/2608.04156) ⭐️ 8.0/10
+## [点火指数：衡量大语言模型中全局工作空间动态的新指标](https://arxiv.org/abs/2608.05160) ⭐️ 8.0/10
 
-BrainBench 是一个新推出的统一基准，用于评估大语言模型（LLM）在全面、指令条件下的脑电（EEG）理解能力。它包含四个子集，覆盖 17 个数据集、众多任务和超过十万个真实数据实例，并在两种范式下评估模型：自主代码执行和结构化智能体分析。 该基准填补了现有脑电评估中的关键空白，现有评估主要集中于孤立的解码任务或特定系统的演示。通过提供全面且可复现的测试平台，BrainBench 能够系统比较 LLM 的脑电能力，可能加速 AI 驱动的神经科学和临床应用的发展。 BrainBench 包含四个子集：基础分析、睡眠评估、神经认知评估和生理整合。输出通过数值、分类、集合、序列、语义和伪迹检查进行验证，基准在超过 10 万次执行中评估了代表性 LLM。代码和基准将很快发布，结果会持续更新。
+研究人员引入了点火指数（I），这是一个标量指标，用于在 Transformer 语言模型中操作化全局工作空间理论的全或无点火预测。在来自五个架构家族的 11 个模型中，他们发现前馈 Transformer 的点火程度比 SSM 高 89%，而 Mamba 表现出接近线性的轮廓。 这项工作首次在全局工作空间理论与机械可解释性之间建立了经过验证的定量桥梁，为跨架构比较信息处理提供了新工具。它可能影响研究人员理解和设计模型的方式，特别是在全局广播和循环处理方面。 该指标将四参数 Sigmoid 拟合到每层线性探针准确度作为输入信号强度的函数，提取陡度参数β-hat。打乱标签的对照实验表明，对真实语言结构的选择性比虚假探针能力高 9.6 倍（p < 0.001），而 Huginn-3.5B 沿其迭代轴的点火程度比深度轴高 2.12 倍。
 
-rss · arXiv - AI · Aug 6, 04:00
+rss · arXiv - AI · Aug 7, 04:00
 
-**背景**: 脑电图（EEG）是一种记录大脑电活动的技术，广泛用于诊断和监测癫痫、睡眠障碍等疾病。传统的 EEG 分析通常侧重于分配预定义标签，但全面理解需要整合自然语言指令、信号处理和科学解释。BrainBench 旨在量化 LLM 在多大程度上能够执行这种整体分析，超越简单的解码任务。
+**背景**: 全局工作空间理论（GWT）提出，意识处理涉及信息的全局广播，具有全或无的点火模式。线性探针是在内部表示上训练的简单分类器，用于检测特定特征，其准确度可以指示属性编码的好坏。状态空间模型（SSM）如 Mamba 是 Transformer 的替代方案，具有不同的架构动态。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Electroencephalography">Electroencephalography - Wikipedia</a></li>
-<li><a href="https://www.ncbi.nlm.nih.gov/books/NBK390346/">Introduction - Electroencephalography (EEG): An Introductory Text and Atlas of Normal and Abnormal Findings in Adults, Children, and Infants - NCBI Bookshelf</a></li>
-<li><a href="https://arxiv.org/html/2608.04156">BrainBench : Benchmarking Large Language Models for...</a></li>
+<li><a href="https://arxiv.org/html/2608.05160">The Ignition Index: Measuring Global Workspace Dynamics in...</a></li>
+<li><a href="https://papers.cool/arxiv/2608.05160">The Ignition Index: Measuring Global Workspace Dynamics in...</a></li>
+<li><a href="https://aiwiki.ai/wiki/linear_probes">Linear Probes | AI Wiki</a></li>
 
 </ul>
 </details>
 
-**标签**: `#LLM`, `#EEG`, `#benchmark`, `#neuroscience`, `#AI`
+**标签**: `#language models`, `#Global Workspace Theory`, `#interpretability`, `#transformers`, `#SSMs`
 
 ---
 
 <a id="item-14"></a>
-## [无领域知识的元认知层提升预训练感知模型的鲁棒性](https://arxiv.org/abs/2608.04190) ⭐️ 8.0/10
+## [啄木鸟蒸馏：弱模型修复强模型推理缺陷](https://arxiv.org/abs/2608.05168) ⭐️ 8.0/10
 
-本文提出了一种无需领域知识的元认知层，利用标签向量池（LVP）为预训练感知模型学习错误检测规则，在测试集上达到与手工规则相差 0.002 F1 的性能。该方法将融合问题建模为基于一致性的溯因问题，并通过精确整数规划和多项式时间启发式求解。 这项工作解决了部署预训练感知模型时分布偏移的关键问题，提供了一种不依赖领域知识的鲁棒融合方法。在协同攻击下表现出显著优势，有望提高 AI 系统在新环境中的可靠性。 该方法利用从训练嵌入构建的每模型标签向量池，几何规则共享单一逻辑框架，并可在有领域知识时进行补充。在包含 15 个天气偏移测试集和六个 ViT 检测器的航拍图像基准上，该方法在干净数据上与多数投票相当（F1 相差 0.005 以内），并在 90%标签翻转攻击下优于所有基线（F1 为 0.42，而 MV-Plurality 为 0.35，相对提升 22%）。
+该论文提出了啄木鸟蒸馏（Woodpecker Distillation），一种弱到强的训练框架，利用弱模型的对比性局部干预来纠正强模型中的局部推理缺陷，在数学推理基准上提升了强模型性能，而无需直接对弱输出进行微调。 该方法解决了大语言模型推理中的一个重要挑战：局部缺陷虽可修复，但难以通过直接模仿内化。它提供了一种新的训练范式，通过利用弱模型来提升强模型的推理能力，可能对 AI 对齐和模型改进策略产生影响。 该方法在同一前缀下对比弱模型成功与不成功的补丁，从其诱导的未来词元预测中构建纠正性教师分布，并将该信号蒸馏到强模型中。实验表明，在数学推理基准上，该方法持续优于直接模仿基线。
 
-rss · arXiv - AI · Aug 6, 04:00
+rss · arXiv - AI · Aug 7, 04:00
 
-**背景**: 预训练感知模型在分布偏移下性能下降，而多数投票等简单融合方法对协同故障脆弱。元认知层通过学习逻辑规则来标记错误，但通常依赖手工编写的领域知识，可能无法迁移到新场景。本文利用向量空间几何，从训练嵌入构建标签向量池，实现无需领域知识的错误检测规则。
+**背景**: 大型语言模型尽管具备解决推理任务的能力，却常常因中间步骤中的局部推理缺陷而失败。弱到强训练利用弱监督者来引导强模型，本文通过关注对比性局部干预而非直接模仿弱输出来扩展这一方法。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2608.04190">[2608.04190] Adversarially Robust Abductive Fusion of Pre-trained...</a></li>
-<li><a href="https://arxiv.org/html/2406.12147v1">Metacognitive AI: Framework and the Case for a Neurosymbolic ...</a></li>
+<li><a href="https://arxiv.org/html/2608.05168v1">Woodpecker Distillation : Weak Models Diagnose Reasoning Bugs in...</a></li>
+<li><a href="https://www.emergentmind.com/topics/weak-to-strong">Weak - to - Strong Training Overview</a></li>
+<li><a href="https://arxiv.org/html/2606.21121v1">Answer Engineering: Local Trajectory Editing for Protocol-Constrained...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#perception models`, `#distributional shift`, `#neurosymbolic`, `#error detection`, `#machine learning`
+**标签**: `#LLM`, `#reasoning`, `#weak-to-strong`, `#distillation`, `#AI`
 
 ---
 
 <a id="item-15"></a>
-## [MatrAIx：基于 83 亿人设的大规模模拟用户评估](https://arxiv.org/abs/2608.04205) ⭐️ 8.0/10
+## [Otter：一种时间感知、历史条件化的人类国际象棋 AI](https://arxiv.org/abs/2608.05206) ⭐️ 8.0/10
 
-MatrAIx 推出了一种人口规模的模拟用户评估基础设施，包含 83 亿条人设记录，覆盖 1290 个分类维度，并提供一个约 100 万条人设的质量过滤核心集。它提供四个评估环境（调查、AI 聊天机器人、网页、应用）和跨越 25 个以上领域的 1010 个应用任务，并使用三个 LLM 进行了 18,189 次评估试验。 该基础设施解决了 AI 系统人工评估成本高、可扩展性有限的问题，支持更多样化和交互式的测试。它通过提供标准化、大规模模拟异构用户的方法，可能显著影响 AI 评估方法论，惠及各行业的开发者和研究人员。 人设记录要么从保留相关属性的依赖图中采样，要么从人类撰写的档案中派生。验证研究显示，在十个行为属性上，声明行为的符合率为 91.5%，并且人类和 LLM 评审员评估了基于人类的人设的提取质量。
+Otter 是一个 1530 万参数的神经网络，通过将下棋建模为时间感知的序列过程，并基于最近 20 步棋和时钟压力进行条件化，来预测人类棋步。它达到了 55.23%的 Top-1 和 90.95%的 Top-5 准确率，以更少的参数和训练数据超越了 Maia 2。 这表明结合时间和对局历史能显著提高人类棋步预测的准确性，挑战了仅基于局面的范式。这可能会带来更接近人类的国际象棋 AI，用于训练和分析，并且该方法可能推广到其他序列决策领域。 Otter 在单个 T4 GPU 上训练了 30 天，使用了来自 1.17 亿盘 Lichess 快棋对局的 61 亿个局面。在 1900-1999 Elo 分段中准确率最高达到 57.38%，模型、代码和训练日志均已公开。
 
-rss · arXiv - AI · Aug 6, 04:00
+rss · arXiv - AI · Aug 7, 04:00
 
-**背景**: 传统的人工评估 AI 系统成本高且速度慢，而离线评估往往缺乏人类多样性和交互性。模拟用户评估旨在以可扩展的方式模拟真实用户行为。MatrAIx 基于这一概念，创建了大规模人设数据集和交互环境，以使用异构模拟用户测试 AI 系统和数字产品。
+**背景**: 传统的国际象棋 AI 如 Stockfish 专注于最优走法，而像 Maia 这样的人类棋步预测模型旨在模仿人类决策。Maia 2 是一个统一模型，能适应不同技能水平，但 Otter 通过考虑对局历史和时间压力进一步扩展了这一点，这些在人类对弈中至关重要。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://github.com/MatrAIx-ai/MatrAIx-Persona-8B">GitHub - MatrAIx-ai/MatrAIx-Persona-8B: Simulate Before ...</a></li>
-<li><a href="https://huggingface.co/datasets/MatrAIx2026/Persona8B">MatrAIx2026/Persona8B · Datasets at Hugging Face</a></li>
-<li><a href="https://aws.amazon.com/blogs/machine-learning/simulate-realistic-users-to-evaluate-multi-turn-ai-agents-in-strands-evals/">Simulate realistic users to evaluate multi-turn AI agents in ...</a></li>
+<li><a href="https://arxiv.org/abs/2608.05206">Otter: A Time - Aware , History-Conditioned Human Chess AI</a></li>
+<li><a href="https://huggingface.co/peargentlabs/otter-chess">peargentlabs/ otter - chess · Hugging Face</a></li>
+<li><a href="https://www.maiachess.com/">Maia Chess</a></li>
 
 </ul>
 </details>
 
-**标签**: `#AI evaluation`, `#simulation`, `#persona`, `#large-scale`, `#infrastructure`
+**标签**: `#AI`, `#Chess`, `#Machine Learning`, `#Human Behavior Modeling`, `#arXiv`
 
 ---
 
 <a id="item-16"></a>
-## [RAIL 原则为神经符号 AI 提供统一框架](https://arxiv.org/abs/2608.04285) ⭐️ 8.0/10
+## [SearchAuditor：审计并修复长时程搜索智能体的失败](https://arxiv.org/abs/2608.05212) ⭐️ 8.0/10
 
-该论文提出了 RAIL 原则（推理、保证、接口、学习），作为设计和分析神经符号 AI 系统的综合框架。它认为许多领先的 AI 系统，包括那些传统上不被视为神经符号的系统，都可以通过这一视角来理解。 该框架为多样化的 AI 方法提供了统一视角，可能指导工程师在构建可靠和可信 AI 时做出更有原则的决策。它强调了神经符号 AI 在解决纯深度学习局限性（如 LLM 中的幻觉）方面日益增长的重要性。 RAIL 框架应用于物理感知机器学习、神经引导搜索（如 Alpha-*系列）、因果学习和工具增强的 LLM 等领域。该论文由众多知名研究人员撰写，表明广泛共识和潜在的高影响力。
+该论文引入了 SearchAuditBench 基准，包含来自长时程搜索智能体的 1,243 条专家标注的失败轨迹，以及 SearchAuditor，一个多视角框架，用于定位、归因和修复失败。实验表明，SearchAuditor 实现了 32.3%的端到端通过率，优于 GPT-5.5 等基线（26.6%）。 这项工作通过自动化诊断长时程搜索智能体中的失败，解决了 AI 可靠性中的一个关键空白，这类智能体越来越多地用于复杂任务。该基准和框架为改进智能体调试和恢复提供了宝贵资源，可能减少人工监督负担。 SearchAuditBench 包含平均 73.1 条消息和 65.1K token 的轨迹，来自五个深度搜索基准上的八个开放权重模型，并带有专家标注的关键错误步骤、根本原因和参考修复。SearchAuditor 框架使用基于证据的裁决来改进定位、归因和修复，并能恢复失败的运行以帮助智能体恢复。
 
-rss · arXiv - AI · Aug 6, 04:00
+rss · arXiv - AI · Aug 7, 04:00
 
-**背景**: 神经符号 AI 结合神经网络和符号推理，以创建更健壮和可信的系统。它常被称为 AI 的第三次浪潮，继符号 AI（第一次浪潮）和深度学习（第二次浪潮）之后。该领域在 2025 年因解决 LLM 幻觉问题而获得工业界关注，例如亚马逊的 Vulcan 机器人应用。
+**背景**: 长时程搜索智能体通过多步复杂的网络交互来解决问题，但小的推理错误可能会传播并导致错误的答案。由于执行轨迹很长，手动诊断这些失败是不切实际的。本文引入了一个基准和框架，利用 LLM 审计器来自动化失败审计，以定位、归因和修复错误。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Neuro-symbolic_AI">Neuro-symbolic AI</a></li>
-<li><a href="https://theconversation.com/neurosymbolic-ai-is-the-answer-to-large-language-models-inability-to-stop-hallucinating-257752">Neurosymbolic AI is the answer to large language models’ inability to...</a></li>
+<li><a href="https://arxiv.org/abs/2608.05212">[2608.05212] SearchAuditor : Auditing and Attributing Failures in...</a></li>
+<li><a href="https://github.com/RUC-NLPIR/Awesome-Long-Horizon-Agents">GitHub - RUC-NLPIR/Awesome- Long - Horizon - Agents : The roadmap...</a></li>
+<li><a href="https://arxiv.org/html/2608.01913v1">Diagnosing Search Behavior and Failure Modes in Long - Horizon ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#neurosymbolic AI`, `#machine learning`, `#symbolic reasoning`, `#AI principles`, `#trustworthy AI`
+**标签**: `#AI agents`, `#benchmark`, `#debugging`, `#LLM`, `#search`
 
 ---
 
 <a id="item-17"></a>
-## [信任域框架统一自适应优化器，提出 GMake 机制](https://arxiv.org/abs/2608.04026) ⭐️ 8.0/10
+## [CRAFTER：用于黑盒预测器纠正特征发现的智能体](https://arxiv.org/abs/2608.05207) ⭐️ 8.0/10
 
-本文提出了一个用于矩估计的信任域框架，统一了像 Adam 这样的自适应优化器，并提出了一族新的学习率机制 GMake，并在 GPT2-124M 训练上进行了验证。 该框架将更新步长限制在由 p 阶矩约束（p∈[2,4]）控制的信任域内，其中 p=4 涉及类似峰度的估计。实验表明，在弱信任域约束下，四阶矩实现受益最大，而在更强控制下，二阶矩实现变得更具竞争力。
+该论文介绍了 CRAFTER，一种通过组合搜索原始输入通道与 LLM 提出的特征来为冻结的黑盒预测器发现纠正特征的智能体，并使用验证门接受或拒绝候选特征。在六个数据集和六个骨干网络上，它超越了专门的自动特征工程系统，将单独纠正器的改进效果大约翻倍，并将最弱骨干网络的错误率降低高达 27%。 这项工作解决了在不进行昂贵微调的情况下改进冻结预测器的实际问题，提供了一种与来源无关的流程，可将改进归因于特征来源。它为模型纠正提供了一种新工具，可能惠及预测及其他重训练成本高昂或不可行的领域的从业者。 CRAFTER 使用两种互补的生成器：对原始输入通道的组合搜索，以及提出命名特征组合、二进制标志和短可执行代码的 LLM。一个基于验证的门会接受或拒绝候选特征，无论其来源如何，验证选择的纠正器会应用接受的特征或保持预测不变。这些增益在不同 LLM 后端上表现稳健，并且即使在微调后的骨干网络上依然存在。
 
-rss · arXiv - Machine Learning · Aug 6, 04:00
+rss · arXiv - Machine Learning · Aug 7, 04:00
 
-**背景**: 信任域方法是一类优化算法，在当前解周围的局部区域内近似目标函数。像 Adam 这样的自适应优化器使用矩估计来缩放参数更新。峰度是衡量分布尾部厚度的统计量，而谱低通滤波是信号处理和神经网络中使用的技术。
+**背景**: 冻结的预训练预测器经常以结构化、重复的方式失败，而微调它们成本高昂。纠正特征发现挖掘残差的可解释特征，以驱动轻量级的后置纠正器，建模的是模型失败过程而非数据生成过程。这种方法与后置模型纠正方法相关，后者旨在仅使用输出数据来改进黑盒模型。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Trust_region">Trust region - Wikipedia</a></li>
-<li><a href="https://optimization.cbe.cornell.edu/index.php?title=Trust-region_methods">Trust-region methods - Cornell University</a></li>
-<li><a href="https://www.investopedia.com/terms/k/kurtosis.asp">investopedia.com/terms/k/ kurtosis .asp</a></li>
+<li><a href="https://arxiv.org/abs/2608.05207">[2608.05207] When Do Corrective Features Help? An Agent for...</a></li>
+<li><a href="https://arxiv.org/html/2308.09437">From Hope to Safety: Unlearning Biases of Deep Models via Gradient...</a></li>
+<li><a href="https://www.emergentmind.com/topics/post-hoc-model-agnostic-methods-5982373f-64d0-4328-bb34-9b11653ee591">Post - hoc Model -Agnostic Methods Overview</a></li>
 
 </ul>
 </details>
 
-**标签**: `#optimization`, `#deep learning`, `#Adam`, `#trust-region`, `#moment estimation`
+**标签**: `#machine learning`, `#forecasting`, `#LLM`, `#feature engineering`, `#model correction`
 
 ---
 
 <a id="item-18"></a>
-## [Tactus：基于低成本压力阵列的开放词汇触觉识别](https://arxiv.org/abs/2608.04043) ⭐️ 8.0/10
+## [PPDL：面向 LLM 流程的概率编程](https://arxiv.org/abs/2608.05234) ⭐️ 8.0/10
 
-Tactus 提出了一种使用低成本压力阵列的开放词汇触觉识别模型，在 STAG 基准上达到 0.771 的 top-1 准确率，在没有训练分类头的情况下匹配甚至超过了监督 CNN。 这项工作表明，广泛部署的低成本压力传感器可以支持先进的开放词汇识别，可能减少机器人技术中对昂贵光学触觉传感器的需求，并使触觉 AI 应用更加普及。 该模型在 14.4 万个未标记帧上进行掩码自编码器预训练，仅使用 187 个训练记录，传感器的校准仿射变换带来的精度提升超过了所有架构变化的总和。错误集中在接触模糊的类别中，与文本-目标几何无关。
+本文介绍了 PPDL，这是首个面向 LLM 和工具调用流程的概率提示编程语言，使开发者能够在整个应用流程中量化和传播不确定性。它还允许在不修改流程逻辑的情况下尝试不同的推理扩展技术。 这项工作解决了基于 LLM 的系统中不确定性的关键挑战，这些系统往往产生不可靠的输出。通过提供不确定性量化和传播的正式框架，PPDL 可以提高 LLM 应用的信任度和可靠性，惠及各个领域的开发者和最终用户。 论文通过实验研究展示了 PPDL 的能力，并提供了一个为 Rocq 定理证明器构建定理证明代理的案例研究。该语言包含一种语义，形式化了基于提示的采样与概率因子之间的相互作用。
 
-rss · arXiv - Machine Learning · Aug 6, 04:00
+rss · arXiv - Machine Learning · Aug 7, 04:00
 
-**背景**: 触觉传感对于机器人操作物体至关重要，但大多数表示学习集中在成像变形凝胶的光学传感器上，这些传感器价格昂贵。电阻式压力阵列更便宜且更常见，但在学习方面未得到充分利用。开放词汇识别允许模型基于自然语言描述识别物体，而不仅仅是预定义类别。
+**背景**: 大型语言模型（LLM）功能强大，但往往产生没有可靠置信度测量的输出。在包含多次 LLM 调用和工具集成的复合系统中，不确定性会累积，使得结果难以信任。概率编程语言提供了显式建模不确定性的框架，而 PPDL 将其应用于基于 LLM 的流程。Rocq 定理证明器是一种用于形式验证的交互式证明助手。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://stag.csail.mit.edu/">Learning the signatures of the human grasp using a scalable tactile glove</a></li>
-<li><a href="https://arxiv.org/html/2505.16289v1">TacCompress: A Benchmark for Multi-Point Tactile Data Compression in Dexterous Manipulation</a></li>
-<li><a href="https://www.therobotreport.com/mit-glove-tactile-sensors-manipulation/">MIT glove with tactile sensors builds map that could help train robot manipulation - The Robot Report</a></li>
+<li><a href="https://arxiv.org/pdf/2608.05234">PPDL : LLM -Based Flows as Probabilistic Programs</a></li>
+<li><a href="https://arxiv.org/abs/2608.05234">[2608.05234] PPDL : LLM -Based Flows as Probabilistic Programs</a></li>
+<li><a href="https://rocq-prover.org/">Rocq is a general-purpose, industrial-strength interactive theorem ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#tactile sensing`, `#object recognition`, `#representation learning`, `#robotics`, `#arXiv`
+**标签**: `#LLM`, `#probabilistic programming`, `#uncertainty quantification`, `#AI reliability`, `#theorem proving`
 
 ---
 
 <a id="item-19"></a>
-## [RRQ：从单一检查点实现 LLM 渐进式多精度量化](https://arxiv.org/abs/2608.04048) ⭐️ 8.0/10
+## [将感知与描述解耦以实现时间序列与语言的对齐](https://arxiv.org/abs/2608.05238) ⭐️ 8.0/10
 
-该论文提出了循环残差量化（RRQ），一种后训练量化框架，通过添加 2 位残差校正，从单一检查点生成 2 位、4 位、6 位和 8 位表示。在 Qwen3-8B 测试中，RRQ 构建完整包耗时 1,293 秒，比 MatGPTQ 快 3.3 倍。 该方法解决了 LLM 部署中的关键挑战，无需重新训练或存储多个检查点即可实现精度与内存的灵活权衡。它可能显著提升服务灵活性并降低存储开销，惠及高效 LLM 推理领域的研究者和实践者。 RRQ 无需校准，且避免联合多比特优化，对基础 2 位模型和残差均使用最近舍入（RTN）。在六个近期 LLM 上的实验显示，6 位和 8 位精度具有竞争力，4 位表现因模型而异；代码将在发表后公开。
+该论文提出了 CGTime，一个 40 亿参数的计算接地时间序列-语言模型，通过使用确定性代码从多元时间序列中计算统计量，并让 LLM 将这些事实表述出来，从而将感知与描述解耦。CGTime 在保留基准上取得了 0.283 的多元事实得分，优于更大的通用模型如 GPT-4o-mini（0.173）和 GPT-5.4-nano（0.203）。 这项工作解决了多模态时间序列-语言对齐中的一个基本限制，即自监督陷阱，其中标签质量受限于 LLM 的感知能力。通过将感知与描述解耦，它提供了一种可扩展且可靠的方法，可能改善金融、医疗保健和物联网等各个领域的多元时间序列理解。 该方法使用确定性代码从真实、开源的多元序列中计算一组统计量，LLM 将这些预计算的事实表述出来，从而避免了自监督陷阱。CGTime 与基线之间的性能差距具有统计学显著性，这一点通过 Holm 校正的配对显著性检验得到确认，并且它生成的标题中包含更准确的、可验证的数值事实。
 
-rss · arXiv - Machine Learning · Aug 6, 04:00
+rss · arXiv - Machine Learning · Aug 7, 04:00
 
-**背景**: 后训练量化（PTQ）通过在训练后将权重转换为较低精度来减小模型大小并加速推理，无需微调。传统 PTQ 方法需要为每个目标位宽准备单独的检查点，这既耗费存储又缺乏灵活性。RRQ 基于残差量化技术，该技术通过迭代量化残差来改善压缩，从而从单一模型实现多种精度。
+**背景**: 多元时间序列数据，即随时间变化的多个变量，在金融和医疗保健等领域很常见。将此类数据与语言对齐具有挑战性，因为 LLM 通常在感知任务（如提取统计模式）上表现不佳，而擅长生成描述。当使用 LLM 标注数据时，会出现自监督陷阱，因为它们的感知限制限制了标签质量，而且大多数数据集是单变量的，缺少重要的跨通道相关性。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2608.04048">[2608.04048] Recurrent Residual Quantization: A Progressive ...</a></li>
-<li><a href="https://www.semanticscholar.org/paper/Recurrent-Residual-Quantization:-A-Progressive-for-Luo-Dong/6723314b3bfa30d0d2733bb245616ab856b67e17">Recurrent Residual Quantization: A Progressive Multi ...</a></li>
-<li><a href="https://www.datacamp.com/tutorial/quantization-for-large-language-models">Quantization for Large Language Models (LLMs): Reduce... | DataCamp</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2018/09/multivariate-time-series-guide-forecasting-modeling-python-codes/">Multivariate Time Series Analysis</a></li>
+<li><a href="https://pubmed.ncbi.nlm.nih.gov/39110564/">Self - Supervised Multimodal Learning : A Survey</a></li>
+<li><a href="https://changelly.com/blog/what-is-blockchain-trilemma/">Blockchain Trilemma Explained: Security, Scale & Decentralization</a></li>
 
 </ul>
 </details>
 
-**标签**: `#LLM`, `#quantization`, `#post-training quantization`, `#efficient inference`, `#multi-precision`
+**标签**: `#multimodal learning`, `#time series`, `#LLM`, `#representation alignment`, `#self-supervision`
 
 ---
 
 <a id="item-20"></a>
-## [LLM 提示工程在 EvaLatin 2026 古典拉丁语命名实体识别中夺冠](https://arxiv.org/abs/2608.04015) ⭐️ 8.0/10
+## [边缘匹配无法防止因子化生成模型中的风格泄漏](https://arxiv.org/abs/2608.05243) ⭐️ 8.0/10
 
-来自渥太华大学的论文表明，使用商业 LLM（gemini-2.5-pro 和 claude-sonnet-4-5）进行提示工程，在古典拉丁语命名实体识别中取得了最佳性能，赢得了 EvaLatin 2026 共享任务的两个子任务。该系统在所有评估指标和机制下均取得了最佳分数。 这项工作凸显了跨语言迁移学习在低资源古代语言中的潜力，表明商业 LLM 无需微调即可有效适应。它为古典拉丁语的数字人文和 NLP 研究提供了强有力的基线，可能减少对大规模标注数据集的需求。 该任务包括 11 个类别的粗粒度 NER 和 28 个类别的细粒度 NER，每种均在严格和模糊机制下评估。该方法仅依赖提示工程，未进行微调，利用了模型的跨语言能力。
+一篇新的 arXiv 论文（2608.05243）表明，在因子化生成模型中，将潜在风格变量的边缘分布匹配到高斯先验并不能确保其与类别标签独立。作者证明，尽管全局 MMD 接近零，类条件风格分布仍可能高度预测标签。 这一发现挑战了表示学习和生成建模中的常见假设，可能影响模型的评估和设计方式。它强调仅报告边缘统计量不足以验证因子化采样，这可能影响可控生成和解耦表示学习等应用。 论文推导出精确分解，表明边缘匹配是因子化采样所需的四个条件之一，消除该不匹配是必要但不充分的。实验上，案例研究模型和四个基线实现了接近零的 MMD，而线性探针能以 74%-100% 的准确率恢复类别标签（10% 随机水平），模型聚类准确率达 99.15%，而外部评估的类条件生成成功率仅为 16%。
 
-rss · arXiv - NLP · Aug 6, 04:00
+rss · arXiv - Machine Learning · Aug 7, 04:00
 
-**背景**: 命名实体识别（NER）是自然语言处理中的一项任务，用于识别和分类文本中的实体。古典拉丁语是一种低资源语言，EvaLatin 是一个专门评估拉丁语 NLP 工具的共享任务活动。跨语言迁移学习利用资源丰富语言的知识来提高低资源环境下的性能，而提示工程允许 LLM 无需微调即可执行任务。
+**背景**: 因子化生成模型旨在将数据分解为独立的潜在因子，如风格和类别，以实现可控生成。常见做法是将风格潜在变量的边缘分布正则化为匹配高斯先验，假设这能确保与类别信息独立。最大均值差异（MMD）是一种基于核的度量，常用于比较分布，但本文表明仅应用于边缘分布时，它无法证明类条件独立性。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://lrec.elra.info/lrec2026-ws-lt4hala-19">Overview of the Dependency Parsing Task at EvaLatin 2026</a></li>
-<li><a href="https://www.emergentmind.com/topics/cross-lingual-transfer-learning-cltl">Cross - Lingual Transfer Learning</a></li>
-<li><a href="https://readmedium.com/prompt-engineering-for-named-entity-recognition-af520fe3c958">Prompt Engineering for Named Entity Recognition</a></li>
+<li><a href="https://www.emergentmind.com/topics/generative-simulation-via-factorized-representation">Generative Simulation via Factorized Representation</a></li>
+<li><a href="https://medium.com/@bhm22ainds/maximum-mean-discrepancy-the-most-underrated-distance-measure-in-modern-machine-learning-70cba43837e3">Maximum Mean Discrepancy : The Most Underrated... | Medium</a></li>
+<li><a href="https://theorempath.com/topics/kernel-two-sample-tests">Kernel Two-Sample Tests. MMD , Unbiased Estimation... | TheoremPath</a></li>
 
 </ul>
 </details>
 
-**标签**: `#Natural Language Processing`, `#Named Entity Recognition`, `#Large Language Models`, `#Cross-lingual Transfer Learning`, `#Classical Latin`
+**标签**: `#generative models`, `#factorized representation`, `#style leakage`, `#MMD`, `#representation learning`
 
 ---
 
 <a id="item-21"></a>
-## [位置相关的重复效应挑战完形填空探针假设](https://arxiv.org/abs/2608.04021) ⭐️ 8.0/10
+## [平均场理论建模大语言模型中的思维链推理](https://arxiv.org/abs/2608.05152) ⭐️ 8.0/10
 
-一篇新的 arXiv 论文表明，重复目标词元对语言模型预测的影响取决于读出位置：相邻重复呈现单调递增，而错位重复则呈现倒 U 型模式。这一发现在 13 个开放获取模型中成立，并在 42 个多语言单元中的 42 个中复现。 这挑战了完形填空式探针研究中常见的假设，即读出位置与重复效应无关，可能影响许多先前发现的有效性。它强调了在语言模型分析中更仔细的实验设计的必要性，并可能影响研究人员如何解释基于重复的探针。 该研究采用双探针设计和六条件因果消融，将效应隔离到精确词汇重复，排除了长度、一般冗余和语义邻居暴露。在内部，每个目标词元的注意力随 N 下降，而重复块的总预算在因果 LM 中增长，但在所探测的掩码 LM 中不增长。
+该论文提出一个理论框架，将大语言模型的思维链推理建模为在线索图上的引导发现过程，并利用平均场近似推导出关于已发现线索比例的一维常微分方程。实验通过归一化惊异度识别线索标记，并将统计规律拟合到所提出的方程，从而验证了该框架。 这项工作为理解思维链推理提供了新颖的理论视角，且无需简化模型架构，可能指导未来的模型优化并加深我们对大语言模型行为的理解。它将统计物理与 AI 推理联系起来，有望为 AI 社区带来新的理论工具。 该平均场常微分方程在推导时未简化架构或类比物理系统，实验采用学生-教师设置，通过归一化惊异度识别线索标记。统计规律在同一数据集内可复现，并能拟合理论方程，但该框架在不同推理任务中的适用性仍有待检验。
 
-rss · arXiv - NLP · Aug 6, 04:00
+rss · arXiv - NLP · Aug 7, 04:00
 
-**背景**: 完形填空式探针是 NLP 中评估语言模型的常用方法，通过预测掩码或下一个词元来实现。论文发现重复效应取决于读出位置，表明此类探针可能不像假设的那样直接。倒 U 型模式让人联想到心理学现象，即重复最初增加但随后减少某些反应。
+**背景**: 思维链推理是一种让大语言模型在给出最终答案前生成中间推理步骤的技术，可提升复杂任务的表现。平均场近似是统计物理学中的一种方法，通过对个体相互作用取平均来简化多体问题；惊异度衡量一个词在上下文中的负对数概率，反映语言处理中的认知努力。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/pdf/2608.04021">When More Becomes Less: Position-Dependent Repetition Effects ...</a></li>
-<li><a href="https://www.cambridge.org/core/journals/judgment-and-decision-making/article/inverted-ushaped-model-how-frequent-repetition-affects-perceived-risk/4FDC6867A9B9B1A1732AC7024B96081B">Inverted U-shaped model: How frequent repetition affects ...</a></li>
+<li><a href="https://arxiv.org/html/2608.05152">Mean-Field Dynamics of Chain - of - Thought Reasoning in Large...</a></li>
+<li><a href="https://papers.cool/arxiv/2608.05152">Mean-Field Dynamics of Chain - of - Thought Reasoning in Large...</a></li>
+<li><a href="https://link.springer.com/chapter/10.1007/978-3-642-33105-3_7">Mean Field Approximation | Springer Nature Link</a></li>
 
 </ul>
 </details>
 
-**标签**: `#language models`, `#repetition effects`, `#cloze probes`, `#NLP`, `#causal analysis`
+**标签**: `#large language models`, `#chain-of-thought`, `#mean-field theory`, `#theoretical AI`, `#reasoning`
 
 ---
 
 <a id="item-22"></a>
-## [输出令牌上限扭曲多语言推理基准测试](https://arxiv.org/abs/2608.04160) ⭐️ 8.0/10
+## [GraphRAG 过度引用普遍存在，但对忠实度的影响因语料而异](https://arxiv.org/abs/2608.05153) ⭐️ 8.0/10
 
-arXiv 上的一篇新论文（2608.04160）表明，多语言评估中的输出令牌上限是一个隐藏变量，可以逆转或夸大母语与翻译推理差距，在 MGSM 上对 Qwen3-8B 和 Llama-3.1-8B-Instruct 的测量差距在不同预算下波动高达 57 个百分点。 这一发现暴露了多语言 NLP 基准测试中的重大方法论缺陷，因为单一预算的准确率报告可能会误导跨语言和跨模型的比较。它敦促研究人员将输出上限视为独立变量，并在预算范围内报告准确率，这可能重塑多语言推理的评估方式。 该研究在 MGSM 上对德语、泰语和斯瓦希里语使用了四种提示策略，发现长度归一化在上限约束下可使差距移动多达 38.9 个百分点，并且在严格上限下归一化可以逆转哪个策略得分更高。在 B*=1024 的冻结测试未能拒绝零假设，因为母语准确率已经饱和，表明剩余差异是策略性能差距，而非推理缺陷。
+一项跨越嵌入器、语料库和评判者的三重稳健性分析揭示，GraphRAG 的过度引用在架构上是普遍存在的，但其对忠实度的影响取决于语料库类型。该研究包括 4,440 次主矩阵运行、600 次跨语料库运行和 1,200 次配对忠实度判断。 这一发现挑战了 GraphRAG 引用行为普遍存在问题的假设，表明其对忠实度的影响因语料类型而异。它为评估 RAG 架构提供了新的基准，并强调了在检索增强生成系统中进行多维度稳健性测试的必要性。 GraphRAG 在每个答案中生成 11-15 个 ID，引用精度为 0.12-0.23，检索召回率为 0.68-0.87，在所有设置中均如此。在类型化边 DO-178C 上，跨跳忠实度从 74%降至 40%，而在 Wikipedia 链上则从 42%升至 58%。单一评判者 LLM 的忠实度自 kappa 值较低（GPT-5.4 为 0.137），41%的项目评判结果发生变化。
 
-rss · arXiv - NLP · Aug 6, 04:00
+rss · arXiv - NLP · Aug 7, 04:00
 
-**背景**: MGSM（多语言小学数学）是一个包含 250 道小学数学题的基准测试，这些题目从 GSM8K 手动翻译成十种类型多样的语言，用于评估多语言推理。输出令牌上限限制了模型可以生成的最大令牌数，而不同语言表达相同内容所需的令牌数不同，使得上限成为一个隐藏变量。Holm-Bonferroni 方法是一种用于多重比较的统计校正方法，此处用于验证观察到的效应的显著性。
+**背景**: 检索增强生成（RAG）将检索与生成相结合以提高答案准确性，而 GraphRAG 利用知识图谱增强多跳推理。多跳可追溯性需要跨多个文档或步骤链接信息，这对基于向量和基于图的 RAG 都具有挑战性。该研究引入了三重稳健性设计，通过变化嵌入器、语料库和评判者，确保发现不是单一配置的产物。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://benchlm.ai/multilingual">Best LLMs for Multilingual — July 2026 Leaderboard | BenchLM.ai</a></li>
-<li><a href="https://www.kaggle.com/benchmarks/open-benchmarks/mgsm">MGSM : Multilingual Grade School Math Benchmark ... | Kaggle</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Holm–Bonferroni_method">Holm–Bonferroni method - Wikipedia</a></li>
+<li><a href="https://www.analyticsvidhya.com/blog/2024/11/graphrag/">GraphRAG from Theory to Implementation - Analytics Vidhya</a></li>
+<li><a href="https://atlan.com/know/what-is-graphrag/">What Is GraphRAG ? Architecture, GraphRAG vs RAG , Use Cases</a></li>
+<li><a href="https://deeplearn.org/arxiv/799587/a-triple-robustness-analysis-of-retrieval-augmented-generation-for-multi-hop-requirements-traceability">A Triple - Robustness Analysis of Retrieval-Augmented Generation for...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#multilingual NLP`, `#evaluation methodology`, `#reasoning`, `#token budget`, `#benchmarking`
+**标签**: `#RAG`, `#GraphRAG`, `#multi-hop`, `#evaluation`, `#information retrieval`
 
 ---
 
 <a id="item-23"></a>
-## [语言模型通过分离的测试与路由模块实现条件规则](https://arxiv.org/abs/2608.04183) ⭐️ 8.0/10
+## [支架介导的后训练：参数与程序性支架共同进化](https://arxiv.org/abs/2608.05156) ⭐️ 8.0/10
 
-一篇新的 arXiv 预印本（2608.04183）使用激活修补和四供体设计，表明语言模型通过分离的模块实现上下文条件规则：一个用于测试谓词，另一个用于路由答案。这种定位在来自两个家族的三个开放模型和六种语言中保持一致，谓词的真值由中堆栈残差带携带。 这项工作推进了机械可解释性，揭示了条件规则的“测试”组件是模块化且可转移的，而“路由”组件是令牌绑定且不可转移的。这些发现可能为未来的可解释性研究提供信息，并有助于构建更可靠、更可控的语言模型。 该研究使用了严格的预先指定的隔离标准，在 18 个单元中的 17 个中满足该标准，谓词结果翻转接近 1.0，映射翻转接近 0.0。一个学习到的子空间在训练对内近乎完美地翻转 A 和 B，但在每个模型中转移到新对时约为 0，除了 Gemma-3-4B，它在其他语言中转移到相同对时约为 0.98。
+本文提出了一种支架介导的后训练方法，其中程序性支架被组织成可进化的图结构，通过发现、蒸馏和动态重编译与模型参数共同进化。在 FeatureBench 上，该方法将通过率提高了 8.1 个百分点，并且在渐进蒸馏后，模型在无外部支架的情况下仍保持 27.7%的通过率，蒸馏保留率为 85.2%。 该范式解决了参数训练与推理时支架之间的脱节问题，使得复杂策略的自动获取和内化成为可能。它可能对未来 LLM 的后训练方法产生重大影响，有望提高各种任务中的技能获取和保留能力。 该方法被实例化为“技能训练”，并在 FeatureBench 上进行了评估。渐进蒸馏步骤确保模型在没有外部支架的情况下仍能保留技能，与相同数据上的标准 SFT 相比，保留率达到 85.2%。
 
-rss · arXiv - NLP · Aug 6, 04:00
+rss · arXiv - NLP · Aug 7, 04:00
 
-**背景**: 激活修补是机械可解释性中用于测试内部激活与模型输出之间因果关系的一种技术，通过将一次运行中的激活替换为另一次运行中的激活。上下文学习（ICL）指的是模型根据提示中提供的示例或指令执行任务的能力，而无需更新其权重。本文研究了模型在 ICL 期间如何实现诸如“如果 P(x)则 A 否则 B”的条件规则。
+**背景**: 大型语言模型的后训练通常只优化参数，而推理时的程序性支架是独立设计的。本文提出将两者共同进化，使用图结构来组织支架。程序性支架是引导 LLM 推理的算法结构，而渐进蒸馏是一种在压缩模型的同时保留知识的技术。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2309.16042">[2309.16042] Towards Best Practices of Activation Patching in...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Mechanistic_interpretability">Mechanistic interpretability - Wikipedia</a></li>
+<li><a href="https://arxiv.org/abs/2608.05156">[2608.05156] Scaffold - Mediated Post - Training : Co-Evolving Model...</a></li>
+<li><a href="https://www.emergentmind.com/topics/cognitive-scaffolds">Cognitive Scaffolds</a></li>
+<li><a href="https://www.emergentmind.com/topics/progressive-knowledge-distillation-pkd">Progressive Knowledge Distillation</a></li>
 
 </ul>
 </details>
 
-**标签**: `#mechanistic interpretability`, `#language models`, `#activation patching`, `#in-context learning`, `#LLM internals`
+**标签**: `#LLM`, `#post-training`, `#procedural scaffolds`, `#skill learning`, `#arXiv`
 
 ---
 
 <a id="item-24"></a>
-## [LoRetta：面向全球遥感稠密匹配的基础模型](https://arxiv.org/abs/2608.04106) ⭐️ 8.0/10
+## [大语言模型通过去匿名化威胁双盲评审](https://arxiv.org/abs/2608.05157) ⭐️ 8.0/10
 
-LoRetta 是一个新的基础模型，将稠密图像匹配重新定义为定位与配准，并引入了 LEVIR-GM 基准，包含六大洲的 103K 对齐对和 827K 增强对。在 LEVIR-GM 上，LoRetta 的 AUC 达到 83.3%，比最强基线 RoMa v2 高出 1.6 个百分点，在 1 像素和 2 像素处的 PCK 分别提升 6.5 和 8.2 个百分点，同时推理延迟降低 47.8%。 这项工作解决了遥感领域的一个关键挑战：在具有大几何偏移和不可匹配区域的图像之间进行稠密匹配，这对于地理定位和变化检测等应用至关重要。通过提供基础模型和大规模基准，它树立了新标准，并推动了全球尺度遥感分析的进一步研究。 LEVIR-GM 基准包含多时相光学影像，分辨率从 0.5 米到 1024 米，覆盖五年和六大洲，并提供数据集原生的可匹配性标签。LoRetta 将可匹配性感知的仿射定位与引导式稠密配准相结合，其可迁移性在宇航员到卫星和无人机到卫星的地理定位实验中得到了验证。
+一篇新的 arXiv 论文（2608.05157）证明，大语言模型能比人类更有效地从标题和摘要中识别作者身份，即使在排除风格和文献线索的情况下也是如此。研究表明，LLM 能将置信度集中到从五位领域专家候选池中选出的少数可能作者上。 这一发现威胁到双盲同行评审的有效性，而双盲评审是学术出版中依赖匿名性来防止地位和隶属偏见的基石。随着 LLM 的普及，科学界必须重新考虑如何在 AI 增强的研究生态系统中维持公平和匿名性。 即使在排除风格和文献线索的情况下，这种脆弱性依然存在，表明问题框架和研究焦点中的稳定模式充当了作者身份的潜在概念签名。该研究使用了模型训练后发表的论文，表明 LLM 能够泛化到未见过的作者。
 
-rss · arXiv - Computer Vision · Aug 6, 04:00
+rss · arXiv - NLP · Aug 7, 04:00
 
-**背景**: 稠密图像匹配旨在找到图像之间的像素级对应关系，这是许多计算机视觉和摄影测量任务的基础。然而，遥感图像在采集时间、季节、视角和分辨率上往往存在差异，导致大的几何偏移和不可匹配区域，给传统稠密匹配方法带来挑战。基础模型在大规模数据集上预训练，已在各种视觉任务中展现出潜力，但其在遥感稠密匹配中的应用仍在发展中。
+**背景**: 双盲同行评审是一个作者和审稿人彼此匿名过程，旨在减少基于地位或隶属关系的偏见。传统上，作者身份可以通过引文网络或风格标记来推断，但 LLM 引入了一种更高效的去匿名化方法。这篇论文强调，即使没有显式线索，LLM 也能利用研究焦点中的潜在模式来识别作者，对评审过程的完整性构成重大挑战。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2509.08805">Handling Multiple Hypotheses in Coarse-to-Fine Dense Image ... Semi-dense feature matching with increased matching amount GitHub - PruneTruong/DenseMatching: Dense matching library ... Image Matching: Foundations, State of the Art, and Future ... GitHub - zhihao0512/dense-matching-image-stitching Seam estimation based on dense matching for parallax-tolerant ...</a></li>
-<li><a href="https://www.mdpi.com/2072-4292/17/2/179">When Remote Sensing Meets Foundation Model : A Survey and...</a></li>
-<li><a href="https://arxiv.org/pdf/2510.18318">Earth AI: Unlocking Geospatial Insights with Foundation Models and...</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8806370/">Double - Blind Reviews : A Step Toward Eliminating Unconscious Bias...</a></li>
+<li><a href="https://cypherpunkguide.com/en/privacy/ai-deanonymization/">AI Deanonymization : How Inference Undoes Your Anonymity (2026)</a></li>
+<li><a href="https://www.linkedin.com/posts/mohanvel_large-scale-online-deanonymization-with-llms-activity-7488738551363158016-jCKD">AI Shatters Online Anonymity with Large-Scale Deanonymization</a></li>
 
 </ul>
 </details>
 
-**标签**: `#remote sensing`, `#dense matching`, `#foundation model`, `#computer vision`, `#dataset`
+**标签**: `#LLM`, `#peer review`, `#anonymity`, `#academic integrity`, `#arXiv`
 
 ---
 
 <a id="item-25"></a>
-## [GEB-Bench：跨“声音”的抽象结构推理基准测试](https://arxiv.org/abs/2608.04111) ⭐️ 8.0/10
+## [电路锚定进化防止大语言模型安全漂移](https://arxiv.org/abs/2608.05158) ⭐️ 8.0/10
 
-GEB-Bench 是一个新基准，测试模型在自然场景、故事、数学和代码之间识别和迁移抽象结构母题（如自指或莫比乌斯扭转）的能力。它揭示了在十二个被评估模型中，声音内识别与跨声音映射之间存在一致的差距。 该基准提供了一种评估抽象结构推理的新方法，这是人类认知的关键方面，而 AI 模型往往难以应对。所有模型都需支付“跨声音税”的发现凸显了当前 AI 的根本局限，为未来研究指明了改进跨模态抽象的方向。 该基准完全生成式，并随其管道一起发布，将表面参数视为从不评分的干扰变量。错误与设计的正式几何结构比对感知几何结构更一致，且来自不同供应商的前沿模型在相同的错误答案上趋同。
+该论文提出了电路锚定进化（CAE）方法，该方法识别出由不到 2%的模型特征组成的安全电路，并在自我进化过程中将其锚定，限制其在一个小的位移范围内，同时允许其他特征自由进化。在三个模型家族和两种进化算法上的实验表明，CAE 在保持安全性方面优于显式基于奖励的约束，且能力损失最小。 这项工作解决了自进化大语言模型中的一个关键空白，即纯粹的能力优化可能导致模型“错误进化”为危险模型。通过借鉴生物发育约束，CAE 提供了一种新颖、可解释且高效的人工智能安全方法，有望被广泛采用，以确保语言模型的安全自我改进。 安全电路通过机制可解释性技术识别，锚定通过向进化损失中添加电路级 KL 约束来实现。该方法在三个模型家族和两种进化算法上进行了测试，与显式基于奖励的约束相比，表现出更优的安全保持性和效率。
 
-rss · arXiv - Computer Vision · Aug 6, 04:00
+rss · arXiv - NLP · Aug 7, 04:00
 
-**背景**: 抽象结构母题是如自指或怪圈等重复出现的模式，灵感来自《哥德尔、艾舍尔、巴赫》。GEB-Bench 以多种“声音”（如自然场景、民间故事、数学定理）呈现这些母题，并让模型识别和跨声音迁移它们。这测试了模型抽象掉表面细节并抓住底层结构的能力，这是人类推理的核心技能，但对 AI 来说具有挑战性。
+**背景**: 大型语言模型（LLM）的自我进化算法在优化能力时没有明确的安全约束，假设安全性会被保持。然而，这种假设可能是危险的错误，因为模型可能进化成强大但不安全的实体。在生物学中，发育约束使核心调控基因保持锚定，而外围基因适应变化，从而确保生存能力。CAE 将这一原理应用于 LLM，通过锚定安全关键电路，模仿 Hox 基因在进化过程中维持身体结构的作用。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/html/2608.04111v1">GEB - Bench : Abstract Structures Told in Many Voices</a></li>
-<li><a href="https://arxiv.org/pdf/2302.04599v1">Principled and Efﬁcient Motif Finding for Structure Learning ...</a></li>
-<li><a href="https://ojs.aaai.org/index.php/AAAI/article/view/26439">Principled and Efficient Motif Finding for Structure Learning ...</a></li>
+<li><a href="https://arxiv.org/html/2608.05158v1">Safe Evolution with Circuit Anchors</a></li>
+<li><a href="https://arxiv.org/abs/2608.05158">[2608.05158] Safe Evolution with Circuit Anchors</a></li>
+<li><a href="https://arxiv.org/pdf/2603.23268">SafeSeek: Universal Attribution of Safety Circuits in Language Models</a></li>
 
 </ul>
 </details>
 
-**标签**: `#benchmark`, `#AI evaluation`, `#abstract reasoning`, `#cross-modal`, `#machine learning`
+**标签**: `#AI safety`, `#LLM`, `#mechanistic interpretability`, `#evolutionary algorithms`
 
 ---
 
 <a id="item-26"></a>
-## [mmMind：基于姿态引导的雷达-语言模型用于人类行为理解](https://arxiv.org/abs/2608.04127) ⭐️ 8.0/10
+## [仇恨视觉故事：评估多轮文本到图像生成](https://arxiv.org/abs/2608.05210) ⭐️ 8.0/10
 
-研究人员提出了 mmMind，一种雷达-语言模型，利用同步的 3D 姿态作为仅训练时的监督信号，将毫米波雷达数据与大型语言模型（LLM）对齐。他们还发布了 mmMind-Bench，这是一个真实世界基准，包含来自 7 个室内环境中 23 名参与者的 17.9 小时录音。 这项工作通过使 LLM 智能体能够通过隐私友好、非接触的传感方式感知人类行为，解决了具身 AI 中的一个重大挑战。它提供了一个实用的基准，并证明了姿态引导的预训练能改善雷达-语言对齐，有望推动智能家居、辅助生活和人类-机器人交互等应用。 时空雷达编码器经过预训练以捕捉身体结构和运动动态，之后移除姿态头，使得推理时仅需雷达数据。实验表明，mmMind 在描述生成、问答和未见动作泛化方面持续优于现有雷达-语言基线，消融实验证实了姿态引导预训练的重要性。
+本文引入了 HatefulStoryPrompts 数据集，包含来自 55 个仇恨故事的 330 个多轮配置，并对五个前沿 T2I 模型进行了 4950 次尝试的评估，发现所有模型都能完成超过 80%的故事。文章还提出了主动和生成后防御措施，其中交互感知监控器的召回率最高可达 97.3%。 这项研究揭示了多轮视觉故事生成中的一个关键安全漏洞，即前沿模型可以大规模生成仇恨叙事。它强调了安全机制需要从单图像审核演变为对交互和图像关系的状态化推理。 该研究使用了人工标注的数据集 HatefulVisualStory，包含 969 个仇恨图像集和 990 个良性对照组。现有审核系统的召回率较低（专用安全模型最高 34.9%，强视觉语言模型 67.5%），而提出的生成后方法召回率达到 80.2%。
 
-rss · arXiv - Computer Vision · Aug 6, 04:00
+rss · arXiv - Computer Vision · Aug 7, 04:00
 
-**背景**: 毫米波（mmWave）雷达是一种非接触式传感技术，工作频率在 30-300 GHz 范围内，能够检测物体、运动和生理信号，且对光照和天气条件具有鲁棒性。现有的雷达-语言模型通常依赖合成数据或缺乏对人体结构的显式监督，使得与语言的对齐变得困难。这项工作利用 3D 姿态作为结构化的中间表示，以弥合原始雷达信号与语义语言理解之间的鸿沟。
+**背景**: 文本到图像（T2I）系统如 Gemini 和 GPT-Image 现在支持多轮生成，具有一致的字符和场景，从而能够创建连贯的视觉故事。历史上，仇恨叙事曾通过图画书传播，如纳粹宣传儿童读物《Der Giftpilz》，凸显了滥用的可能性。本文探讨了多轮视觉故事中群体级仇恨意义这一未被探索的领域。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/html/2608.04127v1">Teaching Foundation Models to Read mmWave: Pose-Guided ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Mmwave_sensing">mmWave sensing - Wikipedia</a></li>
-<li><a href="https://inowlzy.github.io/RadarLLM/">RadarLLM: Empowering Large Language Models to Understand ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Der_Giftpilz">Der Giftpilz - Wikipedia</a></li>
+<li><a href="https://arxiv.org/abs/2608.05210">[2608.05210] Innocent Panels, Hateful Stories : Evaluating and...</a></li>
+<li><a href="https://papers.cool/arxiv/2608.05210">Innocent Panels, Hateful Stories : Evaluating and Detecting Hateful ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#mmWave radar`, `#language model`, `#human behavior understanding`, `#pose-guided representation`, `#embodied AI`
+**标签**: `#AI safety`, `#text-to-image`, `#hateful content`, `#multi-turn generation`, `#dataset`
 
 ---
 
 <a id="item-27"></a>
-## [RUTA：通过率-效用优化实现原则性视觉令牌分配](https://arxiv.org/abs/2608.04132) ⭐️ 8.0/10
+## [深度广义混合模型：一种用于层次数据的新型神经网络](https://arxiv.org/abs/2608.05930) ⭐️ 8.0/10
 
-RUTA 提出了一种在视觉语言模型中进行视觉令牌分配的原则性方法，联合学习保留哪些令牌以及为每个图像-查询对分配多少令牌。它利用查询条件候选令牌和可微分的伯努利门来优化率-效用目标，在显著减少令牌的同时保持任务性能。 这项工作通过减少长视觉令牌序列带来的计算和内存成本，解决了视觉语言模型效率的关键瓶颈。它有望实现多模态 AI 系统更高效的部署，特别是对于高分辨率图像和长视频。 在五个基准测试中，RUTA 在 LLaVA-NeXT-7B 和 Qwen3-VL-8B 上分别仅使用 2.0%和 4.2%的视觉令牌，同时保留了 88.2%和 94.4%的任务性能。该方法构建查询条件候选令牌，并使用基于锚点的聚合来组合保留和未保留的令牌。
+本文提出了深度广义混合模型（DGMM），这是一种将混合效应模型扩展到深度学习的新型神经网络架构，能够对均值和相关结构进行半参数和灵活建模。它采用变分自编码器的改编和贝叶斯数据增强算法来处理随机缺失数据和高维设置。 DGMM 弥合了传统统计建模与深度学习之间的鸿沟，为分析层次纵向数据（如经验采样法（ESM）数据）提供了一种可扩展的解决方案。这可能对心理学和流行病学等领域产生重大影响，因为在存在缺失数据时，标准机器学习方法往往无法提供有效的推断。 该模型能够处理遵循一般分布的纵向结果，并能很好地扩展到高维设置。然而，作者报告称，在应用于 GrowIt! 研究和模拟时，由于模型不稳定性，性能未达到最优。
 
-rss · arXiv - Computer Vision · Aug 6, 04:00
+rss · arXiv - Data Science & Statistics · Aug 7, 04:00
 
-**背景**: 视觉语言模型（VLM）通过将高分辨率图像和长视频转换为长序列的视觉令牌，然后输入大型语言模型（LLM）进行处理。这导致高昂的计算和内存成本。现有的令牌缩减方法通常使用固定的缩减率或启发式重要性预测器，缺乏原则性的优化框架。RUTA 将令牌缩减问题表述为率-效用优化问题，在令牌使用和任务性能之间取得平衡。
+**背景**: 经验采样法（ESM）是一种纵向研究设计，参与者在一天内多次报告他们的想法、情绪和行为，通常是在自然环境中。混合效应模型是包含固定效应和随机效应的统计模型，适用于对同一受试者进行重复测量的情况。随机缺失（MAR）数据是指缺失概率与观测值相关但与缺失值本身无关的数据，标准机器学习程序无法处理这种情况。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/html/2608.04132v1">RUTA: Principled Visual Token Allocation via Rate-Utility ...</a></li>
-<li><a href="https://academ.us/article/2608.04132/">[2608.04132] RUTA: Principled Visual Token Allocation via ...</a></li>
-<li><a href="https://chatpaper.com/zh-CN/chatpaper/paper/318241">RUTA: Principled Visual Token Allocation via Rate-Utility ...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Mixed_effects_models">Mixed effects models</a></li>
+<li><a href="https://www.theanalysisfactor.com/missing-data-mechanism/">How to Diagnose the Missing Data Mechanism - The Analysis Factor</a></li>
+<li><a href="https://research.rug.nl/en/publications/so-you-want-to-do-esm-10-essential-topics-for-implementing-the-ex/">So You Want to Do ESM ? 10 Essential Topics for Implementing the...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#vision-language models`, `#token reduction`, `#efficiency`, `#multimodal`, `#deep learning`
+**标签**: `#deep learning`, `#mixed effects models`, `#hierarchical data`, `#missing data`, `#longitudinal analysis`
 
 ---
 
 <a id="item-28"></a>
-## [通过统计学习理论与奥卡姆剃刀为正则化提供辩护](https://arxiv.org/abs/2608.04049) ⭐️ 8.0/10
+## [局部化共形预测的有限样本保证](https://arxiv.org/abs/2608.06206) ⭐️ 8.0/10
 
-本文提出了一种基于统计学习理论的手段-目的辩护，将正则化视为奥卡姆剃刀的一种形式。它认为，为了获得理论可靠性和所见即所得的保证，必须实现一种偏好简单而非拟合的倾向。 这为正则化提供了新的理论基础，连接了科学哲学与机器学习。它可能影响从业者如何证明模型复杂度选择的合理性，并加深对归纳偏差的理解。 该论证建立在早期的“核心论证”之上，并避免沦为纯粹实用主义或本体论的辩护。它强调对简单的偏好是一种方法论上的必要性，而非假设真理是简单的。
+本文针对随机局部化共形预测（RLCP）提出了有限样本的高概率界，在 Hölder 正则性和标准假设下，联合控制条件覆盖率和预言机效率。 这些保证解决了边际有效性的关键局限，为 RLCP 的实际优势提供了理论依据。在条件覆盖率至关重要的高风险应用中，这可提高机器学习模型的可靠性。 这些界分解为 O(h^β)的局部化偏差和随校准规模减小的校准项，阐明了带宽的偏差-方差权衡。对于数据分割学习得分，均匀局部保证分解为固定得分校准和均匀得分估计误差。
 
-rss · arXiv - Data Science & Statistics · Aug 6, 04:00
+rss · arXiv - Data Science & Statistics · Aug 7, 04:00
 
-**背景**: 统计学习理论是分析学习算法的数学框架，关注泛化误差。正则化是一种通过惩罚模型复杂度来防止过拟合的技术，通常与奥卡姆剃刀（偏好更简单解释）相关联。本文将这些概念联系起来，为正则化提供了形式化的辩护。
+**背景**: 共形预测为任意黑盒预测器提供无分布、有限样本的边际覆盖率，但边际有效性可能隐藏严重的协变量特定校准误差。随机局部化共形预测（RLCP）在测试点附近进行校准，以改善条件覆盖率同时保持边际有效性，但现有理论缺乏对实际局部化集合的有限样本保证。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Statistical_learning_theory">Statistical learning theory</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Regularization_(machine_learning)">Regularization (machine learning)</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Occam_Learning">Occam learning - Wikipedia</a></li>
+<li><a href="https://arxiv.org/html/2310.07850">Conformal prediction with local weights: randomization enables...</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Conformal_prediction">Conformal prediction - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Hölder_condition">Hölder condition - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#statistical learning theory`, `#regularization`, `#Occam's razor`, `#machine learning theory`, `#philosophy of science`
+**标签**: `#conformal prediction`, `#uncertainty quantification`, `#finite-sample guarantees`, `#machine learning theory`
 
 ---
 
 <a id="item-29"></a>
-## [AutoSI 自动化理性表达算法的选择性推断](https://arxiv.org/abs/2608.04667) ⭐️ 8.0/10
+## [早停梯度下降实现极小极大最优分类](https://arxiv.org/abs/2608.06250) ⭐️ 8.0/10
 
-AutoSI 从算法代码自动构建选择性推断的选择事件，消除了手动推导，并扩展了精确 SI 可行的算法类别。 该框架显著拓宽了精确选择性推断的适用范围，为更广泛的数据驱动假设检验（包括具有交叉验证调参的 lasso 等特征选择方法）提供了有效的 p 值。 AutoSI 涵盖任何可通过数据的有理函数（多项式之比）表达的算法，超越了现有的线性或二次不等式约束。它证明了 p 值的有限样本精确有效性，并在三种特征选择方法上进行了演示，其中包括一种以前无法通过精确 SI 处理的方法。
+本文证明，在具有标签翻转噪声的高斯混合模型中，对逻辑损失进行早停的梯度下降（GD）实现了极小极大最优的过量零一风险，克服了最大间隔分类器的次优性。论文提供了上下界，并通过实验验证。 该结果为早停作为过参数化分类中的正则化技术提供了理论基础，表明其可以达到统计最优。它解决了关于隐式偏差的基本问题，并可能影响优化和统计学习理论的未来研究。 该分析将早停迭代的尖锐上界与任意分类器的匹配统计下界相结合，为快速且连续衰减的协方差谱（如多项式和指数衰减）提供了最优速率。一个核心技术贡献是新的校准结果，将过量逻辑风险转换为过量零一风险，消除了标准界限中的平方根速率。
 
-rss · arXiv - Data Science & Statistics · Aug 6, 04:00
+rss · arXiv - Data Science & Statistics · Aug 7, 04:00
 
-**背景**: 选择性推断（SI）在假设是从用于测试的同一数据中选择时提供统计上有效的 p 值，从而纠正选择偏差。传统上，为新算法推导选择事件需要专家手动操作，将精确 SI 限制在狭窄的类别中。AutoSI 通过跟踪数组操作并自动构建选择事件来自动化此过程。
+**背景**: 在过参数化分类中，即使底层分布不可分，训练数据也可能线性可分，导致逻辑损失的梯度下降在范数上发散，而在方向上收敛到最大间隔插值分类器。这种隐式偏差可能在统计上不是最优的。早停是防止过拟合的常见做法，但在此设置下其理论最优性此前尚未被充分理解。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/html/2608.04667v1">Automatic Statistical Test for Rationally Expressible ...</a></li>
-<li><a href="https://github.com/tkatsuoka/autosi/blob/main/README.md">autosi/README.md at main · tkatsuoka/autosi · GitHub</a></li>
-<li><a href="https://www.pnas.org/doi/10.1073/pnas.1507583112">Statistical learning and selective inference - PNAS</a></li>
+<li><a href="https://arxiv.org/html/2608.06250v1">Minimax Optimal Early-Stopped Gradient Descent for Gaussian ...</a></li>
+<li><a href="https://www.stat.berkeley.edu/~bartlett/talks/202508Cargese.pdf">Gradient optimization methods: large step-sizes and implicit bias</a></li>
+<li><a href="https://blog.ml.cmu.edu/2019/03/07/a-continuous-time-view-of-early-stopping-for-least-squares/">A Continuous-Time View of Early Stopping for Least Squares...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#selective inference`, `#statistical testing`, `#feature selection`, `#automation`, `#arXiv`
+**标签**: `#optimization`, `#statistical learning theory`, `#gradient descent`, `#classification`, `#early stopping`
 
 ---
 
 <a id="item-30"></a>
-## [ILDM：在未知流形上进行混合扩散的生成建模](https://arxiv.org/abs/2608.04827) ⭐️ 8.0/10
+## [单调对手学习中的对数代价是固有的](https://arxiv.org/abs/2608.06337) ⭐️ 8.0/10
 
-该论文提出了内在混合潜扩散模型（ILDM），将潜空间视为未知黎曼流形的一个坐标图，并采用基于局部不确定性在黎曼与欧几里得动力学之间切换的混合扩散过程。在 COIL-100、MNIST 和心脏 MRI 数据集上的实验表明，与标准扩散模型和潜扩散模型相比，ILDM 获得了更低的 FID 和 LPIPS 分数。 这项工作通过引入几何结构，解决了现有潜扩散模型的一个关键局限，在数据稀疏场景下尤其有益。它可能激发将流形学习与扩散模型相结合的新方法，有望改进复杂高维数据的生成建模。 ILDM 使用概率解码器来量化几何和不确定性，前向过程是一种混合扩散，根据局部不确定性在黎曼和欧几里得动力学之间切换。作者提出了一种针对混合设置的近似去噪分数匹配方法，使得由混合朗之万动力学定义的反向过程成为可能。
+本文解决了一个开放问题，证明了在单调对手学习中，对于 VC 维大于 1 的类别，额外的对数因子是固有的。极小极大期望误差在 d=1 时为Θ(1/n)，在 d≥2 时为Θ((d/n)log(n/d))，与经验风险最小化的上界匹配。 这一结果确立了对抗性学习中的一个基本限制，表明即使是正确标记的对抗性插入也会固有地将样本复杂度增加一个对数因子。它影响了学习算法的设计，并加深了我们对非可交换环境中极小极大率的理解。 下界来自一个单一的显式构造：一个类别和先验，其中两个在非可忽略质量点上不同的目标假设产生相同的样本。一维上界由一个简单的非适当学习器实现，该学习器改编了一包含图（one-inclusion graph）中的留一论证。
 
-rss · arXiv - Data Science & Statistics · Aug 6, 04:00
+rss · arXiv - Data Science & Statistics · Aug 7, 04:00
 
-**背景**: 扩散模型（DM）通过迭代添加和去除噪声来生成数据，但通常需要大型数据集且忽略内在几何结构。潜扩散模型（LDM）在压缩的潜空间中执行扩散，但通常假设欧几里得结构，这可能无法捕捉潜在的流形几何。黎曼流形是定义了距离和曲率等概念的几何空间，能更好地表示数据的内在结构。
+**背景**: 在单调对手模型中，对手观察一个 i.i.d.标记样本，并附加有限数量的正确标记示例。学习器看到组合样本的均匀洗牌，但插入依赖于干净样本，破坏了可交换性。VC 维衡量假设类的复杂度，标准 PAC 学习率为Θ(d/n)。本文表明，对于 d≥2，对数因子是不可避免的，即使对于具有有限 Littlestone 维的类别也是如此。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Latent_diffusion_model">Latent diffusion model</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Riemannian_manifold">Riemannian manifold</a></li>
+<li><a href="https://arxiv.org/html/2601.02193v1">Learning with Monotone Adversarial Corruptions</a></li>
+<li><a href="https://www.emergentmind.com/topics/monotone-adversarial-corruption-model">Monotone Adversarial Corruption Model</a></li>
 
 </ul>
 </details>
 
-**标签**: `#diffusion models`, `#generative modeling`, `#Riemannian geometry`, `#latent space`, `#manifold learning`
+**标签**: `#learning theory`, `#adversarial learning`, `#VC dimension`, `#statistical learning`
 
 ---
 
 <a id="item-31"></a>
-## [稳定密度脊：修正 SCMS 收敛理论](https://arxiv.org/abs/2608.05112) ⭐️ 8.0/10
+## [可扩展的 VARMA 估计框架消除对序列长度的依赖](https://arxiv.org/abs/2608.06340) ⭐️ 8.0/10
 
-本文否定了长期以来的假设，即子空间约束均值漂移（SCMS）轨迹收敛于经典密度脊，并提出了基于动力系统的新“稳定脊”概念，证明其才是 SCMS 算法的真正理论目标。 这一修正对非参数密度估计和拓扑数据分析具有重要意义，因为它为 SCMS 及相关算法提供了正确的理论基础，可能在高维数据应用中实现更准确的脊提取。 本文开发了具有恒定步长的广义 SCMS 框架，证明了在稳定脊上的均匀 R 线性收敛和拓扑满射性。同时指出原始 SCMS 因步长与带宽隐式耦合而具有多项式时间复杂度，而新框架在统计上一致且更高效。
+一种新的 VARMA 模型估计框架使每次优化迭代与序列长度 T 无关，利用偏自相关重参数化和基于傅里叶的充分统计量。它提供了两种点估计器，并扩展到季节性、外生变量和滚动窗口设置。 这消除了长期存在的计算障碍，该障碍使 VARMA 模型在中等维度以上不实用，可能促使从业者从 VAR 转向更具表达力的 VARMA 模型。它可能提高计量经济学、金融和环境科学等领域的预测准确性。 该框架通过构造保证平稳性和可逆性，使用对角和非对角项具有不同尺度的高斯先验，并通过 Parseval 恒等式以近线性成本评估损失。实验表明，在 d=10 到 d=40 范围内，它接近 oracle 预测误差，而经典条件 MLE 在此范围内失败。
 
-rss · arXiv - Data Science & Statistics · Aug 6, 04:00
+rss · arXiv - Data Science & Statistics · Aug 7, 04:00
 
-**背景**: SCMS 是一种基于梯度的算法，用于提取密度脊，即高维数据中的低维结构。经典的“静态脊”通过密度梯度和 Hessian 特征向量定义，但本文表明它未能考虑特征空间的旋转，从而引入了来自动力系统的“稳定脊”概念。
+**背景**: VARMA 模型结合了向量自回归和移动平均项，用比纯 VAR 更少的参数捕捉动态，但其似然函数非凸且仅在等价类下可识别，使得估计成本高昂。偏自相关重参数化确保稳定性，而 Parseval 恒等式将时域能量与频域能量联系起来，从而实现固定大小的充分统计量。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2608.05112">[2608.05112] Stable Density Ridges: Consistency and ...</a></li>
-<li><a href="https://arxiv.org/abs/2104.14977">Linear Convergence of the Subspace Constrained Mean Shift ...</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Stability_theory">Stability theory - Wikipedia</a></li>
+<li><a href="https://arxiv.org/abs/2608.06340">[2608.06340] Scalable estimation of VARMA models</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Parseval's_identity">Parseval 's identity - Wikipedia</a></li>
 
 </ul>
 </details>
 
-**标签**: `#density ridge`, `#SCMS`, `#nonparametric statistics`, `#dynamical systems`, `#theoretical computer science`
+**标签**: `#VARMA`, `#time series`, `#scalable estimation`, `#Bayesian inference`, `#Fourier methods`
 
 ---
 
 <a id="item-32"></a>
-## [新理论将熵与拓扑联系起来解释深度学习泛化](https://arxiv.org/abs/2606.30512) ⭐️ 8.0/10
+## [FlowAdam：融合软动量注入的混合优化器](https://arxiv.org/abs/2604.06652) ⭐️ 8.0/10
 
-本文提出了一个统一的理论框架，结合信息论、拓扑学和统计力学来解释过参数化深度网络为何能良好泛化。它提出了熵可学习性视界（ELH），证明了香农-拓扑瓶颈定理，并介绍了一种名为熵梯度下降（EGD）的新优化算法。 这项工作解决了深度学习理论中的一个基本开放问题，可能弥合理论预测与实证成功之间的差距。它可能影响未来关于泛化、优化和学习算法设计的研究。 ELH 指出，只有当数据流形的香农熵超过决策边界的拓扑熵，并由权重的冯·诺依曼熵平衡时，网络才能学习目标函数。论文还将“顿悟”（grokking）解释为“熵释放”，并引入 EGD 来动态管理权重熵。
+FlowAdam 是一种新的优化器，它通过常微分方程（ODE）将连续梯度流集成到 Adam 中，并引入软动量注入，在模式转换期间将 ODE 速度与 Adam 的动量混合，从而防止训练崩溃。 这解决了 Adam 在对角预条件在耦合参数空间中的已知局限性，通过隐式正则化改善了矩阵分解、张量分解和图神经网络上的泛化能力。它可能影响未来针对病态问题的优化器设计。 当基于 EMA 的统计量检测到地形困难时，FlowAdam 会切换到裁剪的 ODE 积分。消融研究表明软注入至关重要，因为硬替换会将准确率从 100% 降至 82.5%。
 
-rss · arXiv - Data Science & Statistics · Aug 6, 04:00
+rss · arXiv - Data Science & Statistics · Aug 7, 04:00
 
-**背景**: 经典学习理论，如 VC 维和 Rademacher 复杂度，通常预测现代过参数化模型会过拟合，这与实证成功相矛盾。本文利用信息论（香农熵）、拓扑学（拓扑熵）和统计力学（冯·诺依曼熵、相变）的概念，提出了一种新的理论视角。
+**背景**: Adam 使用基于梯度平方指数移动平均的对角预条件器，这依赖于坐标系，并且在处理密集或旋转的参数耦合时表现不佳。隐式正则化是指优化动态在没有显式正则化项的情况下将解偏向更简单结构的现象。FlowAdam 将 Adam 与基于 ODE 的梯度流相结合，以提供隐式正则化并防止训练崩溃。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/pdf/2606.30512v1">Informational Frustration in Neural Manifolds: Shannon ...</a></li>
-<li><a href="https://www.emergentmind.com/papers/2606.30512">Informational Frustration in Neural Manifolds: Shannon ...</a></li>
-<li><a href="https://www.aimodels.fyi/papers/arxiv/informational-frustration-neural-manifolds-shannon-bottlenecks-limits">Informational Frustration in Neural Manifolds: Shannon ...</a></li>
+<li><a href="https://arxiv.org/html/2604.06652v1">FlowAdam : Implicit Regularization via Geometry-Aware Soft...</a></li>
+<li><a href="https://github.com/idevender/flowadam">GitHub - idevender/ flowadam : FlowAdam : Implicit Regularization via...</a></li>
+<li><a href="https://arxiv.org/pdf/2604.06652">FlowAdam: Implicit Regularization via Geometry-Aware Soft ...</a></li>
 
 </ul>
 </details>
 
-**标签**: `#deep learning theory`, `#generalization`, `#information theory`, `#topology`, `#statistical mechanics`
+**标签**: `#optimization`, `#deep learning`, `#Adam`, `#ODE`, `#regularization`
 
 ---
 
 <a id="item-33"></a>
-## [学习作为乘积 Wasserstein 流形上的梯度流](https://arxiv.org/abs/2608.01434) ⭐️ 8.0/10
+## [阻断 SLC6A20 改善成年小鼠和类器官的自闭症行为](https://www.sciencedaily.com/releases/2026/08/260805082508.htm) ⭐️ 8.0/10
 
-本文提出将深度神经网络和变分量子电路视为乘积 Wasserstein 流形上的梯度流，将分布约束重新定义为内在几何而非容量限制。文中引入了两种算法，Hierarchical DisCo-SGD 和 Quantum DisCo，它们在这些流形上沿近似测地线行进。 该框架可能为深度学习和量子机器学习提供新的理论见解，有望改善泛化能力和训练稳定性，并缓解量子电路中的贫瘠高原问题。它可能影响未来将结构约束作为几何先验融入学习系统的研究。 论文为深度网络开发了层次平均场描述，并使用一阶量子 Wasserstein 距离将框架扩展到量子设置。在教师-学生问题、图像分类和变分量子分类器上的实验表明，与基线相比，泛化能力、训练稳定性有所提高，贫瘠高原问题有所减轻。
+一项新研究发现，阻断甘氨酸转运体 SLC6A20 可恢复大脑信号传导，并改善成年自闭症小鼠模型中的社交、交流和重复行为，同时在人类大脑类器官中也显示出效果。 这挑战了长期以来认为自闭症相关的大脑变化在成年后不可逆的假设，表明成年大脑可能仍然可治疗。这可能为目前治疗选择有限的成年自闭症患者开辟新的治疗途径。 该研究特别针对 SLC6A20，这是一种已知调节甘氨酸（NMDA 受体的共激动剂）的转运体。治疗在成年小鼠中显示出持久效果，并且使用人类大脑类器官表明其具有潜在的转化相关性，但这只是一项研究，尚未成为临床突破。
 
-rss · arXiv - Data Science & Statistics · Aug 6, 04:00
+rss · ScienceDaily Health · Aug 7, 12:38
 
-**背景**: Wasserstein 空间是配备 Wasserstein 距离的概率测度度量空间，已在最优传输和机器学习中使用。Wasserstein 空间中的梯度流描述了概率密度在泛函下的演化，并因其几何性质而被研究。变分量子电路是用于混合量子-经典算法的参数化量子电路，其优化可能遭受贫瘠高原问题。
+**背景**: 自闭症谱系障碍（ASD）是一种神经发育障碍，以社交和沟通缺陷以及重复行为为特征。SLC6A20 是一种钠/亚氨基酸转运体，也转运甘氨酸，而甘氨酸在 NMDA 受体功能中发挥作用。大脑类器官是由人类干细胞培养出的微型大脑模型，用于在人类背景下研究大脑发育和疾病。
 
 <details><summary>参考链接</summary>
 <ul>
-<li><a href="https://arxiv.org/abs/2311.08549">[2311.08549] Manifold learning in Wasserstein space - arXiv.org MANIFOLD LEARNING IN WASSERSTEIN SPACE∗ - arXiv.org Some Geometric Calculations on Wasserstein Space Manifold Learning in Wasserstein Space | SIAM Journal on ... proof that the wasserstein space is no manifold Geometry on the Wasserstein space over a compact Riemannian ... Sliced-Wasserstein Distances and Flows on Cartan-Hadamard ...</a></li>
-<li><a href="https://lslsliushu.github.io/files/WGFs_on_generative_model_slides.pdf">Wasserstein gradient flows on the push-forward generative model</a></li>
-<li><a href="https://grokipedia.com/page/Parameterized_quantum_circuit">Parameterized quantum circuit</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SLC6A20">SLC 6 A 20 - Wikipedia</a></li>
+<li><a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7863395/">SLC 6 A 20 transporter : a novel regulator of brain glycine homeostasis...</a></li>
+<li><a href="https://www.livescience.com/minibrains-brain-organoids-explained">Cerebral organoids : What are lab-grown 'minibrains'? | Live Science</a></li>
 
 </ul>
 </details>
 
-**标签**: `#statistical mechanics`, `#Wasserstein manifolds`, `#deep learning theory`, `#quantum circuits`, `#gradient flows`
-
----
-
-<a id="item-34"></a>
-## [审计阿尔茨海默病预测中符合预测的子群覆盖不足](https://arxiv.org/abs/2608.04254) ⭐️ 8.0/10
-
-本文提出了一种机制驱动的框架，用于审计和修复阿尔茨海默病纵向预测中符合预测的子群覆盖不足问题。在两个队列（ADNI、OASIS-3）、两个基础预测器和九个属性中，他们发现尽管名义边际覆盖达到目标，但在 68 个审计组合中有 57 个高风险子群被覆盖不足。 这项工作凸显了医疗 AI 中的一个关键公平性问题：人口层面的符合保证可能掩盖高风险子群的严重覆盖不足，可能导致不可靠的临床决策。所提出的审计和修正方法为医疗应用中更公平、更可信的不确定性量化提供了途径。 失败归因于两种机制：稀有性，即基于 n 名患者校准的组条件带最多覆盖 k/(n+1)；以及重尾性，即人口范围的带对于重尾子群过窄。修正方法包括针对稀有性的交叉符合池化、针对重尾性的逐子群校准，以及当两者同时出现时的覆盖安全边际下限，这些方法几乎恢复了所有高风险子群的目标覆盖。
-
-rss · arXiv - Data Science & Statistics · Aug 6, 04:00
-
-**背景**: 符合预测是一种无分布方法，在可交换性假设下提供有限样本边际覆盖保证，即预测区间平均以指定概率包含真实结果。然而，这些保证是边际的，可能不适用于特定子群，这在临床环境中尤其成问题，因为高风险患者需要可靠的不确定性估计。本文通过审计和修正阿尔茨海默病预测中的子群覆盖不足来解决这一差距。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://arxiv.org/html/2608.04254">When Is a Conformal Guarantee Fair? Auditing Silent Subgroup ...</a></li>
-<li><a href="https://arxiv.org/abs/2305.12616">[2305.12616] Conformal Prediction With Conditional Guarantees Conformal prediction with conditional guarantees | Journal of ... A Tutorial on Distribution-Free Uncertainty Quantification ... Sample-Conditional Coverage in Conformal Prediction Conformal prediction with local weights: randomization ... Conformal Prediction With Conditional Guarantees</a></li>
-<li><a href="https://academic.oup.com/jrsssb/article/87/4/1100/8058684">Conformal prediction with conditional guarantees | Journal of ...</a></li>
-
-</ul>
-</details>
-
-**标签**: `#conformal prediction`, `#fairness`, `#Alzheimer's disease`, `#medical AI`, `#subgroup coverage`
-
----
-
-<a id="item-35"></a>
-## [多级多校准的匹配样本复杂度界](https://arxiv.org/abs/2608.04288) ⭐️ 8.0/10
-
-本文为多级属性的多校准建立了匹配的样本复杂度上下界，将先前工作推广到可识别属性序列。对于每个固定的 k≥2，即使在多对数个二元组下，达到多校准误差ε也需要Ω~(ε^{-(k+2)})个样本；同时，对于任何有限组族 G，给出了使用 O(ε^{-(k+2)} + ε^{-2} log|G|)个样本的随机学习器。 该结果解决了算法公平性和校准理论中的一个开放问题，提供了严格的样本复杂度界，为可靠预测器的设计提供指导。它将多校准扩展到方差、偏度等多级属性，这些属性在许多预测任务中至关重要，并可能影响未来公平机器学习的研究。 该框架包含贝叶斯对，但不要求属性来自单一损失。论文将理论应用于三个典型例子，并在正则条件下成立，省略了对数因子。
-
-rss · arXiv - Data Science & Statistics · Aug 6, 04:00
-
-**背景**: 校准要求预测器在以其自身预测为条件后是无偏的，而多校准将此保证扩展到一组组。学习理论中的样本复杂度衡量达到一定精度所需的训练样本数量。可识别属性是指在前序属性固定后可以唯一确定的属性，例如相对于均值的方差。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://arxiv.org/abs/2608.04288">[2608.04288] Sample Complexity of Multicalibration for ...</a></li>
-<li><a href="https://proceedings.mlr.press/v80/hebert-johnson18a.html">Multicalibration: Calibration for the (Computationally ... - PMLR</a></li>
-
-</ul>
-</details>
-
-**标签**: `#multicalibration`, `#sample complexity`, `#algorithmic fairness`, `#calibration`, `#theory`
-
----
-
-<a id="item-36"></a>
-## [ArborEnum：首个支持连续特征的决策树 Rashomon 集合精确枚举算法](https://arxiv.org/abs/2608.04310) ⭐️ 8.0/10
-
-ArborEnum 提出了首个直接处理连续特征、无需二值化的决策树 Rashomon 集合精确枚举算法。它还提供了用于近似枚举的松弛方法，以及一种逐步细化候选阈值的任意时间算法。 这项工作解决了可解释机器学习中的一个关键限制，使得对模型鲁棒性、特征重要性和预测多样性的分析更加完整和准确。它可能显著提高实际应用中模型选择和公平性评估的可靠性。 该算法利用连续特征的有序结构，避免了二值化带来的复杂度爆炸。实验表明，粗糙的二值化可能会遗漏许多树和重要特征，而 ArborEnum 比现有方法实现了数量级的加速，近似方法在保持近乎完美的召回率的同时进一步加速。
-
-rss · arXiv - Data Science & Statistics · Aug 6, 04:00
-
-**背景**: 机器学习中的 Rashomon 效应指的是在同一任务上许多模型达到相似性能的现象。决策树是少数可以完全枚举 Rashomon 集合的模型类别之一，但以往的方法需要对连续特征进行二值化，这要么限制了分割，要么增加了复杂度。ArborEnum 通过直接处理连续特征克服了这一点。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://arxiv.org/html/2608.04310">ArborEnum: Decision Tree Rashomon Sets over Continuous Features</a></li>
-<li><a href="https://www.emergentmind.com/topics/rashomon-effect">Rashomon Effect in Machine Learning</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Decision_tree_learning">Decision tree learning - Wikipedia</a></li>
-
-</ul>
-</details>
-
-**标签**: `#decision trees`, `#Rashomon sets`, `#interpretable machine learning`, `#algorithm`, `#continuous features`
-
----
-
-<a id="item-37"></a>
-## [AI 设计出 16 种功能性病毒，引发安全担忧](https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss) ⭐️ 8.0/10
-
-斯坦福大学的研究人员使用 AI 基因组语言模型设计了 16 种合成噬菌体，这些噬菌体功能完整，能在实验室中复制。AI 模型基于病毒、细菌、植物和人类的遗传密码进行训练，并以天然ΦX174 噬菌体为模板创建了这些病毒。 这一突破展示了 AI 在基因工程中的潜力，但也引发了紧迫的安全和安保担忧。它可能加速合成生物学研究，但从头设计可行病毒的能力带来了需要应对的生物安全风险。 AI 模型在 14,266 个微小病毒科基因组上进行了微调，设计过程涉及多步计算和实验筛选。在实验室测试中，AI 设计的病毒混合物杀死了对天然噬菌体具有耐药性的大肠杆菌。
-
-rss · BBC Health · Aug 6, 18:01
-
-**背景**: 噬菌体是感染细菌的病毒，正被探索作为抗生素的替代品。基因组语言模型是 GPT-4 等大型语言模型在遗传学上的对应物，它们从大量数据中学习模式。这项工作建立在 AI 在生物学中的先前应用（如设计新抗生素）之上，但从头设计可行病毒要复杂得多。
-
-<details><summary>参考链接</summary>
-<ul>
-<li><a href="https://www.bbc.com/news/articles/c5y3j3ngevmo">Artificial Intelligence used to design brand new viruses - BBC</a></li>
-<li><a href="https://www.theguardian.com/science/2026/aug/06/safety-fears-as-scientists-make-first-viruses-designed-by-ai">Safety fears as scientists make first viruses designed by AI | Science</a></li>
-<li><a href="https://www.science.org/doi/10.1126/science.aej8512">AI-designed viral genomes | Science</a></li>
-
-</ul>
-</details>
-
-**标签**: `#AI`, `#synthetic biology`, `#genetic engineering`, `#biotech`
+**标签**: `#autism`, `#neuroscience`, `#SLC6A20`, `#brain organoids`, `#therapy`
 
 ---
